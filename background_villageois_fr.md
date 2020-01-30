@@ -1,23 +1,28 @@
 
 <!--BackgroundItem-->
 
-> <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Historique](backgrounds_fr.md)<!--/ParentNameLink-->
 
 ---
 
 # <!--Name-->Villageois<!--/Name-->
 
+- Alias: <!--AltName-->[Villager](background_villageois_en.md) (RPG p54)<!--/AltName-->
+- Source: <!--Source-->(JDR p55)<!--/Source-->
+
 <!--Description-->
 
-Vous êtes issu du peuple. Votre famille n'a jamais rien eu d'extraordinaire. Vous avez appris à travailler la terre dès votre plus jeune âge, en même temps que le respect du travail et de l'effort. Vous étiez de ceux que l'on ne remarque jamais, mais qui forment la majeure partie du peuple. Vous avez grandi dans un de ces petits villages ou hameaux, et connaissez la valeur de la communauté et de la solidarité. Vous savez que c'est en s'entraidant que l'on vient à bout des épreuves les plus difficiles, qu'il s'agisse de lutter contre le froid, la famine, les loups, ou même votre seigneur…
+D’aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c’est simplement que vous ne vous embarrassez pas des formes comme les gens de la haute. Non, vous venez de la terre et vous en êtes fier. Au moins vous savez ce que c’est que de vivre de son labeur, d’avoir la peau tannée par le soleil et le corps endurci par l’effort.
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Dressage], [Nature].<!--/Skills-->
+**Aspirations :** <!--Aspirations-->[Superstition] ou [Foi] +1<!--/Aspirations-->
 
-**Outils maîtrisés :** <!--MasteredTools-->[Véhicules (terrestres)], un ensemble d'outils d'artisan au choix entre des [outils de forgeron], [de cordonnier], [de tanneur], [de menuisier], [de maçon], [de potier], [de bricoleur], [de brasseur] ou [de charpentier].<!--/MasteredTools-->
+**Compétences :** <!--Skills-->[Athlétisme] ou [Nature], [Dressage].<!--/Skills-->
 
-**Équipement :** <!--Equipment-->[Ensemble d'outils d'artisan], [vêtements courants], objet hérité de l'un de vos parents et dont la valeur est sentimentale, [bourse] contenant [10 po].<!--/Equipment-->
+**Outils maîtrisés :** <!--MasteredTools-->véhicules (terrestres), un ensemble d’outils d’artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.<!--/MasteredTools-->
+
+**Équipement :** <!--Equipment-->ensemble d’outils d’artisan, vêtements courants, objet hérité de l’un de vos parents et dont la valeur est sentimentale, bourse contenant 10 sous.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -25,7 +30,7 @@ Vous êtes issu du peuple. Votre famille n'a jamais rien eu d'extraordinaire. Vo
 
 <!--Description-->
 
-Les gens du commun se reconnaissent facilement entre eux et se serrent les coudes. Dans n'importe quelle communauté rurale, vous recevez facilement le gîte et le couvert chez l'habitant, souvent en échange de menus travaux. De plus, quand vous en avez besoin, vous trouvez toujours une tâche pouvant vous rapporter quelques pièces durement gagnées dans une ferme des environs. vous savez aussi reconnaître des signes indiquant la proximité d'une ferme, d'un village ou d'un hameau à quelques kilomètres à la ronde, et pouvez le trouver sans effort.
+Les gens du commun se reconnaissent facilement entre eux et se serrent les coudes. Dans n’importe quelle communauté rurale, vous recevez facilement le gîte et le couvert chez l’habitant, souvent en échange de menus travaux. De plus, quand vous en avez besoin, vous trouvez toujours une tâche pouvant vous rapporter quelques pièces durement gagnées dans une ferme des environs. Vous savez aussi reconnaître des signes indiquant la proximité d’une ferme, d’un village ou d’un hameau à quelques lieues à la ronde et pouvez le trouver sans effort.
 
 <!--/Description-->
 
@@ -34,12 +39,6 @@ Les gens du commun se reconnaissent facilement entre eux et se serrent les coude
 <!--Items-->
 
 #### <!--Name-->Personnalités suggérées<!--/Name-->
-
-<!--Description-->
-
-D'aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c'est simplement que vous ne vous embarrassez pas des formes comme les gens de la haute. Non, vous venez de la terre et vous en êtes fier. Au moins vous savez ce que c'est que de vivre de son labeur, d'avoir la peau tannée par le soleil et le corps endurci par l'effort.
-
-<!--/Description-->
 
 <!--PersonalityTraitItem-->
 
@@ -70,12 +69,12 @@ D'aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c
 
 |d6|Idéal|
 |---|---|
-|1|**Loi.** Nul n'est au-dessus de la loi, ni seigneur, ni <!--br-->serf. Et nul ne peut rompre un serment. (Loyal)|
-|2|**Respect.** Personne n'a le droit de traiter les <!--br-->autres comme des esclaves. Je veillerai à ce que <!--br-->tous soient traités avec dignité et respect. (Bon)|
-|3|**Liberté.** Vivre dominé n'est pas vraiment vivre. <!--br-->Je briserai les chaîne du peuple de l'oppression <!--br-->des puissants. (Chaotique)|
-|4|**Destinée.** Mon destin m'a été révélé en rêve, et <!--br-->rien ne pourra se mettre en travers de ma route <!--br-->pour le réaliser. (Tous)|
-|5|**Pouvoir.** Je m'élèverai au-dessus de mes <!--br-->contemporains et deviendrai à mon tour un <!--br-->seigneur. (Mauvais)|
-|6|**Vérité.** Il ne sert à rien de vouloir être ce que <!--br-->l'on n'est pas. (Neutre)|
+|1|**Loi.** Nul n'est au-dessus de la loi, ni seigneur, ni <!--br-->serf. Et nul ne peut rompre un serment.|
+|2|**Respect.** Personne n'a le droit de traiter les <!--br-->autres comme des esclaves. Je veillerai à ce que <!--br-->tous soient traités avec dignité et respect.|
+|3|**Liberté.** Vivre dominé n'est pas vraiment vivre. <!--br-->Je briserai les chaînes du peuple de l'oppression <!--br-->des puissants.|
+|4|**Destinée.** Mon destin m'a été révélé en rêve, et <!--br-->rien ne pourra se mettre en travers de ma route <!--br-->pour le réaliser.|
+|5|**Pouvoir.** Je m'élèverai au-dessus de mes <!--br-->semblables et deviendrai à mon tour un <!--br-->seigneur.|
+|6|**Vérité.** Il ne sert à rien de vouloir être ce que <!--br-->l'on n'est pas.|
 
 <!--/Table-->
 
@@ -91,7 +90,7 @@ D'aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c
 |---|---|
 |1|Tout ce que je fais, je le fais par amour. Un jour <!--br-->je reviendrai auprès de l'être aimé en lui ayant <!--br-->prouvé ma valeur.|
 |2|Rien n'est plus important à mes yeux que les <!--br-->terres qui m'ont vu naître.|
-|3|Par ma faute, les habitants de mon village ont <!--br-->été massacrés ou réduits à l'esclavage. J'ai juré <!--br-->de rectifier les choses.|
+|3|Par ma faute, les habitants de mon village ont <!--br-->été massacrés ou réduits au sevrage. J'ai juré <!--br-->de rectifier les choses.|
 |4|J'ai été spolié par mon seigneur. Il m'a tout pris, <!--br-->mais je reprendrai ce qui était à moi.|
 |5|Je suis parti loin de ma famille pour la protéger. <!--br-->Mais elle reste constamment présente dans <!--br-->mon coeur et mon esprit.|
 |6|Le peuple a besoin d'être protégé. C'est la <!--br-->mission que je me suis fixée.|
@@ -120,72 +119,6 @@ D'aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c
 <!--/PersonalityDefectItem-->
 
 <!--/Items-->
-
-<!--SubBackgroundItem-->
-
-### <!--Name-->Variante : Artisan local<!--/Name-->
-
-<!--Description-->
-
-Contrairement aux artisans des cités, vous ne vous êtes jamais réellement spécialisé. À la campagne, il faut savoir s'adapter à toutes les situations. Dans le village, c'est à vous qu'on s'en remettait pour tenir les maisons, les granges, les socs de charrue ou les moulins en bon état.
-
-<!--/Description-->
-
-**Compétences :** <!--Skills-->[Athlétisme], [Nature].<!--/Skills-->
-
-**Outils maîtrisés :** <!--MasteredTools-->[Deux ensembles d'outils d'artisan au choix] parmi les [outils de forgeron], [de menuisier], [de maçon], [de bricoleur], ou [de charpentier].<!--/MasteredTools-->
-
-**Équipement :** <!--Equipment-->[Habits courants], [deux ensembles d'outils d'artisan que vous maîtrisez], [bourse] contenant [10 po].<!--/Equipment-->
-
-<!--/SubBackgroundItem-->
-
-<!--SubBackgroundItem-->
-
-### <!--Name-->Variante : Laboureur<!--/Name-->
-
-<!--Description-->
-
-Le laboureur travaille dur. Il exploite des terres qui sont peut-être à lui, surtout s'il est un homme libre, ou qui lui sont louées par un seigneur ou un nanti. Il se lève tôt pour travailler aux champs et rentre quand tombe la nuit.
-
-<!--/Description-->
-
-**Compétences :** <!--Skills-->[Athlétisme], [Dressage].<!--/Skills-->
-
-**Outils maîtrisés :** <!--MasteredTools-->[Véhicules (terrestres)], un ensemble d'outils d'artisan au choix entre des [outils de forgeron], [de cordonnier], [de tanneur], [de menuisier], [de maçon], [de potier], [de bricoleur], [de brasseur] ou [de charpentier].<!--/MasteredTools-->
-
-**Équipement :** <!--Equipment-->[Ensemble d'outils d'artisan], [habits courants], objet hérité de l'un de vos parents dont la valeur est sentimentale, [pelle], [bourse] contenant [10 po].<!--/Equipment-->
-
-<!--/SubBackgroundItem-->
-
-<!--SubBackgroundItem-->
-
-### <!--Name-->Variante : Rebouteux<!--/Name-->
-
-<!--Description-->
-
-Dans tous les villages ou presque vit un guérisseur ou une rebouteuse. Quelqu'un dont tout le monde se méfie, mais qu'on consulte lorsque quelque chose va mal. Vous êtes de ces gens que l'on redoute et que l'on adore en même temps. Vous avez appris très tôt à soigner, à guérir, et à soulager les autres grâce à de petits rituels obscurs et autres remèdes de grands-mères.
-
-<!--/Description-->
-
-**Compétences :** <!--Skills-->[Médecine], [Nature] ou [Religion].<!--/Skills-->
-
-**Outils maîtrisés :** <!--MasteredTools-->Deux au choix parmi [matériel d'herboriste], [d'empoisonneur] et [d'alchimiste].<!--/MasteredTools-->
-
-**Équipement :** <!--Equipment-->[Habits courants], [bâton], des grisgris ou des fioles contenant d'étranges décoctions, [bourse] contenant [10 po].<!--/Equipment-->
-
-<!--SkillItem-->
-
-#### <!--Name-->Aptitude : Aimé et détesté<!--/Name-->
-
-<!--Description-->
-
-Vous exercez à la fois fascination et répulsion sur les gens du commun. Lorsque vous êtes en leur présence, vous avez la capacité d'attirer leur regard. Quand vous choisissez de le faire, vous êtes alors, l'espace d'un instant, le centre de l'attention. Les personnes réagissent en fonction de leurs personnalités respectives (pouvant ainsi vous rejeter, voire se montrer grossières ou violentes), mais, pendant un court moment, elles ne se préoccupent plus de ce qui les entoure (à moins qu'on les agresse ou leur porte ouvertement tort).
-
-<!--/Description-->
-
-<!--/SkillItem-->
-
-<!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
 
