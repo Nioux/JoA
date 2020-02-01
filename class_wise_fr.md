@@ -20,9 +20,10 @@ En tant que sage, vous bénéficiez des aptitudes de classe suivantes.
 
 ## <!--Name-->Points de vie<!--/Name-->
 
-**Dés de vie :** <!--HitDice-->1d8 par niveau de clerc<!--/HitDice-->
-**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->8 + votre modificateur de [Constitution]<!--/HitPointsAt1stLevel-->
-**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d8 (ou 5) + votre modificateur de [Constitution] après le niveau 1<!--/HitPointsAtHigherLevels-->
+**Dés de vie :** <!--HitDice-->1d6 par niveau de sage<!--/HitDice-->
+**Seuil de blessure au niveau 1 :** <!--WoundThresholdAtLevel1-->8<!--/WoundThresholdAtLevel1-->
+**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->6 + votre modificateur de Constitution<!--/HitPointsAt1stLevel-->
+**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d6 (ou 4) + votre modificateur de Constitution par niveau de sage après le niveau 1<!--/HitPointsAtHigherLevels-->
 
 <!--/ClassHitPointsItem-->
 
@@ -30,11 +31,12 @@ En tant que sage, vous bénéficiez des aptitudes de classe suivantes.
 
 ## <!--Name-->Maîtrises<!--/Name-->
 
-**Armures :** <!--Armor-->[armures légères], [armures intermédiaires], [boucliers]<!--/Armor-->
-**Armes :** <!--Weapons-->[armes courantes]<!--/Weapons-->
-**Outils :** <!--Tools-->aucun<!--/Tools-->
-**Jets de sauvegarde :** <!--SavingThrows-->[Sagesse], [Charisme]<!--/SavingThrows-->
-**Compétences :** <!--Skills-->choisissez deux compétences parmi les suivantes : [Histoire], [Médecine], [Perspicacité], [Persuasion], [Religion]<!--/Skills-->
+**Armures :** <!--Armor-->aucune<!--/Armor-->
+**Armes :** <!--Weapons-->armes courantes<!--/Weapons-->
+**Outils :** <!--Tools-->deux ensembles d’outils au choix parmi le matériel d’empoisonneur, le matériel d’herboriste, le matériel de calligraphie, les outils de cartographe, les accessoires de faussaire, le matériel de peintre et le matériel d’alchimiste<!--/Tools-->
+**Langues :** <!--Languages-->en plus de sa langue natale, quatre langues au choix, ainsi que le latin. De plus, il sait écrire le latin, sa langue natale ainsi que deux langues supplémentaires parmi celles qu’il sait parler.<!--/Languages-->
+**Jets de sauvegarde :** <!--SavingThrows-->Intelligence, Sagesse<!--/SavingThrows-->
+**Compétences :** <!--Skills-->choisissez cinq compétences parmi les suivantes : Discrétion, Étiquette, Histoire, Investigation, Loi, Médecine, Mystères, Nature, Perception, Perspicacité, Persuasion, Sciences, Supercherie, Stratégie, Théologie et les compétences de votre origine.<!--/Skills-->
 
 <!--/ClassProficienciesItem-->
 
@@ -44,13 +46,11 @@ En tant que sage, vous bénéficiez des aptitudes de classe suivantes.
 
 <!--Description-->
 
-Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique. Notez que le [marteau de guerre] et la [cotte de mailles] sont réservés aux clercs qui disposent des maîtrises correspondantes.
+Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
 
-* (a) une [masse d'armes] ou (b) un [marteau de guerre]*
-* (a) une [armure d'écailles], (b) une [armure de cuir] ou (c) [cotte de mailles]*
-* (a) une [arbalète légère] avec vingt [carreaux] ou (b) n'importe quelle [arme courante]
-* (a) un [paquetage d'ecclésiastique] ou (b) un [paquetage d'explorateur]
-* un [bouclier] et un [symbole sacré]
+* un bâton et une arme courante de votre choix;
+* (a) un paquetage d’ecclésiastique ou (b) un paquetage d’érudit;
+* un ensemble d’outils au choix parmi les deux maîtrisés.
 
 <!--/Description-->
 
@@ -62,76 +62,40 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <!--Table-->
 
-|Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Tours <!--br-->de <!--br-->magie <!--br-->connus|1|2|3|4|5|6|7|8|9|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|1|+2|[Incantations], [Domaine divin]|3|2|-|-|-|-|-|-|-|-|
-|2|+2|[Canalisation d'énergie divine] (1/ repos), [Aptitude de domaine divin]|3|3|-|-|-|-|-|-|-|-|
-|3|+2|_|3|4|2|-|-|-|-|-|-|-|
-|4|+2|[Amélioration de caractéristiques]|4|4|3|-|-|-|-|-|-|-|
-|5|+3|[Destruction des morts-vivants] (ID 1/2)|4|4|3|2|-|-|-|-|-|-|
-|6|+3|[Canalisation d'énergie divine] (2/ repos), [Aptitude de domaine divin]|4|4|3|3|-|-|-|-|-|-|
-|7|+3|_|4|4|3|3|1|-|-|-|-|-|
-|8|+3|[Amélioration de caractéristiques], [Destruction des morts-vivants] (ID 1), [Aptitude de domaine divin]|4|4|3|3|2|-|-|-|-|-|
-|9|+4|_|4|4|3|3|3|1|-|-|-|-|
-|10|+4|[Intervention divine]|5|4|3|3|3|2|-|-|-|-|
-|11|+4|[Destruction des morts-vivants] (ID 2)|5|4|3|3|3|2|1|-|-|-|
-|12|+4|[Amélioration de caractéristiques]|5|4|3|3|3|2|1|-|-|-|
-|13|+5|_|5|4|3|3|3|2|1|1|-|-|
-|14|+5|[Destruction des morts-vivants] (ID 3)|5|4|3|3|3|2|1|1|-|-|
-|15|+5|_|5|4|3|3|3|2|1|1|1|-|
-|16|+5|[Amélioration de caractéristiques]|5|4|3|3|3|2|1|1|1|-|
-|17|+6|[Destruction des morts-vivants] (ID 4), [Aptitude de domaine divin]|5|4|3|3|3|2|1|1|1|1|
-|18|+6|[Canalisation d'énergie divine] (3/repos)|5|4|3|3|3|3|1|1|1|1|
-|19|+6|[Amélioration de caractéristiques]|5|4|3|3|3|3|2|1|1|1|
-|20|+6|[Intervention divine supérieure]|5|4|3|3|3|3|2|2|1|1|
+|Niveau|Bonus de maîtrise|Aptitudes|
+|---|---|---|
+|1|+2|Théoricien, Expertise, Guide avisé|
+|2|+2|Culture étendue, Praticien|
+|3|+2|Archétype de sage|
+|4|+2|Amélioration personnelle, Pacifiste|
+|5|+3|Praticien|
+|6|+3|Amélioration personnelle, Aptitude d’archétype|
+|7|+3|Praticien|
+|8|+3|Amélioration personnelle, Expertise|
+|9|+4|Culture étendue|
+|10|+4|Aptitude d’archétype, Guide avisé|
+|11|+4|Indemne|
+|12|+4|Amélioration personnelle|
+|13|+5|Praticien, Expertise|
+|14|+5|Amélioration personnelle, Aptitude d’archétype|
+|15|+5|Culture étendue|
+|16|+5|Amélioration personnelle|
+|17|+6|Praticien|
+|18|+6|Expertise|
+|19|+6|Amélioration personnelle|
+|20|+6|Perfection|
 
 <!--/Table-->
-
-(* Emplacement de sorts par niveau de sort)
 
 <!--/ClassEvolutionItem-->
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Incantations<!--/Name-->
+## <!--Name-->Théoricien<!--/Name--> (niveau 1)
 
 <!--Description-->
 
-En tant que relais de la puissance divine, vous pouvez lancer des sorts de clerc.
-
-## Tours de magie
-
-Au niveau 1, vous connaissez trois tours de magie que vous choisissez dans la liste de sorts de clerc. Vous pouvez apprendre d'autres tours de magie à certains niveaux, comme vous pouvez le voir dans le tableau d'évolution du clerc, dans la colonne tours de magie connus.
-
-## Préparer et lancer des sorts
-
-Le tableau d'évolution du clerc vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez l'accès à tous ces emplacements après un repos long.
-
-Dans la liste de sorts de clerc, choisissez les sorts que vous êtes capable de lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de clerc égal à votre modificateur de [Sagesse] + votre niveau de clerc (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire ceux pour lesquels vous possédez au moins un emplacement de niveau équivalent.
-
-Par exemple, si vous êtes un clerc de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de [Sagesse] de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez.
-
-Si vous préparez le sort de niveau 1 soin des blessures, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
-
-Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de clerc vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
-
-## Caractéristique d'incantation
-
-La caractéristique d'incantation qui vous permet de lancer les sorts de clerc est la [Sagesse]. La puissance de vos sorts dépend de votre dévouement à votre déité.
-
-Vous utilisez votre [Sagesse] dès qu'un sort de clerc vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de [Sagesse] quand vous calculez la difficulté du [jet de sauvegarde] d'un sort de clerc que vous avez lancé ou quand vous faites une attaque avec un sort.
-
-DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse]
-
-Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Sagesse]
-
-## Incantation rituelle
-
-Vous pouvez lancer un sort de clerc que vous connaissez et que vous avez préparé sous la forme d'un rituel dans la mesure où il possède le sous-type rituel.
-
-## Focaliseur d'incantation
-
-Vous pouvez utiliser un symbole sacré (voir le chapitre 5, Équipement, pages 233) comme focaliseur d'incantation pour vos sorts de clerc.
+Vous avez longtemps étudié et vous engrangez un grand nombre de savoirs vous permettant d’approcher de multiples disciplines. Quand vous ne possédez pas la maîtrise d’une compétence parmi les compétences d’Intelligence, de Sagesse ou de Charisme, vous pouvez ajouter à ses jets la moitié de votre bonus de maîtrise (arrondi au supérieur).
 
 <!--/Description-->
 
@@ -139,11 +103,11 @@ Vous pouvez utiliser un symbole sacré (voir le chapitre 5, Équipement, pages 2
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Domaine divin<!--/Name-->
+## <!--Name-->Expertise<!--/Name--> (niveaux 1, 8, 13 et 18)
 
 <!--Description-->
 
-Choisissez un domaine divin parmi gardien des traditions, guide spirituel, prêtre et théurge. Vous trouverez une description de chacun de ces domaines à la fin de la section consacrée à cette classe. Dès le niveau 1, le choix de votre domaine divin vous permet d'accéder à des sorts de domaine et d'autres aptitudes. Il vous permet aussi d'utiliser la canalisation d'énergie divine d'une manière supplémentaire quand vous gagnez cette aptitude au niveau 2, puis de l'améliorer aux niveaux 6, 8 et 17.
+Choisissez une compétence que vous maîtrisez parmi Histoire, Loi, Mystères, Nature, Sciences, Stratégie et Théologie. Quand vous utilisez cette compétence, vous doublez votre bonus de maîtrise. Vous choisissez une nouvelle compétence de cette liste au niveau 8, une troisième au niveau 13, et une quatrième au niveau 18.
 
 <!--/Description-->
 
@@ -151,11 +115,13 @@ Choisissez un domaine divin parmi gardien des traditions, guide spirituel, prêt
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Sorts de domaines<!--/Name-->
+## <!--Name-->Guide avisé<!--/Name--> (niveaux 1 et 10 - repos court)
 
 <!--Description-->
 
-Une liste de sorts spécifique est associée à chaque domaine divin. Dans le cas du clerc, cette liste dépend de la divinité que vous adorez. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour (le théurge est une exception). Si vous avez appris un sort de domaine qui n'apparaît pas dans la liste de sorts de clerc, vous pouvez quand même le considérer comme un sort de clerc en ce qui vous concerne.
+Votre esprit affûté vous permet de percevoir les qualités et les faiblesses des individus, ainsi que les points les plus cruciaux de toutes les situations. Mieux encore, vous savez guider vos alliés de manière à tirer le meilleur profit de votre acuité mentale. Vous utilisez votre action bonus pour offrir un bonus égal à votre modificateur d’Intelligence au prochain test de caractéristique ou jet d’attaque d’un allié.
+
+À partir du niveau 10, vous pouvez utiliser cette capacité à la fois par une action bonus ou par une réaction juste avant le test de votre allié, soit deux fois entre chaque repos court. Toutefois, il n’est pas possible d’offrir ce bonus plusieurs fois pour un même test. De plus, lorsque vous utilisez votre réaction afin de déclencher cette capacité, vous pouvez le faire après que votre allié a lancé son d20, mais avant que le résultat final de l’action ait été annoncé.
 
 <!--/Description-->
 
@@ -163,23 +129,11 @@ Une liste de sorts spécifique est associée à chaque domaine divin. Dans le ca
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Canalisation d'énergie divine<!--/Name-->
+## <!--Name-->Culture étendue<!--/Name--> (niveaux 2, 9 et 15)
 
 <!--Description-->
 
-Au niveau 2, vous gagnez la capacité de canaliser directement l'énergie divine qui émane de votre déité et vous pouvez utiliser cette énergie pour alimenter vos effets magiques. Vous débutez avec deux effets de ce type : renvoi des morts-vivants et un effet déterminé par votre domaine. Certains domaines vous permettent d'acquérir des effets supplémentaires à certains niveaux. Cela est alors indiqué dans la section les détaillant.
-
-Quand vous utilisez canalisation d'énergie divine, vous choisissez quel effet vous souhaitez produire.
-
-Après avoir utilisé une fois cette aptitude, vous devez finir un repos court ou un repos long pour pouvoir l'utiliser de nouveau.
-
-Certains effets de la canalisation d'énergie divine impliquent des [jets de sauvegarde]. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des [jets de sauvegarde] de vos sorts de clerc.
-
-À partir du niveau 6, vous pouvez utiliser l'aptitude canalisation d'énergie divine deux fois entre chaque repos court ou long, puis trois fois à partir du niveau 18.
-
-## Canalisation d'énergie divine : Renvoi des morts-vivants
-
-Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde] de [Sagesse]. Si une créature échoue à son [jet de sauvegarde], elle est repoussée pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
+Vous maîtrisez deux compétences ou outils supplémentaires parmi celles/ceux de la liste de compétences du sage. Vous pouvez remplacer une compétence ou un outil par une langue écrite ou parlée.
 
 <!--/Description-->
 
@@ -187,11 +141,23 @@ Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer u
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Amélioration de caractéristiques<!--/Name-->
+## <!--Name-->Praticien<!--/Name--> (niveaux 2, 5, 7, 13 et 17)
 
 <!--Description-->
 
-Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
+Vous avez développé des pratiques personnelles vous permettant à la fois de survivre dans un monde difficile, mais aussi de vous imposer face à vos pairs ou face aux ignorants. Au niveau 2, vous pouvez choisir une pratique parmi celles proposées ci-dessous. Vous en choisissez une nouvelle aux niveaux 5, 7, 13 et 17. Certaines pratiques possèdent un prérequis auquel le sage doit satisfaire afin de pouvoir les sélectionner.
+
+**Apaisement (repos court).** Vous avez appris à calmer les esprits les plus agités. En utilisant votre action, vous pouvez parler à un interlocuteur en colère afin de le raisonner et de lui permettre de retrouver son calme. Ce dernier doit pouvoir vous entendre et vous comprendre pour que la capacité fonctionne. L’interlocuteur, s’il est ouvertement hostile et agressif, peut effectuer un jet de sauvegarde de Charisme contre une difficulté égale à [8 + votre modificateur d’Intelligence + votre bonus de maîtrise] afin de résister. L’interlocuteur ne devient pas amical pour autant, mais la colère ou la rage s’estompent et il retrouve ses esprits, ainsi qu’une attitude neutre envers vos alliés et vous. Vous pouvez utiliser cette capacité sur un nombre de personnes égal à votre modificateur d’Intelligence. Cette capacité peut être sélectionnée une seconde fois, vous permettant de l’utiliser sur une foule comprenant un nombre de personnes égal à votre modificateur d’Intelligence multiplié par 10.
+
+**Frappe chirurgicale (prérequis : maîtrise de la compétence Médecine, repos court).** Vous connaissez si bien le corps humain que vous êtes capable d’en exploiter les points faibles dans le feu du combat. En utilisant une action bonus afin de guider le coup d’un de vos alliés, vous permettez à ce dernier d’ajouter votre modificateur de Sagesse aux dégâts de sa prochaine attaque contre une créature que vous pouvez voir. Cette capacité peut être choisie une seconde fois, après avoir affiné vos capacités à combattre au cours de vos périples, afin que vous puissiez profiter vous-même des bénéfices de cette capacité. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur d’Intelligence entre deux repos courts.
+
+**Inaperçu (repos court).** Vous avez appris l’art de vous faire oublier. En dépensant un point d’aspiration, vous vous fondez dans le décor, au point que l’on ne fait plus attention à vous. Vous pouvez vous déplacer normalement mais pas courir : on ne s’occupe plus de vous tant que vous ne vous faites pas remarquer. De plus, cette capacité ne fonctionne pas si vous ne pouvez qu’être le seul point d’attention des personnes autour de vous, ou si les personnes qui vous recherchent sont capables de vous identifier sans aucun doute. Vous n’êtes pas devenu invisible.
+
+**Argument d’autorité (prérequis : maîtrise de la compétence Persuasion).** Vous avez raison, même quand vous avez tort. Et vous avez appris à imposer votre savoir afin de rabattre le caquet de vos interlocuteurs. Lors d’une confrontation verbale, lors d’un test de Charisme (Persuasion), vous pouvez remplacer votre Charisme par votre Intelligence. De plus, en dépensant un point de Pragmatisme, vous mettez immédiatement un terme au débat et le gagnez sans doute possible (que vous ayez raison ou tort) : votre interlocuteur est à court d’arguments et vous donne raison, à moins de faire preuve d’une totale mauvaise foi.
+
+**Regard affûté (repos court).** Votre capacité de concentration est telle que vous pouvez, au prix d’un certain effort, percevoir votre environnement d’une manière si précise que rien ne semble vous échapper. En passant cinq minutes à observer un lieu, vous en percevez les moindres recoins et les moindres secrets. Vous découvrez tout ce qu’il y a à découvrir en ce lieu : trappes cachées, passages secrets, faux fond dans un coffre, pierre descellée… Et tout indice pouvant pour être utile.
+
+**Puits de culture (repos long).** Vous avez lu tant d’ouvrages, écouté tant d’histoires, que vous donnez le sentiment de tout savoir sur tout. Vous êtes capable de plonger dans votre mémoire afin de vous remémorer tout ce que vous savez sur une personne, un lieu, une créature ou un objet. Effectuez un test d’Intelligence (Histoire). Sur un résultat de 5, vous connaissez la réputation de la personne, du lieu ou de l’objet comme si vous étiez familier avec lui. Sur un résultat de 10, vous connaissez aussi les rumeurs et les légendes l’entourant. Sur un résultat de 15, les informations sont plus précises : alliés et ennemis déclarés, origines, sombres rumeurs, et vous pouvez dépenser un point de Pragmatisme pour en connaître un secret déterminant ou un point de Superstition pour en connaître les points faibles et les peurs (ou, concernant un lieu ou un objet, les légendes s’y rapportant).
 
 <!--/Description-->
 
@@ -199,19 +165,11 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Destruction des morts-vivants<!--/Name-->
+## <!--Name-->Archétype de sage<!--/Name--> (niveau 3)
 
 <!--Description-->
 
-À partir du niveau 5, quand un mort-vivant échoue à son [jet de sauvegarde] contre votre aptitude renvoi des morts-vivants, il est immédiatement détruit si son indice de dangerosité (ID) est inférieur ou égal à un certain seuil (voir le tableau destruction des morts-vivants).
-
-|Niveau de clerc|Détruit les morts-vivants avec un ID de…|
-|---|---|
-|5|1/2 ou moins|
-|8|1 ou moins|
-|11|2 ou moins|
-|14|3 ou moins|
-|17|4 ou moins|
+Vous choisissez un archétype qui reflète votre style et vos objectifs professionnels. Vous trouverez à la fin de la section consacrée à cette classe une description des archétypes de sage disponibles : religieux, guérisseur, savant.
 
 <!--/Description-->
 
@@ -219,21 +177,49 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Intervention divine<!--/Name-->
+## <!--Name-->Pacifiste<!--/Name--> (niveau 4)
 
 <!--Description-->
 
-À partir du niveau 10, vous pouvez faire appel à votre déité pour qu'elle intervienne en votre faveur en cas de besoin impérieux.
+À force de s’aventurer hors du confort de sa demeure, de sa communauté ou de son refuge, le sage a appris à analyser le champ de bataille et à mieux éviter les coups. Quand il ne porte pas d’armure et qu’il n’a pas employé l’action attaquer à son dernier tour, le sage peut ajouter son modificateur d’Intelligence à sa CA en plus de son modificateur de Dextérité.
 
-Implorer l'aide de votre déité vous coûte une action.
+<!--/Description-->
 
-Décrivez le type d'assistance que vous demandez et lancez 1d100. Si votre résultat est inférieur ou égal à votre niveau de clerc, votre déité intervient en votre faveur.
+<!--/ClassFeatureItem-->
 
-Le MJ choisit la nature de l'intervention divine. Un effet de sort de clerc ou de sort de domaine de clerc, par exemple, peut être approprié.
+<!--ClassFeatureItem-->
 
-Si votre déité est intervenue, vous ne pouvez plus utiliser cette aptitude pendant 7 jours. Sinon, vous pourrez l'utiliser de nouveau dès que vous aurez terminé un repos long.
+## <!--Name-->Amélioration personnelle<!--/Name--> (niveaux 4, 6, 8, 12, 14, 16 et 19)
 
-Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez donc plus besoin de lancer de dé.
+<!--Description-->
+
+Voir description en introduction de ce chapitre.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Indemne<!--/Name--> (niveau 11 - repos court)
+
+<!--Description-->
+
+Lorsqu’une attaque est censée vous toucher vous pouvez utiliser votre réaction afin d’ajouter votre bonus de maîtrise à votre CA. Si cette dernière devient supérieure au résultat de l’attaque adverse, l’attaque ne vous touche finalement pas.
+
+Alternativement, après avoir subi des dégâts, en utilisant votre réaction, vous pouvez ajouter temporairement votre bonus de maîtrise à votre seuil de blessure pour déterminer si vous devez faire un test de blessure.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Perfection<!--/Name--> (niveau 20)
+
+<!--Description-->
+
+Vous êtes parvenu au sommet de votre art. Vous pouvez dépenser un point d’aspiration afin d’utiliser une capacité de Praticien que vous avez déjà utilisée et que vous n’êtes plus en capacité d’utiliser pour le moment. De plus, vous bénéficiez d’un avantage sur tous les tests de caractéristique concernant les compétences d’Intelligence que vous maîtrisez.
 
 <!--/Description-->
 
@@ -241,63 +227,15 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 
 <!--GenericItem-->
 
-# <!--Name-->Domaines divins<!--/Name-->
+# <!--Name-->Archétypes de sage<!--/Name-->
 
-## [Prêtre]
+## [Guérisseur]
 
-## [Gardien des traditions]
+## [Religieux]
 
-## [Guide spirituel]
-
-## [Théurge]
-
-## [Domaine de la vie]
+## [Savant]
 
 <!--/GenericItem-->
 
 <!--/ClassItem-->
-
-[Prêtre]: cleric_priest_hd.md
-[Gardien des traditions]: cleric_traditions_hd.md
-[Guide spirituel]: cleric_guide_hd.md
-[Théurge]: cleric_theurgist_hd.md
-[Domaine de la vie]: cleric_life_hd.md
-
-[Amélioration de caractéristiques]: cleric_hd.md#amélioration-de-caractéristiques
-[Aptitude de domaine divin]: cleric_hd.md#domaine-divin
-[Canalisation d'énergie divine]: cleric_hd.md#canalisation-dénergie-divine
-[Destruction des morts-vivants]: cleric_hd.md#destruction-des-morts-vivants
-[Domaine divin]: cleric_hd.md#domaine-divin
-[Incantations]: cleric_hd.md#incantations
-[Intervention divine]: cleric_hd.md#intervention-divine
-[Intervention divine supérieure]: cleric_hd.md#intervention-divine
-
-[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Force]: abilities_strength_hd.md
-[Dextérité]: abilities_dexterity_hd.md
-[Constitution]: abilities_constitution_hd.md
-[Intelligence]: abilities_intelligence_hd.md
-[Sagesse]: abilities_wisdom_hd.md
-[Charisme]: abilities_charisma_hd.md
-
-
-[arbalète légère]: equipment_hd.md#arbalète-légère
-[armure de cuir]: equipment_hd.md#armure-de-cuir
-[armure d'écailles]: equipment_hd.md#armure-décailles
-[armures intermédiaires]: armor_hd.md#armures-intermédiaires
-[armures légères]: armor_hd.md#armures-légères
-[bouclier]: armor_hd.md#bouclier
-[cotte de mailles]: equipment_hd.md#cotte-de-mailles
-[Histoire]: abilities_intelligence_hd.md#histoire
-[marteau de guerre]: equipment_hd.md#marteau-de-guerre
-[masse d'armes]: equipment_hd.md#masse-darmes
-[Médecine]: abilities_wisdom_hd.md#médecine
-[Perspicacité]: abilities_wisdom_hd.md#perspicacité
-[Persuasion]: abilities_charisma_hd.md#persuasion
-[Religion]: abilities_intelligence_hd.md#religion
-[symbole sacré]: equipment_properties_hd.md#symbole-sacré
-
-
-
 

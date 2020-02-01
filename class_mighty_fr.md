@@ -1,7 +1,7 @@
 
 <!--ClassItem-->
 
-> <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Classes](classes_fr.md)<!--/ParentNameLink-->
 
 ---
 
@@ -20,9 +20,10 @@ En tant qu’homme d’armes, vous bénéficiez des aptitudes de classe suivante
 
 ## <!--Name-->Points de vie<!--/Name-->
 
-**Dés de vie :** <!--HitDice-->1d8 par niveau de clerc<!--/HitDice-->
-**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->8 + votre modificateur de [Constitution]<!--/HitPointsAt1stLevel-->
-**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d8 (ou 5) + votre modificateur de [Constitution] après le niveau 1<!--/HitPointsAtHigherLevels-->
+**Dés de vie :** <!--HitDice-->1d10 par niveau d’homme d’armes<!--/HitDice-->
+**Seuil de blessure au niveau 1 :** <!--WoundThresholdAtLevel1-->12<!--/WoundThresholdAtLevel1-->
+**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->10 + votre modificateur de Constitution<!--/HitPointsAt1stLevel-->
+**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d10 (ou 6) + votre modificateur de Constitution par niveau d’homme d’armes après le niveau 1<!--/HitPointsAtHigherLevels-->
 
 <!--/ClassHitPointsItem-->
 
@@ -30,11 +31,11 @@ En tant qu’homme d’armes, vous bénéficiez des aptitudes de classe suivante
 
 ## <!--Name-->Maîtrises<!--/Name-->
 
-**Armures :** <!--Armor-->[armures légères], [armures intermédiaires], [boucliers]<!--/Armor-->
-**Armes :** <!--Weapons-->[armes courantes]<!--/Weapons-->
+**Armures :** <!--Armor-->toutes les armures, boucliers<!--/Armor-->
+**Armes :** <!--Weapons-->armes courantes, armes de guerre<!--/Weapons-->
 **Outils :** <!--Tools-->aucun<!--/Tools-->
-**Jets de sauvegarde :** <!--SavingThrows-->[Sagesse], [Charisme]<!--/SavingThrows-->
-**Compétences :** <!--Skills-->choisissez deux compétences parmi les suivantes : [Histoire], [Médecine], [Perspicacité], [Persuasion], [Religion]<!--/Skills-->
+**Jets de sauvegarde :** <!--SavingThrows-->Force, Constitution<!--/SavingThrows-->
+**Compétences :** <!--Skills-->choisissez trois compétences parmi les suivantes : Acrobaties, Athlétisme, Commandement, Dressage, Guerre, Histoire, Intimidation, Perception, Perspicacité, Stratégie, Survie et les compétences de votre origine<!--/Skills-->
 
 <!--/ClassProficienciesItem-->
 
@@ -44,13 +45,12 @@ En tant qu’homme d’armes, vous bénéficiez des aptitudes de classe suivante
 
 <!--Description-->
 
-Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique. Notez que le [marteau de guerre] et la [cotte de mailles] sont réservés aux clercs qui disposent des maîtrises correspondantes.
+Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
 
-* (a) une [masse d'armes] ou (b) un [marteau de guerre]*
-* (a) une [armure d'écailles], (b) une [armure de cuir] ou (c) [cotte de mailles]*
-* (a) une [arbalète légère] avec vingt [carreaux] ou (b) n'importe quelle [arme courante]
-* (a) un [paquetage d'ecclésiastique] ou (b) un [paquetage d'explorateur]
-* un [bouclier] et un [symbole sacré]
+* (a) une jaque ou (b) un gambison, un arc long et vingt flèches;
+* (a) une arme de guerre et un bouclier ou (b) deux armes de guerre;
+* (a) une arbalète légère avec vingt carreaux ou (b) une hallebarde;
+* (a) un paquetage d’explorateur.
 
 <!--/Description-->
 
@@ -62,76 +62,54 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <!--Table-->
 
-|Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Tours <!--br-->de <!--br-->magie <!--br-->connus|1|2|3|4|5|6|7|8|9|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|1|+2|[Incantations], [Domaine divin]|3|2|-|-|-|-|-|-|-|-|
-|2|+2|[Canalisation d'énergie divine] (1/ repos), [Aptitude de domaine divin]|3|3|-|-|-|-|-|-|-|-|
-|3|+2|_|3|4|2|-|-|-|-|-|-|-|
-|4|+2|[Amélioration de caractéristiques]|4|4|3|-|-|-|-|-|-|-|
-|5|+3|[Destruction des morts-vivants] (ID 1/2)|4|4|3|2|-|-|-|-|-|-|
-|6|+3|[Canalisation d'énergie divine] (2/ repos), [Aptitude de domaine divin]|4|4|3|3|-|-|-|-|-|-|
-|7|+3|_|4|4|3|3|1|-|-|-|-|-|
-|8|+3|[Amélioration de caractéristiques], [Destruction des morts-vivants] (ID 1), [Aptitude de domaine divin]|4|4|3|3|2|-|-|-|-|-|
-|9|+4|_|4|4|3|3|3|1|-|-|-|-|
-|10|+4|[Intervention divine]|5|4|3|3|3|2|-|-|-|-|
-|11|+4|[Destruction des morts-vivants] (ID 2)|5|4|3|3|3|2|1|-|-|-|
-|12|+4|[Amélioration de caractéristiques]|5|4|3|3|3|2|1|-|-|-|
-|13|+5|_|5|4|3|3|3|2|1|1|-|-|
-|14|+5|[Destruction des morts-vivants] (ID 3)|5|4|3|3|3|2|1|1|-|-|
-|15|+5|_|5|4|3|3|3|2|1|1|1|-|
-|16|+5|[Amélioration de caractéristiques]|5|4|3|3|3|2|1|1|1|-|
-|17|+6|[Destruction des morts-vivants] (ID 4), [Aptitude de domaine divin]|5|4|3|3|3|2|1|1|1|1|
-|18|+6|[Canalisation d'énergie divine] (3/repos)|5|4|3|3|3|3|1|1|1|1|
-|19|+6|[Amélioration de caractéristiques]|5|4|3|3|3|3|2|1|1|1|
-|20|+6|[Intervention divine supérieure]|5|4|3|3|3|3|2|2|1|1|
+|Niveau|Bonus de maîtrise|Aptitudes|
+|---|---|---|
+|1|+2|Style de combat, dépassement de soi|
+|2|+2|Sursaut d’activité (x1)|
+|3|+2|Archétype martial|
+|4|+2|Amélioration personnelle|
+|5|+3|Inspiration guerrière (2 attaques)|
+|6|+3|Amélioration personnelle|
+|7|+3|Aptitude d’archétype|
+|8|+3|Amélioration personnelle|
+|9|+4|Style de combat|
+|10|+4|Aptitude d’archétype|
+|11|+4|Inspiration guerrière (3 attaques)|
+|12|+4|Amélioration personnelle|
+|13|+5|Indomptable|
+|14|+5|Dur au mal|
+|15|+5|Aptitude d’archétype|
+|16|+5|Amélioration personnelle|
+|17|+6|Sursaut d’activité (x2)|
+|18|+6|Aptitude d’archétype|
+|19|+6|Amélioration personnelle|
+|20|+6|Inspiration guerrière (4 attaques)|
 
 <!--/Table-->
-
-(* Emplacement de sorts par niveau de sort)
 
 <!--/ClassEvolutionItem-->
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Incantations<!--/Name-->
+## <!--Name-->Style de combat<!--/Name--> (niveaux 1 et 9)
 
 <!--Description-->
 
-En tant que relais de la puissance divine, vous pouvez lancer des sorts de clerc.
+Vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l’une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat.
 
-## Tours de magie
+**Archerie.** Vous gagnez un bonus de +2 aux jets d’attaque quand vous attaquez avec des armes à distance.
 
-Au niveau 1, vous connaissez trois tours de magie que vous choisissez dans la liste de sorts de clerc. Vous pouvez apprendre d'autres tours de magie à certains niveaux, comme vous pouvez le voir dans le tableau d'évolution du clerc, dans la colonne tours de magie connus.
+**Armes à deux mains.** Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s’il s’agit encore d’un 1 ou d’un 2. L’arme doit être à deux mains ou polyvalente pour bénéficier de cette aptitude.
 
-## Préparer et lancer des sorts
+**Combat à deux armes.** Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la seconde attaque.
 
-Le tableau d'évolution du clerc vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez l'accès à tous ces emplacements après un repos long.
+**Combat monté.** Lorsque vous chevauchez une monture, vous pouvez utiliser une action bonus pour bousculer un adversaire à pied de taille moyenne ou inférieur. Vous faites un test de Force de la monture (dressage) au lieu de Force (Athlétisme) pour déterminer le succès ou l’échec de la manoeuvre.
 
-Dans la liste de sorts de clerc, choisissez les sorts que vous êtes capable de lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de clerc égal à votre modificateur de [Sagesse] + votre niveau de clerc (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire ceux pour lesquels vous possédez au moins un emplacement de niveau équivalent.
+**Défense.** Lorsque vous portez une armure, vous gagnez un bonus de +1 à votre CA. De plus, si vous portez une armure intermédiaire ou lourde vous augmentez votre seuil de blessure de 1 point.
 
-Par exemple, si vous êtes un clerc de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de [Sagesse] de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez.
+**Duel.** Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux dégâts infligés avec cette arme.
 
-Si vous préparez le sort de niveau 1 soin des blessures, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
-
-Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de clerc vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
-
-## Caractéristique d'incantation
-
-La caractéristique d'incantation qui vous permet de lancer les sorts de clerc est la [Sagesse]. La puissance de vos sorts dépend de votre dévouement à votre déité.
-
-Vous utilisez votre [Sagesse] dès qu'un sort de clerc vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de [Sagesse] quand vous calculez la difficulté du [jet de sauvegarde] d'un sort de clerc que vous avez lancé ou quand vous faites une attaque avec un sort.
-
-DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse]
-
-Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Sagesse]
-
-## Incantation rituelle
-
-Vous pouvez lancer un sort de clerc que vous connaissez et que vous avez préparé sous la forme d'un rituel dans la mesure où il possède le sous-type rituel.
-
-## Focaliseur d'incantation
-
-Vous pouvez utiliser un symbole sacré (voir le chapitre 5, Équipement, pages 233) comme focaliseur d'incantation pour vos sorts de clerc.
+**Protection.** Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l’attaquant sur son jet d’attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
 
 <!--/Description-->
 
@@ -139,11 +117,11 @@ Vous pouvez utiliser un symbole sacré (voir le chapitre 5, Équipement, pages 2
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Domaine divin<!--/Name-->
+## <!--Name-->Dépassement de soi<!--/Name--> (niveau 1 - repos long)
 
 <!--Description-->
 
-Choisissez un domaine divin parmi gardien des traditions, guide spirituel, prêtre et théurge. Vous trouverez une description de chacun de ces domaines à la fin de la section consacrée à cette classe. Dès le niveau 1, le choix de votre domaine divin vous permet d'accéder à des sorts de domaine et d'autres aptitudes. Il vous permet aussi d'utiliser la canalisation d'énergie divine d'une manière supplémentaire quand vous gagnez cette aptitude au niveau 2, puis de l'améliorer aux niveaux 6, 8 et 17.
+Vous jouissez d’une grande capacité à ignorer la douleur. Lors de votre tour, vous pouvez utiliser une action bonus pour gagner un nombre de points de vie temporaires égal à [1d10 + votre niveau d’homme d’armes].
 
 <!--/Description-->
 
@@ -151,11 +129,11 @@ Choisissez un domaine divin parmi gardien des traditions, guide spirituel, prêt
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Sorts de domaines<!--/Name-->
+## <!--Name-->Sursaut d’activité<!--/Name--> (niveaux 2 et 17 - repos long)
 
 <!--Description-->
 
-Une liste de sorts spécifique est associée à chaque domaine divin. Dans le cas du clerc, cette liste dépend de la divinité que vous adorez. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour (le théurge est une exception). Si vous avez appris un sort de domaine qui n'apparaît pas dans la liste de sorts de clerc, vous pouvez quand même le considérer comme un sort de clerc en ce qui vous concerne.
+Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d’une éventuelle action bonus. À partir du niveau 17, vous pouvez utiliser cette aptitude deux fois avant d’avoir besoin de vous reposer, mais vous ne pouvez pas l’utiliser plus d’une fois par tour.
 
 <!--/Description-->
 
@@ -163,23 +141,11 @@ Une liste de sorts spécifique est associée à chaque domaine divin. Dans le ca
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Canalisation d'énergie divine<!--/Name-->
+## <!--Name-->Archétype martial<!--/Name--> (niveaux 3, 7, 10, 15 et 18)
 
 <!--Description-->
 
-Au niveau 2, vous gagnez la capacité de canaliser directement l'énergie divine qui émane de votre déité et vous pouvez utiliser cette énergie pour alimenter vos effets magiques. Vous débutez avec deux effets de ce type : renvoi des morts-vivants et un effet déterminé par votre domaine. Certains domaines vous permettent d'acquérir des effets supplémentaires à certains niveaux. Cela est alors indiqué dans la section les détaillant.
-
-Quand vous utilisez canalisation d'énergie divine, vous choisissez quel effet vous souhaitez produire.
-
-Après avoir utilisé une fois cette aptitude, vous devez finir un repos court ou un repos long pour pouvoir l'utiliser de nouveau.
-
-Certains effets de la canalisation d'énergie divine impliquent des [jets de sauvegarde]. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des [jets de sauvegarde] de vos sorts de clerc.
-
-À partir du niveau 6, vous pouvez utiliser l'aptitude canalisation d'énergie divine deux fois entre chaque repos court ou long, puis trois fois à partir du niveau 18.
-
-## Canalisation d'énergie divine : Renvoi des morts-vivants
-
-Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde] de [Sagesse]. Si une créature échoue à son [jet de sauvegarde], elle est repoussée pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
+Vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des archétypes martiaux disponibles : meneur, hardi, expert.
 
 <!--/Description-->
 
@@ -187,11 +153,11 @@ Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer u
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Amélioration de caractéristiques<!--/Name-->
+## <!--Name-->Amélioration personnelle<!--/Name--> (niveaux 4, 6, 8, 12, 16 et 19)
 
 <!--Description-->
 
-Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
+Voir description en introduction de ce chapitre.
 
 <!--/Description-->
 
@@ -199,19 +165,11 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Destruction des morts-vivants<!--/Name-->
+## <!--Name-->Inspiration guerrière<!--/Name--> (niveaux 5, 11 et 20)
 
 <!--Description-->
 
-À partir du niveau 5, quand un mort-vivant échoue à son [jet de sauvegarde] contre votre aptitude renvoi des morts-vivants, il est immédiatement détruit si son indice de dangerosité (ID) est inférieur ou égal à un certain seuil (voir le tableau destruction des morts-vivants).
-
-|Niveau de clerc|Détruit les morts-vivants avec un ID de…|
-|---|---|
-|5|1/2 ou moins|
-|8|1 ou moins|
-|11|2 ou moins|
-|14|3 ou moins|
-|17|4 ou moins|
+Vous pouvez dépenser 1 point d’aspiration pour attaquer deux fois au lieu d’une quand vous choisissez l’action attaquer lors de votre tour. Le nombre d’attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 11, puis à quatre quand vous atteignez le niveau 20 de cette classe. Si vous ratez toutes les attaques obtenues à cette action, votre score d’aspiration baisse de 1 point.
 
 <!--/Description-->
 
@@ -219,21 +177,23 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <!--ClassFeatureItem-->
 
-## <!--Name-->Intervention divine<!--/Name-->
+## <!--Name-->Indomptable<!--/Name--> (niveau 13 - repos long)
 
 <!--Description-->
 
-À partir du niveau 10, vous pouvez faire appel à votre déité pour qu'elle intervienne en votre faveur en cas de besoin impérieux.
+Vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d’utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. De plus, vous ne dépensez plus de point d’aspiration lorsque vous devez faire un jet de sauvegarde d’aspiration. Vous subissez tout de même un désavantage si vous ne disposez d’aucun point au moment du jet de sauvegarde d’aspiration.
 
-Implorer l'aide de votre déité vous coûte une action.
+<!--/Description-->
 
-Décrivez le type d'assistance que vous demandez et lancez 1d100. Si votre résultat est inférieur ou égal à votre niveau de clerc, votre déité intervient en votre faveur.
+<!--/ClassFeatureItem-->
 
-Le MJ choisit la nature de l'intervention divine. Un effet de sort de clerc ou de sort de domaine de clerc, par exemple, peut être approprié.
+<!--ClassFeatureItem-->
 
-Si votre déité est intervenue, vous ne pouvez plus utiliser cette aptitude pendant 7 jours. Sinon, vous pourrez l'utiliser de nouveau dès que vous aurez terminé un repos long.
+## <!--Name-->Dur au mal<!--/Name--> (niveau 14)
 
-Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez donc plus besoin de lancer de dé.
+<!--Description-->
+
+Votre corps est un champ de batailles, les innombrables blessures subies l’ont endurci. Vous augmentez votre seuil de blessure de 1.
 
 <!--/Description-->
 
@@ -241,63 +201,15 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 
 <!--GenericItem-->
 
-# <!--Name-->Domaines divins<!--/Name-->
+# <!--Name-->Archétypes d’hommes d’armes<!--/Name-->
 
-## [Prêtre]
+## [Expert]
 
-## [Gardien des traditions]
+## [Hardi]
 
-## [Guide spirituel]
-
-## [Théurge]
-
-## [Domaine de la vie]
+## [Meneur]
 
 <!--/GenericItem-->
 
 <!--/ClassItem-->
-
-[Prêtre]: cleric_priest_hd.md
-[Gardien des traditions]: cleric_traditions_hd.md
-[Guide spirituel]: cleric_guide_hd.md
-[Théurge]: cleric_theurgist_hd.md
-[Domaine de la vie]: cleric_life_hd.md
-
-[Amélioration de caractéristiques]: cleric_hd.md#amélioration-de-caractéristiques
-[Aptitude de domaine divin]: cleric_hd.md#domaine-divin
-[Canalisation d'énergie divine]: cleric_hd.md#canalisation-dénergie-divine
-[Destruction des morts-vivants]: cleric_hd.md#destruction-des-morts-vivants
-[Domaine divin]: cleric_hd.md#domaine-divin
-[Incantations]: cleric_hd.md#incantations
-[Intervention divine]: cleric_hd.md#intervention-divine
-[Intervention divine supérieure]: cleric_hd.md#intervention-divine
-
-[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Force]: abilities_strength_hd.md
-[Dextérité]: abilities_dexterity_hd.md
-[Constitution]: abilities_constitution_hd.md
-[Intelligence]: abilities_intelligence_hd.md
-[Sagesse]: abilities_wisdom_hd.md
-[Charisme]: abilities_charisma_hd.md
-
-
-[arbalète légère]: equipment_hd.md#arbalète-légère
-[armure de cuir]: equipment_hd.md#armure-de-cuir
-[armure d'écailles]: equipment_hd.md#armure-décailles
-[armures intermédiaires]: armor_hd.md#armures-intermédiaires
-[armures légères]: armor_hd.md#armures-légères
-[bouclier]: armor_hd.md#bouclier
-[cotte de mailles]: equipment_hd.md#cotte-de-mailles
-[Histoire]: abilities_intelligence_hd.md#histoire
-[marteau de guerre]: equipment_hd.md#marteau-de-guerre
-[masse d'armes]: equipment_hd.md#masse-darmes
-[Médecine]: abilities_wisdom_hd.md#médecine
-[Perspicacité]: abilities_wisdom_hd.md#perspicacité
-[Persuasion]: abilities_charisma_hd.md#persuasion
-[Religion]: abilities_intelligence_hd.md#religion
-[symbole sacré]: equipment_properties_hd.md#symbole-sacré
-
-
-
 
