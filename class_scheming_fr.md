@@ -242,11 +242,11 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d’initiativ
 
 # <!--Name-->Archétypes d’intrigant<!--/Name-->
 
-## [Artiste]
+## [Artiste](subclass_scheming_artist_fr.md)
 
-## [Aventurier]
+## [Aventurier](subclass_scheming_adventurer_fr.md)
 
-## [Comploteur]
+## [Comploteur](subclass_scheming_conspirator_fr.md)
 
 <!--/GenericItem-->
 

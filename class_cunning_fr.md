@@ -271,11 +271,11 @@ Vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au
 
 # <!--Name-->Archétypes de débrouillard<!--/Name-->
 
-## [Larron]
+## [Larron](subclass_cunning_cutpurse_fr.md)
 
-## [Pisteur]
+## [Pisteur](subclass_cunning_tracker_fr.md)
 
-## [Ruffian]
+## [Ruffian](subclass_cunning_ruffian_fr.md)
 
 <!--/GenericItem-->
 

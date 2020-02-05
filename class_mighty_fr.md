@@ -203,11 +203,11 @@ Votre corps est un champ de batailles, les innombrables blessures subies l’ont
 
 # <!--Name-->Archétypes d’hommes d’armes<!--/Name-->
 
-## [Expert]
+## [Expert](subclass_mighty_expert_fr.md)
 
-## [Hardi]
+## [Hardi](subclass_mighty_bold_fr.md)
 
-## [Meneur]
+## [Meneur](subclass_mighty_leader_fr.md)
 
 <!--/GenericItem-->
 

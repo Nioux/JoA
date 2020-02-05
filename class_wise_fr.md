@@ -229,11 +229,11 @@ Vous êtes parvenu au sommet de votre art. Vous pouvez dépenser un point d’as
 
 # <!--Name-->Archétypes de sage<!--/Name-->
 
-## [Guérisseur]
+## [Guérisseur](subclass_wise_healer_fr.md)
 
-## [Religieux]
+## [Religieux](subclass_wise_priest_fr.md)
 
-## [Savant]
+## [Savant](subclass_wise_scholar_fr.md)
 
 <!--/GenericItem-->
 
