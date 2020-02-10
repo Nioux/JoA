@@ -1,6 +1,10 @@
 
 <!--GenericItem-->
 
+> <!--ParentNameLink-->[Bibliothèque](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Classes<!--/Name-->
 
 ## [Débrouillard](class_cunning_fr.md)

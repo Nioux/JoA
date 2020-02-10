@@ -9,9 +9,7 @@
 
 ## [Classes](classes_fr.md)
 
-## [Dons](feats_fr.md)
-
-## [Talents de groupe](grouptalents_fr.md)
+## [Dons et Talents de groupe](feats_grouptalents_fr.md)
 
 ## [Équipement](equipment_fr.md)
 
