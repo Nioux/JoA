@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Loi] ou [Perspicacité](abilities_wisdom_hd.md#perspicacité), [Théologie].'
 mastered_languages: deux langues au choix, à l’oral et à l’écrit. De plus, le personnage sait écrire sa langue natale.
 equipment: crucifix qui vous a été remis quand vous êtes entré dans les ordres, bible en latin, 5 bâtons d’encens, tenue de cérémonie, habits courants, bourse contenant 10 sous.
