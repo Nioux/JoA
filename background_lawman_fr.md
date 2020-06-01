@@ -38,9 +38,7 @@ Votre rang dans les forces de l’ordre ou dans votre communauté vous accorde d
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -119,8 +117,6 @@ Votre rang dans les forces de l’ordre ou dans votre communauté vous accorde d
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

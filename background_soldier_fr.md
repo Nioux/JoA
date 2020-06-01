@@ -61,9 +61,7 @@ Vous avez une longue pratique des codes et du vocabulaire soldatesques, et vous 
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -142,8 +140,6 @@ Vous avez une longue pratique des codes et du vocabulaire soldatesques, et vous 
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

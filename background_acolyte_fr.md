@@ -47,9 +47,7 @@ Il vous faut aussi choisir si vous faites partie du clergé régulier (un ordre 
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -128,8 +126,6 @@ Il vous faut aussi choisir si vous faites partie du clergé régulier (un ordre 
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

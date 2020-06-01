@@ -61,9 +61,7 @@ Les manouvriers et journaliers forment une communauté soudée qui se serre les 
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -142,8 +140,6 @@ Les manouvriers et journaliers forment une communauté soudée qui se serre les 
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

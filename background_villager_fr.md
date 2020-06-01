@@ -36,9 +36,7 @@ Les gens du commun se reconnaissent facilement entre eux et se serrent les coude
 
 <!--/SkillItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -117,8 +115,6 @@ Les gens du commun se reconnaissent facilement entre eux et se serrent les coude
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

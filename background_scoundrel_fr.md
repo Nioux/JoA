@@ -36,9 +36,7 @@ Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l’oeil, vou
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -117,8 +115,6 @@ Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l’oeil, vou
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

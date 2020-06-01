@@ -63,9 +63,7 @@ Vous avez l’habitude du fonctionnement général des maisons avec domestiques.
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -144,8 +142,6 @@ Vous avez l’habitude du fonctionnement général des maisons avec domestiques.
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

@@ -36,9 +36,7 @@ Vous avez une connaissance intime des zones urbaines qui vous permet de déniche
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -117,8 +115,6 @@ Vous avez une connaissance intime des zones urbaines qui vous permet de déniche
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

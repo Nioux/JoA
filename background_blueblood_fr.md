@@ -38,9 +38,7 @@ Vous êtes à l’aise dans les cercles de la haute société, et votre statut e
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -119,8 +117,6 @@ Vous êtes à l’aise dans les cercles de la haute société, et votre statut e
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

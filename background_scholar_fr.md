@@ -63,9 +63,7 @@ Même si vous avez une spécialité, vous avez dû appréhender de multiples suj
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -143,8 +141,6 @@ Même si vous avez une spécialité, vous avez dû appréhender de multiples suj
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

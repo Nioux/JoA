@@ -36,9 +36,7 @@ Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un a
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -117,8 +115,6 @@ Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un a
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

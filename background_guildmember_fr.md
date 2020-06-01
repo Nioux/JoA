@@ -65,9 +65,7 @@ En se positionnant comme intermédiaire privilégié dans une catégorie de bien
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -146,8 +144,6 @@ En se positionnant comme intermédiaire privilégié dans une catégorie de bien
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

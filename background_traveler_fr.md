@@ -38,9 +38,7 @@ Vous connaissez les coutumes des petites communautés et des villages que vous t
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -119,8 +117,6 @@ Vous connaissez les coutumes des petites communautés et des villages que vous t
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 

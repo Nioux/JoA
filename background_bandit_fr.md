@@ -48,9 +48,7 @@ Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lir
 
 <!--/FeatureItem-->
 
-<!--Items-->
-
-#### <!--Name-->Personnalités suggérées<!--/Name-->
+#### Personnalités suggérées
 
 <!--PersonalityTraitItem-->
 
@@ -129,8 +127,6 @@ Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lir
 <!--/Table-->
 
 <!--/PersonalityDefectItem-->
-
-<!--/Items-->
 
 <!--/BackgroundItem-->
 
