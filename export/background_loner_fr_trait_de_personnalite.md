@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: J'ai toujours une pensée philosophique et profonde appropriée à la situation.
 ---
+

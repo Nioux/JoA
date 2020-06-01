@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: J'ai passé tellement de temps au monastère que je n'ai pas beaucoup d'expérience quand il s'agit de traiter avec les gens de l'extérieur.
 ---
+

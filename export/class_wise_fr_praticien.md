@@ -2,6 +2,7 @@
 id: class_wise_fr.md#praticien
 name: Praticien
 ---
+
 Vous avez développé des pratiques personnelles vous permettant à la fois de survivre dans un monde difficile, mais aussi de vous imposer face à vos pairs ou face aux ignorants. Au niveau 2, vous pouvez choisir une pratique parmi celles proposées ci-dessous. Vous en choisissez une nouvelle aux niveaux 5, 7, 13 et 17. Certaines pratiques possèdent un prérequis auquel le sage doit satisfaire afin de pouvoir les sélectionner.
 
 **Apaisement (repos court).** Vous avez appris à calmer les esprits les plus agités. En utilisant votre action, vous pouvez parler à un interlocuteur en colère afin de le raisonner et de lui permettre de retrouver son calme. Ce dernier doit pouvoir vous entendre et vous comprendre pour que la capacité fonctionne. L’interlocuteur, s’il est ouvertement hostile et agressif, peut effectuer un jet de sauvegarde de Charisme contre une difficulté égale à [8 + votre modificateur d’Intelligence + votre bonus de maîtrise] afin de résister. L’interlocuteur ne devient pas amical pour autant, mais la colère ou la rage s’estompent et il retrouve ses esprits, ainsi qu’une attitude neutre envers vos alliés et vous. Vous pouvez utiliser cette capacité sur un nombre de personnes égal à votre modificateur d’Intelligence. Cette capacité peut être sélectionnée une seconde fois, vous permettant de l’utiliser sur une foule comprenant un nombre de personnes égal à votre modificateur d’Intelligence multiplié par 10.

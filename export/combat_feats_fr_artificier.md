@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#artificier
 name: Artificier
 ---
+
 Vous avez appris à utiliser les armes à poudre, une technique dangereuse et encore peu répandue.
 
 * Vous obtenez la maîtrise des armes à poudre, y compris les armes d'artillerie comme les bombardes ou les couleuvrines.

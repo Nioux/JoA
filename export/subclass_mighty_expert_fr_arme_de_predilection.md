@@ -2,6 +2,7 @@
 id: subclass_mighty_expert_fr.md#arme-de-prédilection
 name: Arme de prédilection
 ---
+
 Malgré votre dévouement à un style de combat particulier, vous devez à présent encore vous spécialiser si vous voulez atteindre la plus haute maîtrise possible. Choisissez une seule arme dans la liste correspondant à votre style de prédilection. Vous obtenez un bonus de +1 en attaque lorsque vous attaquez avec cette arme. Les styles de défense et de protection ne donnent pas accès à une arme de prédilection (voir ci-après).
 
 **Archerie.** Choisir une arme à munitions.

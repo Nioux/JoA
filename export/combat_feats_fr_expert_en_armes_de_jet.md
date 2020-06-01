@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#expert-en-armes-de-jet
 name: Expert en armes de jet
 ---
+
 Vous avez travaillé sans relâche votre maîtrise des armes de jet et vous êtes d'une précision légendaire.
 
 * Lorsque vous attaquez un adversaire situé à plus de 1,50 mètre avec une arme de lancer, si vous êtes engagé au corps-à-corps, vous annulez le désavantage pour cette attaque.

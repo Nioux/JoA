@@ -2,6 +2,7 @@
 id: class_scheming_fr.md#prestance
 name: Prestance
 ---
+
 Vous savez comment convaincre vos adversaires qu’il serait bon de vous écouter et qu’il serait préjudiciable de vous attaquer, car vous ne représentez pas une menace (Persuasion) ou, au contraire, parce que cela comporterait trop de risques (Intimidation).
 
 Au prix d’une action bonus, vous pouvez dépenser un point d’influence pour effectuer un test opposé au choix de Charisme (Persuasion) ou de Charisme (Intimidation) contre un humain situé à moins de 6 mètres de vous qui doit pouvoir vous voir et vous entendre. Même si certains gestes sont universels, vous subissez un désavantage à ce test si la cible ne comprend pas la langue dans laquelle vous vous exprimez.

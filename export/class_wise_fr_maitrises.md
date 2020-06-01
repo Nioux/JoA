@@ -7,3 +7,4 @@ skills: 'choisissez cinq compétences parmi les suivantes : Discrétion, Étique
 id: class_wise_fr.md#maîtrises
 name: Maîtrises
 ---
+

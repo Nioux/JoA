@@ -2,6 +2,7 @@
 id: ritual_feats_fr.md#arts-occultes
 name: Arts occultes
 ---
+
 **Prérequis :** Superstition 5+, ne pas disposer du don Pouvoir de la Foi.
 
 **Vecteur d'apprentissage :** une sorcière, un rebouteux, un ouvrage interdit, un pacte avec le diable, une possession démoniaque…

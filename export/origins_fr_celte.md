@@ -21,3 +21,4 @@ available_skills:
 - Survie
 id: origins_fr.md#celte
 ---
+

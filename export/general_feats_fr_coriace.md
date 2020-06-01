@@ -2,6 +2,7 @@
 id: general_feats_fr.md#coriace
 name: Coriace
 ---
+
 Vous êtes dur au mal et il en faut beaucoup pour vous mettre au tapis.
 
 * Vous augmentez votre seuil de blessure de 1.

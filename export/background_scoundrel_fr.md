@@ -7,5 +7,6 @@ name: Crapule
 alt_name: '[Scoundrel](background_scoundrel_en.md) (RPG p50)'
 source: (JDR p38)
 ---
+
 Vous avez toujours vécu dans ces milieux interlopes que l’on nomme souvent les bas-fonds. Cette vie passée vous a profondément marqué : vous savez désormais que la fin justifie parfois les moyens, et que les idéaux ne résistent pas toujours face à la dureté de la vie. Vous l’avez appris, certainement au prix fort. Et pourtant, vous en êtes ressorti grandi d’une manière ou d’une autre.
 

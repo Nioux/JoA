@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#chevalier-de-notre-dame
 name: Chevalier de Notre-Dame
 ---
+
 Prérequis : alignement Bon
 
 Vous êtes un parangon de bonté et votre vertu vous permet de recevoir la protection de la Vierge Marie.

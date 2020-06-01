@@ -2,6 +2,7 @@
 id: ritual_feats_fr.md#pouvoir-de-la-foi
 name: Pouvoir de la Foi
 ---
+
 **Prérequis :** Foi 5+, ne pas disposer du don Arts occultes.
 
 **Vecteur d'apprentissage :** une révélation divine, un apprentissage auprès d'un moine ou d'un prêtre capable d'utiliser la même prière, une longue période d'ermitage, une pénitence pour un acte passé, une épreuve terrible en rapport avec la prière apprise…

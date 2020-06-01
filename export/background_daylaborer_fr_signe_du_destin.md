@@ -16,5 +16,6 @@ table:
     6:
       Signe du destin: Vous avez trouvé une arme ou un symbole qui vous a mené sur votre nouvelle voie.
 ---
+
 Un événement est survenu dans votre vie, qui a radicalement altéré votre destin. Choisissez ou déterminez aléatoirement ce signe parmi les événements suivants. Précisez ensuite avec votre MJ les détails correspondant.
 

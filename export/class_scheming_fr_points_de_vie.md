@@ -5,3 +5,4 @@ hit_points_at_higher_levels: 1d8 (ou 5) + votre modificateur de Constitution par
 id: class_scheming_fr.md#points-de-vie
 name: Points de vie
 ---
+

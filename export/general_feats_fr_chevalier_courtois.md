@@ -2,6 +2,7 @@
 id: general_feats_fr.md#chevalier-courtois
 name: Chevalier courtois
 ---
+
 Vous pratiquez l'amour courtois, c'est-à-dire le fait d'aimer une personne avec respect et honnêteté. Ces valeurs peuvent être mobilisées pour séduire l'élu(e) de votre coeur ou simplement pour rendre hommage à la dame de votre suzerain. C'est aussi une façon de faire preuve de culture et de vertu.
 
 * Vous augmentez votre valeur de Charisme de 1 point.

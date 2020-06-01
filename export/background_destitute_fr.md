@@ -7,5 +7,6 @@ name: Miséreux
 alt_name: '[Destitute](background_destitute_en.md) (RPG p42)'
 source: (JDR p50)
 ---
+
 La vie de miséreux est une lutte permanente pour la survie, dans un environnement aussi hostile que la pire des batailles. Nombre d’entre eux sont affectés par des troubles physiques ou mentaux, mais les quelques-uns qui parviennent à s’en sortir le font grâce à un courage et une force de caractère exemplaires.
 

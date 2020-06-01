@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: Quand j'en ai, je cache quelques pièces dans les doublures de mes vêtements.
 ---
+

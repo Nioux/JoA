@@ -19,3 +19,4 @@ available_skills:
 - Stratégie
 id: origins_fr.md#teutonique
 ---
+

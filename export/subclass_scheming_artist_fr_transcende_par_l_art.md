@@ -2,6 +2,7 @@
 id: subclass_scheming_artist_fr.md#transcendé-par-l’art
 name: Transcendé par l’art
 ---
+
 Inspiration et aspiration se confondent bien souvent, et jamais autant que lorsqu’il s’agit d’art. Chaque aspiration est liée à une compétence :
 
 |Aspiration|Compétence|

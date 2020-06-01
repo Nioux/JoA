@@ -2,6 +2,7 @@
 id: general_feats_fr.md#caméléon
 name: Caméléon
 ---
+
 Vous avez une capacité innée à vous adapter à n'importe quelle situation et à vous faire passer pour compétent dans des domaines qui vous sont inconnus.
 
 * Vous augmentez votre valeur de Charisme de 1.

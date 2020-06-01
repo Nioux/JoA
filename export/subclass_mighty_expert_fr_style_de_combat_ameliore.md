@@ -2,6 +2,7 @@
 id: subclass_mighty_expert_fr.md#style-de-combat-amélioré
 name: Style de combat amélioré
 ---
+
 D’aucuns diraient que vous avez atteint le sommet de votre art.
 
 **Archerie, arme à deux mains, duel, combat à deux armes.** Lorsque vous utilisez votre style de combat de prédilection, vous obtenez un coup critique sur un résultat de 19 ou 20 au dé d’attaque.

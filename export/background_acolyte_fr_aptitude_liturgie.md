@@ -2,6 +2,7 @@
 id: background_acolyte_fr.md#aptitude--liturgie
 name: 'Aptitude : Liturgie'
 ---
+
 Vous avez reçu le sacerdoce ministériel. En tant que prêtre, vous pouvez célébrer la messe et administrer les sacrements de la liturgie catholique, en particulier le baptême, la communion et le mariage, selon le rite qui vous a été enseigné. Dans la plupart des cas, il s’agira du rite romain (le plus courant), mais il peut s’agir de rites locaux spécifiques. Choisissez le rite suivi par votre personnage ou déterminez-le aléatoirement dans la table suivante.
 
 |d6|Rite Localisation||

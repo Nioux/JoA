@@ -16,3 +16,4 @@ table:
     6:
       Défaut: Je méprise ceux qui s'attaquent à plus faible qu'eux, car ce sont eux les faibles.
 ---
+

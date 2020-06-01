@@ -2,6 +2,7 @@
 id: subclass_wise_priest_fr.md#paroles-divines
 name: Paroles divines
 ---
+
 Vos mots sont porteurs de la puissance de Dieu et vous savez les manier afin d’aider ou de soulager son troupeau. Quel que soit votre niveau de foi, vous avez appris à transmettre votre ferveur et votre force de conviction, même dans les moments les plus difficiles pour vous, et les plus empreints de doute. Vous obtenez quatre dés de ferveur (des d8). Vous en obtenez un de plus au niveau 10, et un autre au niveau 14. Vos dés de ferveur peuvent être utilisés afin de mettre en oeuvre certaines capacités spéciales, appelées facultés, que vous octroient votre foi sans faille. Vous récupérez tous les dés de ferveur dépensés après chaque repos long.
 
 Certaines facultés nécessitent un jet de sauvegarde de la part de la cible. La difficulté de ce jet de sauvegarde est égale à [8 + votre bonus de maîtrise + votre modificateur de Charisme].

@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#archer
 name: Archer
 ---
+
 Votre longue pratique du tir à l'arc vous procure les bénéfices suivants :
 
 * Vous doublez la portée normale de l'arme, mais pas sa portée maximale.

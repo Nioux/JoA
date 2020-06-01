@@ -22,3 +22,4 @@ available_skills:
 - Perspicacité
 id: origins_fr.md#bourguignon-de-par-deçà
 ---
+

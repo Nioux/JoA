@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: J'écoute plus que je ne parle. Mais quand je parle, ça n'est jamais pour ne rien dire.
 ---
+

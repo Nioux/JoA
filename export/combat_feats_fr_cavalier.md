@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#cavalier
 name: Cavalier
 ---
+
 Vous n'avez besoin que de 1,50 mètre de mouvement pour monter en selle si vous êtes en armure légère ou sans armure. Lorsque vous êtes sur votre monture et que vous n'êtes pas neutralisé :
 
 * Vous bénéficiez d'un avantage à tous vos tests pour rester en selle et, si vous êtes mis à terre alors que vous étiez à dos de monture, vous retombez automatiquement sur vos pieds.

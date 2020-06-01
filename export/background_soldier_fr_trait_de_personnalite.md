@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: Je masque les blessures du passé sous un humour salace et imagé.
 ---
+

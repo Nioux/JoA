@@ -2,6 +2,7 @@
 id: subclass_mighty_expert_fr.md#style-de-combat-de-prédilection
 name: Style de combat de prédilection
 ---
+
 Lorsque les autres gens d’armes estiment avoir atteint la maîtrise de leur style personnel, vous pensez en avoir à peine effleuré la surface. Vous êtes de ces perfectionnistes qui travaillent toujours plus pour améliorer leur art.
 
 Vous obtenez le style de combat de prédilection qui correspond au style de combat que vous avez choisi au niveau 1.

@@ -16,3 +16,4 @@ table:
     6:
       Idéal: '**Responsabilité.** La connaissance est un outil comme un autre, qui doit être employé avec discernement.'
 ---
+

@@ -7,3 +7,4 @@ skills: 'choisissez trois compétences parmi les suivantes : Acrobaties, Athlét
 id: class_mighty_fr.md#maîtrises
 name: Maîtrises
 ---
+

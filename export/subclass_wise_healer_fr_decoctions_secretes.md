@@ -2,6 +2,7 @@
 id: subclass_wise_healer_fr.md#décoctions-secrètes
 name: Décoctions secrètes
 ---
+
 Vous avez appris la composition de décoctions secrètes. Qu’elles vous aient été transmises par un rebouteux dont vous avez pris la succession ou que vous les ayez découvertes dans des ouvrages hermétiques, vous savez soigner les maux. Au niveau 3, vous obtenez la maîtrise du matériel d’herboriste si vous ne l’aviez pas déjà. De plus, vous choisissez une décoction parmi celles proposées ci-après. Vous en choisissez une nouvelle aux niveaux 6, 10 et 14.
 
 Créer une décoction nécessite de posséder les ingrédients nécessaires. Le personnage peut soit les acheter en dépensant la somme correspondante à la décoction auprès d’un marchand, soit se les procurer en pleine nature. Il doit ensuite cuire les ingrédients et les mélanger pendant une dizaine de minutes. Ensuite seulement, la décoction est prête. En une heure, un sage peut ramasser les ingrédients nécessaires à la création d’un nombre de doses individuelles de décoctions égal à son bonus de maîtrise. Ces ingrédients ne peuvent se conserver plus de deux jours, et une décoction se conserve une journée avant de perdre ses propriétés bénéfiques.

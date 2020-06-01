@@ -8,5 +8,6 @@ name: Homme de loi
 alt_name: '[Lawman](background_lawman_en.md) (RPG p47)'
 source: (JDR p43)
 ---
+
 Par idéal ou par opportunisme, vous avez été le représentant de l’autorité et de la loi sur un territoire, le vaisseau par lequel le pouvoir féodal a imposé son bras séculier.
 

@@ -7,3 +7,4 @@ skills: choisissez cinq compétences parmi Acrobaties, Athlétisme, Discrétion,
 id: class_cunning_fr.md#maîtrises
 name: Maîtrises
 ---
+

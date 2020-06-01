@@ -16,3 +16,4 @@ table:
     6:
       Défaut: J'ai pris goût au chaos de la bataille et à la violence du combat. Rien d'autre désormais ne m'enivre davantage.
 ---
+

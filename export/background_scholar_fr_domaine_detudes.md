@@ -22,5 +22,6 @@ table:
       Domaine d'études: Philosophie / littérature
       Compétences conseillées: '[Histoire](abilities_intelligence_hd.md#histoire) et [Théologie]'
 ---
+
 Vous avez une affinité pour un sujet d’étude en particulier, ce qui vous a amené à vous spécialiser. Si vous avez de nombreuses connaissances sur tous les sujets, c’est dans ce domaine en particulier que d’autres recherchent votre expertise et vous citent en référence. Choisissez un domaine d’étude correspondant à vos compétences ou déterminez le domaine d’étude au hasard avant de choisir les compétences en conséquence.
 

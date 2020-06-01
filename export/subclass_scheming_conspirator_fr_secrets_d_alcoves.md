@@ -2,6 +2,7 @@
 id: subclass_scheming_conspirator_fr.md#secrets-d’alcôves
 name: Secrets d’alcôves
 ---
+
 Vous avez accès à des informations peu connues ou vous êtes capable de faire semblant d’en savoir plus que vous n’en savez de façon à influencer vos interlocuteurs.
 
 Vous pouvez utiliser votre aptitude d’Influence et ajouter le résultat du dé d’influence à vos propres tests de Charisme (Intimidation), d’Intelligence (Investigation), de Sagesse (Perspicacité), de Charisme (Étiquette), de Charisme (Persuasion) et de Charisme (Supercherie).

@@ -2,6 +2,7 @@
 id: ritual_feats_fr.md#formules-alchimiques
 name: Formules alchimiques
 ---
+
 **Prérequis :** Pragmatisme 5+.
 
 **Vecteur d'apprentissage :** une longue recherche en laboratoire, un apprentissage auprès d'un érudit féru de sciences, les notes personnelles d'un alchimiste disparu…

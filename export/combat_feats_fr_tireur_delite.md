@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#tireur-délite
 name: Tireur d'élite
 ---
+
 Vous êtes un maître des armes à distance et nul n'est votre égal en ce domaine.
 
 * Vous augmentez la portée longue de l'arc court et de l'arc oriental de 15 mètres et celle de l'arc long de 30 mètres (mais pas la portée normale).

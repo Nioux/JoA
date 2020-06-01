@@ -2,6 +2,7 @@
 id: subclass_mighty_expert_fr.md#artisanat
 name: Artisanat
 ---
+
 Vous êtes passé maître dans l’art de réparer ou d’évaluer le type de matériel qui correspond à votre style de combat. Vous bénéficiez d’un avantage à tous les tests pour les réparer, évaluer leur valeur ou même négocier leur prix d’achat.
 
 **Archerie.** Toutes les armes à distance.

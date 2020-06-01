@@ -2,6 +2,7 @@
 id: general_feats_fr.md#superstitieux
 name: Superstitieux
 ---
+
 Vos croyances sont profondément enracinées en vous.
 
 * Vous augmentez votre valeur de Dextérité ou de Charisme de 1.

@@ -14,3 +14,4 @@ table:
     6:
       Défaut: J'estime qu'un texte dans un grimoire ancien vaut souvent mieux qu'une opinion, même avertie.
 ---
+

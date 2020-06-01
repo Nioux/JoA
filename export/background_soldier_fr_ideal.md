@@ -16,3 +16,4 @@ table:
     6:
       Idéal: '**Honneur.** Servir son seigneur, sa cité ou sa patrie est la mission la plus honorable qui soit.'
 ---
+

@@ -2,6 +2,7 @@
 id: general_feats_fr.md#vétéran
 name: Vétéran
 ---
+
 Vous avez déjà connu le fracas des batailles.
 
 * Vous obtenez la maîtrise d'une compétence parmi Commandement, Guerre ou Stratégie.

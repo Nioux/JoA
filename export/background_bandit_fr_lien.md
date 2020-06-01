@@ -16,3 +16,4 @@ table:
     6:
       Lien: J'ai déniché une information capitale (secret, carte au trésor, etc.) qui pourrait assurer définitivement la prospérité de ma communauté, et je compte bien en profiter.
 ---
+

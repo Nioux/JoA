@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#arbalétrier
 name: Arbalétrier
 ---
+
 Au cours de longues années de pratique, vous avez appris à transformer votre arbalète en un instrument de mort, même en combat rapproché.
 
 * Vous pouvez ignorer le désavantage lorsque vous attaquez avec une arbalète à moins de 1,50 mètre d'un adversaire.

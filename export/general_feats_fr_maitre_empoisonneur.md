@@ -2,6 +2,7 @@
 id: general_feats_fr.md#maître-empoisonneur
 name: Maître empoisonneur
 ---
+
 Vous êtes passé maître dans l'utilisation de ce que certains appellent « l'arme des lâches ».
 
 * Vous bénéficiez d'un avantage à tous les tests pour reconnaître, utiliser, appliquer ou soigner les (effets des) poisons.

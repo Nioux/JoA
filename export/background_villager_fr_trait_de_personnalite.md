@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: Je ne comprends pas toujours les subtilités des situations compliquées, mais j'ai souvent des éclairs de génie.
 ---
+

@@ -16,3 +16,4 @@ table:
     6:
       Idéal: "**Autonomie.** Chacun doit pouvoir être en mesure d'assurer sa propre survie."
 ---
+

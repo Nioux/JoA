@@ -2,6 +2,7 @@
 id: group_talents_fr.md#pèlerins
 name: Pèlerins
 ---
+
 **Dieu soit avec vous !** Vous élevez vos prières vers le ciel avec la conviction qu'elles recevront une réponse. Tous vos alliés présents regagnent 1 point de Foi.
 
 **Les routes du paradis.** Vous avez l'habitude d'errer sur les chemins. Pour une journée, tous les membres du groupe présents peuvent ignorer un terrain difficile pour calculer leur rythme de déplacement (voir chapitre 10, Les dangers de l'aventure, pages 138-140). De plus, en cas de marche forcée, tous peuvent ignorer le premier jet de sauvegarde de Constitution raté.

@@ -2,6 +2,7 @@
 id: general_feats_fr.md#héraut
 name: Héraut
 ---
+
 Vous possédez une connaissance poussée des armoiries et des lignées princières européennes, ainsi que des us et coutumes dans les diverses cours d'Europe.
 
 * Vous obtenez la maîtrise d'une des compétences suivantes de votre choix : Étiquette, Histoire ou Loi.

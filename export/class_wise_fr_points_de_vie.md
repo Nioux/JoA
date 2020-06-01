@@ -5,3 +5,4 @@ hit_points_at_higher_levels: 1d6 (ou 4) + votre modificateur de Constitution par
 id: class_wise_fr.md#points-de-vie
 name: Points de vie
 ---
+

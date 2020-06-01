@@ -5,3 +5,4 @@ hit_points_at_higher_levels: 1d10 (ou 6) + votre modificateur de Constitution pa
 id: class_mighty_fr.md#points-de-vie
 name: Points de vie
 ---
+

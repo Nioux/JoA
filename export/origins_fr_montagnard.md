@@ -19,3 +19,4 @@ available_skills:
 - Intimidation
 id: origins_fr.md#montagnard
 ---
+

@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#bagarreur
 name: Bagarreur
 ---
+
 Que vous soyez adepte d'une tradition martiale ou du combat appris à la dure dans la rue, vous êtes un expert du combat à mains nues.
 
 * Vous augmentez votre valeur de Force de 1.

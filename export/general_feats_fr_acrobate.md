@@ -2,6 +2,7 @@
 id: general_feats_fr.md#acrobate
 name: Acrobate
 ---
+
 Vous avez passé de longues heures à pratiquer des exercices de haute voltige, d'escalade et de culbute afin d'améliorer vos performances acrobatiques.
 
 * Vous augmentez votre valeur de Dextérité de 1.

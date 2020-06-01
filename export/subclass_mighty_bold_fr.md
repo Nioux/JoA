@@ -4,3 +4,4 @@ name: Hardi
 alt_name: Bold (RPG p63)
 source: (JDR p65)
 ---
+

@@ -2,6 +2,7 @@
 id: general_feats_fr.md#fervent
 name: Fervent
 ---
+
 Votre foi est puissante et inébranlable, même dans l'adversité.
 
 * Vous augmentez votre valeur de Sagesse ou de Force de 1.

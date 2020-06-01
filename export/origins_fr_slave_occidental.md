@@ -17,3 +17,4 @@ available_skills:
 - Mystères
 id: origins_fr.md#slave-occidental
 ---
+

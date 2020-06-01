@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: Quelle que soit la situation, je reste souriant et enjoué.
 ---
+

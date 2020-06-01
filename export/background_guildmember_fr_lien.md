@@ -16,3 +16,4 @@ table:
     6:
       Lien: Je n'ai pas d'autre foyer que le siège de ma guilde.
 ---
+

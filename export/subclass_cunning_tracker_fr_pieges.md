@@ -2,6 +2,7 @@
 id: subclass_cunning_tracker_fr.md#pièges
 name: Pièges
 ---
+
 Lorsque vous êtes sur votre terrain de prédilection, vous êtes capable de piéger une zone de 3 mètres de côté en seulement 5 minutes. Toute créature qui s’apprête à entrer dans la zone piégée doit faire un test de Sagesse (Perception) pour détecter le piège. Le DD est de [8 + votre modificateur de Dextérité + votre bonus de maîtrise]. Vous pouvez choisir l’effet du piège parmi deux variantes :
 
 * **piège létal** (projectile, fosse, chausse-trappe, etc.). Inflige 1d6 dégâts par point de bonus de maîtrise. Si la victime réussit un jet de sauvegarde de Dextérité, elle ne subit que la moitié des dégâts;

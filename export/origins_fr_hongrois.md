@@ -20,3 +20,4 @@ available_skills:
 - Histoire
 id: origins_fr.md#hongrois
 ---
+

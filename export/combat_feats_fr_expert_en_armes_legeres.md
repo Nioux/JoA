@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#expert-en-armes-légères
 name: Expert en armes légères
 ---
+
 Vous savez tirer le meilleur parti possible des armes les plus légères et les plus rapides. Lorsque vous utilisez une arme légère :
 
 * Lorsque vous obtenez un coup critique, vous pouvez doubler votre modificateur de Dextérité aux dégâts si votre arme dispose aussi de la propriété finesse.

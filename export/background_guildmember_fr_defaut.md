@@ -16,3 +16,4 @@ table:
     6:
       Défaut: L'or est la seule chose qui ait de la valeur à mes yeux.
 ---
+

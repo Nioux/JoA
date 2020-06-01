@@ -16,3 +16,4 @@ table:
     6:
       Idéal: '**Bien commun.** Je suis au service de ma communauté (ou de mon organisation), ainsi que de ses membres. Je me dois de les protéger.'
 ---
+

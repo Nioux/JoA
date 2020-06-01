@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#lutteur
 name: Lutteur
 ---
+
 Prérequis : Force 13 ou plus
 
 Vous avez développé des compétences qui vous permettent de bien vous débrouiller quand vous luttez au corps-à-corps. Vous obtenez les bénéfices suivants :

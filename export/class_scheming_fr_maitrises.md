@@ -7,3 +7,4 @@ skills: choisissez cinq compétences parmi Commandement, Discrétion, Escamotage
 id: class_scheming_fr.md#maîtrises
 name: Maîtrises
 ---
+

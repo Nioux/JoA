@@ -2,6 +2,7 @@
 id: class_wise_fr.md#Équipement
 name: Équipement
 ---
+
 Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
 
 * un bâton et une arme courante de votre choix;

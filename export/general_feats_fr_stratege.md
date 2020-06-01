@@ -2,6 +2,7 @@
 id: general_feats_fr.md#stratège
 name: Stratège
 ---
+
 Votre esprit est rompu aux finesses tactiques, à la planification et à l'histoire militaire.
 
 * Vous obtenez la maîtrise de la compétence Stratégie. Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.

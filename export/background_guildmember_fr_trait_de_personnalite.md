@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: Je peux oublier tout ce qui me préoccupait un instant plus tôt lorsque je me trouve face à une oeuvre de qualité.
 ---
+

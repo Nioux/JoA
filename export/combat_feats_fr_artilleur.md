@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#artilleur
 name: Artilleur
 ---
+
 Vous êtes un maître artilleur habitué des armes de siège.
 
 * Vous obtenez la maîtrise des armes d'artillerie.

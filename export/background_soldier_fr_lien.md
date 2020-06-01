@@ -16,3 +16,4 @@ table:
     6:
       Lien: Ma seule obligation est pour mes actuels compagnons d'armes. Ils sont mon unique famille.
 ---
+

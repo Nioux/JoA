@@ -16,3 +16,4 @@ table:
     6:
       Défaut: Je ne supporte pas de rester enfermé.
 ---
+

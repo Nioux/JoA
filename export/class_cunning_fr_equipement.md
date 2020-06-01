@@ -2,6 +2,7 @@
 id: class_cunning_fr.md#Équipement
 name: Équipement
 ---
+
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique.
 
 * (a) une épée longue ou (b) une épée courte;

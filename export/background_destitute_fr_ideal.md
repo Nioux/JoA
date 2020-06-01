@@ -16,3 +16,4 @@ table:
     6:
       Idéal: '**Liberté.** La richesse est une prison, la pauvreté une libération.'
 ---
+

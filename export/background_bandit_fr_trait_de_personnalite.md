@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: Je suis aussi impitoyable que la nature peut l'être. La survie est à ce prix.
 ---
+

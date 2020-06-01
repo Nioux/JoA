@@ -19,3 +19,4 @@ available_skills:
 - Nature
 id: origins_fr.md#slave-oriental
 ---
+

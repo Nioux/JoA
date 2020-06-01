@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: Je suis un peu trop franc parfois, je devrais faire tourner sept fois ma langue dans ma bouche avant de parler.
 ---
+

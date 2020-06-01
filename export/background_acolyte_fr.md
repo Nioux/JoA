@@ -7,5 +7,6 @@ name: Dévot
 alt_name: '[Acolyte](background_acolyte_en.md) (RPG p37)'
 source: (JDR p39)
 ---
+
 Votre vie s’est déroulée en majeure partie auprès d’un lieu de culte ou d’une communauté religieuse où vous avez réparti votre temps entre études de l’histoire et de la théologie, travaux manuels et communion avec Dieu.
 

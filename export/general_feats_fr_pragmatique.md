@@ -2,6 +2,7 @@
 id: general_feats_fr.md#pragmatique
 name: Pragmatique
 ---
+
 Vous cultivez le doute et l'esprit critique plus que tout autre.
 
 * Vous augmentez votre valeur d'Intelligence ou de Constitution de 1.

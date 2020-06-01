@@ -4,3 +4,4 @@ name: Dons et talents de groupe
 alt_name: Feats and Group Talents (RPG p78)
 source: (JDR p78)
 ---
+

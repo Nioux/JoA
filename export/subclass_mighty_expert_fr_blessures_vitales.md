@@ -2,6 +2,7 @@
 id: subclass_mighty_expert_fr.md#blessures-vitales
 name: Blessures vitales
 ---
+
 Vous savez frapper là où cela fait le plus mal ou, au contraire, vous arranger pour exposer seulement les parties du corps les moins vitales.
 
 **Archerie, arme à deux mains, duel, combat à deux armes, combat monté.** Lorsque vous utilisez votre arme de prédilection et que votre attaque provoque un test de blessure, vous lancez un dé violet en plus du dé habituel.

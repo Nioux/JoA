@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: Je ne refuse jamais un défi, il en va de mon honneur.
 ---
+

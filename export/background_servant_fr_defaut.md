@@ -16,3 +16,4 @@ table:
     6:
       Défaut: Je porte en moi un profond sentiment d'infériorité, et je me dévalorise sans cesse.
 ---
+

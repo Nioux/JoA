@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#chevalier-de-saint-georges
 name: Chevalier de Saint-Georges
 ---
+
 Prérequis : alignement Bon
 
 Vous êtes un parangon de bravoure au combat et votre vertu vous permet de recevoir la bénédiction de Saint-Georges.

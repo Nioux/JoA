@@ -2,6 +2,7 @@
 id: general_feats_fr.md#furtif
 name: Furtif
 ---
+
 Vous cultivez l'art de passer inaperçu, de vous dissimuler ou de vous déguiser.
 
 * Lorsque vous utilisez l'action se cacher, vous obtenez 3 mètres supplémentaires de déplacement.

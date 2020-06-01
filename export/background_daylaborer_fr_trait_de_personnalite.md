@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: Je m'arrange toujours pour travailler moins que les autres.
 ---
+

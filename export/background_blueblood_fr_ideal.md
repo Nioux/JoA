@@ -16,3 +16,4 @@ table:
     6:
       Idéal: '**Sang.** Mon sang est bleu, comme celui des miens. Et le sang passe avant tout.'
 ---
+

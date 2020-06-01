@@ -2,6 +2,7 @@
 id: general_feats_fr.md#chef-né
 name: Chef-né
 ---
+
 Vous êtes un leader-né, vous savez trouver les mots justes pour redonner force et espoir et, à vos côtés, vos alliés donnent le meilleur d'eux-mêmes.
 
 * Vous obtenez la maîtrise de la compétence Commandement. Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.

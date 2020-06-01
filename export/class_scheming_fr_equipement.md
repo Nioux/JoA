@@ -2,6 +2,7 @@
 id: class_scheming_fr.md#Équipement
 name: Équipement
 ---
+
 Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
 
 * une dague et (a) une épée longue ou (b) n’importe quelle arme courante;

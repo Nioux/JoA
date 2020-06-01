@@ -20,3 +20,4 @@ table:
     8:
       Trait de personnalité: La logique est mon moyen principal de communication et le filtre à travers lequel je cherche à comprendre le monde qui m'entoure.
 ---
+

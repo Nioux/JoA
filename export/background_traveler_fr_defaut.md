@@ -16,3 +16,4 @@ table:
     6:
       Défaut: J'ai un vice que j'ai toujours du mal à ne pas vouloir satisfaire, qu'il s'agisse des plaisirs de la chair, de l'alcool ou du jeu.
 ---
+

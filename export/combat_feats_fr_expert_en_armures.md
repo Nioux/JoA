@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#expert-en-armures
 name: Expert en armures
 ---
+
 Vous savez utiliser au mieux la protection que votre armure vous offre pour atténuer un coup.
 
 * Vous réduisez de 2 points la valeur de Force nécessaire pour porter une armure sans pénalité. Par exemple, une Force de 11 suffit pour porter une brigantine sans que votre vitesse soit réduite (voir chapitre 7 Équipement, pages 107-108).

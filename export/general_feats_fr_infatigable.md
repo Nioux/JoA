@@ -2,6 +2,7 @@
 id: general_feats_fr.md#infatigable
 name: Infatigable
 ---
+
 Vos capacités de récupération sont exceptionnelles et font de vous un individu très au-dessus de la moyenne dans ce domaine précis.
 
 * Vous augmentez votre valeur de Constitution de 1.

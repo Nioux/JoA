@@ -2,6 +2,7 @@
 id: combat_feats_fr.md#féroce
 name: Féroce
 ---
+
 Vous êtes un spécialiste des attaques brutales, en particulier après une charge furieuse. Vous ne pouvez pas utiliser ces aptitudes avec une arme légère ou de finesse.
 
 * À votre tour, si vous portez une attaque après avoir parcouru au moins 4,5 mètres en ligne droite (cela compte dans votre déplacement normal), vous bénéficiez d'un avantage sur le jet. Vous ne pouvez plus vous déplacer après cette action.

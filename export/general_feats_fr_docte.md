@@ -2,6 +2,7 @@
 id: general_feats_fr.md#docte
 name: Docte
 ---
+
 Comme une éponge, votre esprit est rompu à l'assimilation de nouvelles informations.
 
 * Vous augmentez votre valeur d'Intelligence de 1 point.

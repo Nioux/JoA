@@ -16,3 +16,4 @@ table:
     6:
       Idéal: '**Aspiration.** Je dois me prouver digne de Dieu et de Jésus-Christ en agissant selon ses enseignements.'
 ---
+

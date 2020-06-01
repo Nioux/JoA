@@ -20,3 +20,4 @@ available_skills:
 - Représentation
 id: origins_fr.md#méditerranéen
 ---
+

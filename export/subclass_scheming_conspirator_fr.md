@@ -4,3 +4,4 @@ name: Comploteur
 alt_name: Conspirator (RPG p69)
 source: (JDR p70)
 ---
+

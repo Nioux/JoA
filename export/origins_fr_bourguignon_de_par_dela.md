@@ -17,3 +17,4 @@ available_skills:
 - Histoire
 id: origins_fr.md#bourguignon-de-par-delà
 ---
+

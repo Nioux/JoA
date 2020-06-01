@@ -2,6 +2,7 @@
 id: general_feats_fr.md#miraculé
 name: Miraculé
 ---
+
 Prérequis : à la création du personnage ou après une grave maladie.
 
 Vous avez été affecté par une maladie mortelle, mais vous y avez survécu (peste, variole, etc.). Vous en avez gardé des traces physiques, mais aussi psychologiques, notamment une capacité presque surhumaine à vous accrocher à la vie.

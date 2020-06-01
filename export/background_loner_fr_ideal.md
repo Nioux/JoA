@@ -16,3 +16,4 @@ table:
     6:
       Idéal: '**Survivant.** La nature ne nous fait pas de cadeau. Nous devons tous savoir nous débrouiller seuls.'
 ---
+

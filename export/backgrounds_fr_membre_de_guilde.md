@@ -4,3 +4,4 @@ name_link: <!--NameLink-->[Membre de guilde](background_guildmember_fr.md)<!--/N
 id: backgrounds_fr.md#membre-de-guilde
 name: Membre de guilde
 ---
+

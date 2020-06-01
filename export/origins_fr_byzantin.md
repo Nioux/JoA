@@ -21,3 +21,4 @@ available_skills:
 - Sciences
 id: origins_fr.md#byzantin
 ---
+
