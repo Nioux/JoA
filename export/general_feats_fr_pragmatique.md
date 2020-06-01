@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#pragmatique
-name: Pragmatique
+title: Pragmatique
 ---
 
 Vous cultivez le doute et l'esprit critique plus que tout autre.

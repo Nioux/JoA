@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#Épéiste
-name: Épéiste
+title: Épéiste
 ---
 
 L'épée est un symbole de justice et de paix pour le chrétien, elle est à l'image de la croix. Celui qui en fait son arme de prédilection s'approche de l'idéal chevaleresque. Lorsque vous utilisez une épée longue ou une épée à deux mains, référez-vous à ce qui suit :

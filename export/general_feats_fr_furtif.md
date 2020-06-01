@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#furtif
-name: Furtif
+title: Furtif
 ---
 
 Vous cultivez l'art de passer inaperçu, de vous dissimuler ou de vous déguiser.

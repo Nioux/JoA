@@ -1,6 +1,6 @@
 ---
 id: background_scholar_fr.md#domaine-détudes
-name: Domaine d'études
+title: Domaine d'études
 table:
   d6:
     1:

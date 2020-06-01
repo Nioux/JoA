@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#marin
-name: Marin
+title: Marin
 ---
 
 Vous avez appris à naviguer et à vivre sur un bateau. Vous obtenez la maîtrise des véhicules (marins) et vous savez lire une carte et vous guider grâce aux étoiles. Lorsque vous êtes à bord d'un navire :

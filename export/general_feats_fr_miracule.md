@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#miraculé
-name: Miraculé
+title: Miraculé
 ---
 
 Prérequis : à la création du personnage ou après une grave maladie.

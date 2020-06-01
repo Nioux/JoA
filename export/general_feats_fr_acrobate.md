@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#acrobate
-name: Acrobate
+title: Acrobate
 ---
 
 Vous avez passé de longues heures à pratiquer des exercices de haute voltige, d'escalade et de culbute afin d'améliorer vos performances acrobatiques.

@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#stratège
-name: Stratège
+title: Stratège
 ---
 
 Votre esprit est rompu aux finesses tactiques, à la planification et à l'histoire militaire.

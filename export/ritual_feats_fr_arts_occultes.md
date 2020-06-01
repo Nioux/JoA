@@ -1,6 +1,6 @@
 ---
 id: ritual_feats_fr.md#arts-occultes
-name: Arts occultes
+title: Arts occultes
 ---
 
 **Prérequis :** Superstition 5+, ne pas disposer du don Pouvoir de la Foi.

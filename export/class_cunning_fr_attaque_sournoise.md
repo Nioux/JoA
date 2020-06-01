@@ -1,6 +1,6 @@
 ---
 id: class_cunning_fr.md#attaque-sournoise
-name: Attaque sournoise
+title: Attaque sournoise
 ---
 
 Vous savez comment frapper subtilement et exploiter les moments d’inattention d’un adversaire. Une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous bénéficiez d’un avantage sur le jet d’attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.

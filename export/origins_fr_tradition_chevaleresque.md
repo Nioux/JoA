@@ -1,6 +1,6 @@
 ---
 id: origins_fr.md#tradition-chevaleresque
-name: Tradition chevaleresque
+title: Tradition chevaleresque
 ---
 
 Entre deux repos longs, lorsque vous vous comportez en accord avec le code d’honneur et de courtoisie d’un chevalier, vous pouvez sélectionner l’un des bénéfices suivants :

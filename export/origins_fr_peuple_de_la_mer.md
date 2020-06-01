@@ -1,6 +1,6 @@
 ---
 id: origins_fr.md#peuple-de-la-mer
-name: Peuple de la mer
+title: Peuple de la mer
 ---
 
 Vous obtenez la maîtrise des véhicules (marins). Lorsque vous naviguez en Méditerranée, vous pouvez essayer de dénicher une petite île ou un îlot inhabité sur lesquels vous abriter quelques temps en cas de besoin. Cela nécessite simplement un test de Sagesse (Perception) de DD 15.

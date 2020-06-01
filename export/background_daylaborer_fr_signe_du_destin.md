@@ -1,6 +1,6 @@
 ---
 id: background_daylaborer_fr.md#signe-du-destin
-name: Signe du destin
+title: Signe du destin
 table:
   d6:
     1:

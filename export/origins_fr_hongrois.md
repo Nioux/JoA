@@ -1,5 +1,4 @@
 ---
-name: Hongrois
 regions_of_origin:
 - Bosnie
 - Croatie
@@ -18,6 +17,10 @@ aspirations:
 available_skills:
 - Dressage
 - Histoire
+feature:
+  id: origins_fr.md#entre-deux-mondes
+  title: Entre deux mondes
 id: origins_fr.md#hongrois
+title: Hongrois
 ---
 

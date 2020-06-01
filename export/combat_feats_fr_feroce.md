@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#féroce
-name: Féroce
+title: Féroce
 ---
 
 Vous êtes un spécialiste des attaques brutales, en particulier après une charge furieuse. Vous ne pouvez pas utiliser ces aptitudes avec une arme légère ou de finesse.

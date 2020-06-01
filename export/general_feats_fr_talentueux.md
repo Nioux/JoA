@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#talentueux
-name: Talentueux
+title: Talentueux
 ---
 
 Choisissez une caractéristique. Vous obtenez deux bénéfices différents à choisir parmi les trois suivants :

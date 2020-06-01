@@ -1,5 +1,4 @@
 ---
-name: Byzantin
 regions_of_origin:
 - Chypre
 - Constantinople
@@ -19,6 +18,10 @@ aspirations:
 available_skills:
 - Médecine
 - Sciences
+feature:
+  id: origins_fr.md#porte-de-l’orient
+  title: Porte de l’Orient
 id: origins_fr.md#byzantin
+title: Byzantin
 ---
 

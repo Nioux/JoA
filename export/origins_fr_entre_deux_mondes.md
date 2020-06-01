@@ -1,6 +1,6 @@
 ---
 id: origins_fr.md#entre-deux-mondes
-name: Entre deux mondes
+title: Entre deux mondes
 ---
 
 Vous avez grandi dans une culture multiethnique qui a réussi le mélange entre traditions archaïques et dogmes chrétiens, entre ses racines orientales et l’Occident, entre les anciens cavaliers des steppes et sa réalité contemporaine de peuple du fleuve Danube.

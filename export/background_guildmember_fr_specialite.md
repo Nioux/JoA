@@ -1,6 +1,6 @@
 ---
 id: background_guildmember_fr.md#spécialité
-name: Spécialité
+title: Spécialité
 table:
   d8:
     1:

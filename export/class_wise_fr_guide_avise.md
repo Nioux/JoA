@@ -1,6 +1,6 @@
 ---
 id: class_wise_fr.md#guide-avisé
-name: Guide avisé
+title: Guide avisé
 ---
 
 Votre esprit affûté vous permet de percevoir les qualités et les faiblesses des individus, ainsi que les points les plus cruciaux de toutes les situations. Mieux encore, vous savez guider vos alliés de manière à tirer le meilleur profit de votre acuité mentale. Vous utilisez votre action bonus pour offrir un bonus égal à votre modificateur d’Intelligence au prochain test de caractéristique ou jet d’attaque d’un allié.

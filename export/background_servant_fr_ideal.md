@@ -1,6 +1,6 @@
 ---
 id: background_servant_fr.md#idéal
-name: Idéal
+title: Idéal
 table:
   d6:
     1:

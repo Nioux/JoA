@@ -1,5 +1,4 @@
 ---
-name: Italien
 regions_of_origin:
 - Abruzzes
 - États pontificaux
@@ -17,6 +16,10 @@ aspirations:
 available_skills:
 - Sciences
 - Supercherie
+feature:
+  id: origins_fr.md#berceau-de-la-renaissance
+  title: Berceau de la Renaissance
 id: origins_fr.md#italien
+title: Italien
 ---
 

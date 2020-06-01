@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#touche-à-tout
-name: Touche-à-tout
+title: Touche-à-tout
 ---
 
 Vos voyages et votre curiosité naturelle vous ont permis d'apprendre un peu de tout. Choisissez trois options parmi les cinq proposées ci-dessous, mais pas plus de deux fois la même.

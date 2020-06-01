@@ -250,5 +250,261 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d’initiativ
 
 <!--/GenericItem-->
 
+
+<!--SubClassItem-->
+
+> <!--ParentNameLink-->[Archétypes d'intrigant](class_scheming_fr.md#archétypes-dintrigant)<!--/ParentNameLink-->
+
+---
+
+# <!--Name-->Artiste<!--/Name-->
+
+- Alias: <!--AltName-->Artist (RPG p69)<!--/AltName-->
+- Source: <!--Source-->(JDR p69)<!--/Source-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Comédien accompli<!--/Name--> (niveau 3)
+
+<!--Description-->
+
+Vous êtes un maître de la comédie et du spectacle. À chaque fois que vous utilisez la compétence Représentation, votre bonus de maîtrise est doublé. De plus, lors de votre action, si vous réussissez un test de représentation DD 15, toutes les créatures dont vous êtes dans le champ de vision subissent un désavantage à leurs tests de Sagesse (Perception) et à leur valeur de Perception passive (-5).
+
+Vous obtenez la maîtrise des accessoires de déguisement. De plus, par un travail de mimique et de posture, vous pouvez changer d’allure et de personnalité en un clin d’oeil. Vous pouvez utiliser une action bonus pour devenir méconnaissable, et une créature qui essaie de vous reconnaître doit réussir un jet de sauvegarde de Sagesse DD [8 + votre bonus de maîtrise + votre modificateur de Charisme]. Par exemple, un garde qui vous recherche ne vous reconnaîtra pas s’il rate son jet de sauvegarde. Si la créature vous connait bien, elle bénéficie d’un avantage.
+
+Enfin, lorsque vous évoluez au sein d’un groupe d’au moins dix humains (foule, champ de bataille), vous pouvez remplacer un test de Dextérité (Discrétion) par un test de Charisme (Représentation) pour vous cacher ou passer inaperçu. Il vous suffit d’une action bonus pour accomplir l’action se cacher lorsque vous utilisez Représentation au lieu de Discrétion.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Mourir sur scène<!--/Name--> (niveau 6 - repos court)
+
+<!--Description-->
+
+Vous n’êtes certes pas le plus fort, mais vous avez appris à être le plus malin. Le monde n’est après tout qu’une vaste scène et la vie une vaste comédie.
+
+Lorsque vous subissez une attaque qui vous touche, vous pouvez dépenser votre réaction et un point d’influence pour simuler une blessure mortelle. Vous devez réussir un test de Charisme (Représentation), auquel vous ajoutez le résultat de votre dé d’influence, dont le DD est égal au résultat du jet d’attaque adverse. En cas de réussite, vous ne subissez aucun dégât, mais vous êtes à terre et vous entrez dans un état qu’il est difficile de distinguer de la mort. Vous pouvez annoncer l’utilisation de cette aptitude après avoir pris connaissance des dégâts que l’attaque vous inflige. Un individu qui examine votre corps doit réussir un test de Sagesse (Médecine) opposé à votre test de Charisme (Supercherie) pour vous percer à jour.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Transcendé par l’art<!--/Name--> (niveau 10)
+
+<!--Description-->
+
+Inspiration et aspiration se confondent bien souvent, et jamais autant que lorsqu’il s’agit d’art. Chaque aspiration est liée à une compétence :
+
+|Aspiration|Compétence|
+|---|---|
+|Foi|Représentation|
+|Pragmatisme|Persuasion|
+|Superstition|Supercherie|
+
+Lorsque vous dépensez un point d’aspiration (action bonus) sur un test de sa compétence liée, vous ajoutez votre dé d’influence au résultat de votre test en plus des effets normaux de l’aspiration (ou vous le retranchez à celui de votre adversaire dans le cas d’un point de Superstition). Cela ne coûte pas de point d’influence.
+
+À chaque fois que vous obtenez un résultat de 20 au d20 sur test de compétence de Représentation, Persuasion ou Supercherie, vous récupérer 1 point de l’aspiration liée à cette compétence.
+
+Enfin, lorsque vous obtenez la transcendance, vous récupérez immédiatement tous vos points d’influence.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Influence collective<!--/Name--> (niveau 14 - repos long)
+
+<!--Description-->
+
+Vous improvisez un petit spectacle pendant 5 minutes. À la fin de votre représentation, dépensez 1 point d’influence et choisissez un nombre de créatures égal ou inférieur à votre bonus de maîtrise (mais pas vousmême) qui se trouvent dans un rayon de 18 mètres et qui peuvent vous entendre. Ces créatures gagnent un dé d’influence.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--/SubClassItem-->
+
+
+<!--SubClassItem-->
+
+> <!--ParentNameLink-->[Archétypes d'intrigant](class_scheming_fr.md#archétypes-dintrigant)<!--/ParentNameLink-->
+
+---
+
+# <!--Name-->Aventurier<!--/Name-->
+
+- Alias: <!--AltName-->Adventurer (RPG p69)<!--/AltName-->
+- Source: <!--Source-->(JDR p70)<!--/Source-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Compétences élargies<!--/Name--> (niveaux 3, 6, 10 et 14)
+
+<!--Description-->
+
+Vous avez acquis quelques compétences indispensables à la survie au gré de vos pérégrinations. À chaque fois que vous obtenez cette capacité, vous obtenez la maîtrise d’une compétence parmi Acrobaties, Athlétisme, Dressage, Guerre, Nature, Médecine et Survie, la maîtrise d’une langue ou d’une une arme de votre choix, ou bien la maîtrise des boucliers.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Négociant hors pair<!--/Name--> (niveaux 3 et 11)
+
+<!--Description-->
+
+Lorsque vous achetez ou que vous vendez un bien ou un service, vous pouvez dépenser un point d’influence pour augmenter ou réduire le prix normal d’un pourcentage égal au résultat de votre dé d’influence. Par exemple, si un aventurier obtient 5 au dé d’influence, il réduit le prix de l’épée qu’il vient de négocier de 5 %.
+
+À partir du niveau 11, vous pouvez dépenser jusqu’à deux points d’influence dans la négociation et ajouter le résultat des dés d’influence pour déterminer le pourcentage obtenu.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Voyageur<!--/Name--> (niveau 6)
+
+<!--Description-->
+
+Les voyages et les mauvaises rencontres vous ont aguerri. Vous obtenez la maîtrise des jets de sauvegarde de Constitution. De plus vous pouvez marcher chaque jour 10 heures sans fatigue (au lieu de 8 heures pour un personnage ordinaire). Enfin, vous doublez la durée pendant laquelle vous pouvez rester sans nourriture ou sans eau avant de souffrir d’épuisement.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Autonome<!--/Name--> (niveau 10)
+
+<!--Description-->
+
+Une chose que les situations délicates vous ont apprise : bien souvent on ne peut compter que sur soimême pour se sortir du pétrin. Désormais, vous pouvez dépenser un point d’influence sur vos propres tests de compétence (au prix d’une action bonus) et sur vos jets de sauvegarde (au prix de votre réaction).
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Combattant aguerri<!--/Name--> (niveau 14)
+
+<!--Description-->
+
+Vous ne combattez pas dans un style très académique, mais vous savez vous montrer très dangereux, même avec des armes simples.
+
+Utilisez une action bonus et dépensez un point d’influence pour ajouter le résultat du dé sur un jet d’attaque à ce tour. Si l’attaque est réussie, vous pouvez si vous le souhaitez remplacer le dé de dégâts de votre arme par votre dé d’influence (par exemple au niveau 14, 1d10 au lieu du d4 d’une dague). Les dégâts restent du même type que ceux de l’arme utilisée.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Chef d’expédition<!--/Name--> (niveau 14)
+
+<!--Description-->
+
+Votre grande expérience du voyage vous permet de guider une expédition ou de commander à un équipage avec efficacité.
+
+En milieu naturel ou sur un navire, vous pouvez dépenser 1 point d’influence pour faire bénéficier tous vos alliés dans un rayon de 9 mètres d’un dé d’influence à un test d’Athlétisme, Discrétion, Perception ou de Survie. Ils peuvent dépenser ce dé d’influence sur le test de leur choix durant les 10 prochaines minutes tant qu’ils sont à moins de 9 mètres de vous.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--/SubClassItem-->
+
+
+<!--SubClassItem-->
+
+> <!--ParentNameLink-->[Archétypes d'intrigant](class_scheming_fr.md#archétypes-dintrigant)<!--/ParentNameLink-->
+
+---
+
+# <!--Name-->Comploteur<!--/Name-->
+
+- Alias: <!--AltName-->Conspirator (RPG p69)<!--/AltName-->
+- Source: <!--Source-->(JDR p70)<!--/Source-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Secrets d’alcôves<!--/Name--> (niveau 3)
+
+<!--Description-->
+
+Vous avez accès à des informations peu connues ou vous êtes capable de faire semblant d’en savoir plus que vous n’en savez de façon à influencer vos interlocuteurs.
+
+Vous pouvez utiliser votre aptitude d’Influence et ajouter le résultat du dé d’influence à vos propres tests de Charisme (Intimidation), d’Intelligence (Investigation), de Sagesse (Perspicacité), de Charisme (Étiquette), de Charisme (Persuasion) et de Charisme (Supercherie).
+
+Lorsque vous utilisez les aptitudes Provocation ou Prestance, le point d’influence dépensé pour déclencher ces aptitudes vous permet aussi d’ajouter votre dé d’influence au test de compétence opposé effectué pour déterminer le succès ou la réussite de l’aptitude.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Outils peu recommandables<!--/Name--> (niveaux 3, 6, 10 et 14)
+
+<!--Description-->
+
+Choisissez un type d’outils de votre choix parmi le matériel d’empoisonneur, les outils de voleur, les accessoires de faussaire et les accessoires de déguisement. Vous obtenez la maîtrise de ce type d’outil. Vous pouvez choisir un nouveau type d’outils aux niveaux 6, 10 et 14.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Analyse de l’âme<!--/Name--> (niveau 6 - repos court)
+
+<!--Description-->
+
+Vous avez appris à repérer les faiblesses psychologiques et morales de vos interlocuteurs et vous savez mettre à profit cette analyse pour améliorer votre emprise sur leur esprit. Lorsque vous conversez pendant au moins 1 minute avec une créature humanoïde, vous pouvez lui demander de faire un jet de sauvegarde de Charisme DD [8 + votre bonus de maîtrise + votre modificateur de Charisme]. En cas d’échec, vous pouvez déterminer au choix quel est son score d’aspiration le plus élevé ou le plus faible et, de plus, vous bénéficiez d’un avantage à tous vos tests de Charisme effectués contre cette cible pendant 1 heure. En cas de succès, vous ne pouvez faire de nouvelle tentative avant 24 heures.
+
+Si vous conversez pendant 1 heure complète avec votre cible, vous imposez un désavantage à la sauvegarde et vous bénéficiez des effets de l’analyse de l’âme pendant 24 heures.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Attaque en traître<!--/Name--> (niveau 10 - repos court)
+
+<!--Description-->
+
+Vous savez attendre le bon moment pour frapper. À votre tour, vous pouvez utiliser votre action pour faire un test de Dextérité (Discrétion) ou de Charisme (Supercherie) d’un DD égal à la valeur de Perception passive de votre cible. En cas de succès vous pouvez utiliser une action bonus pour faire une attaque et dépenser 1 point d’influence. Vous bénéficiez d’un avantage au jet d’attaque et si vous touchez, vous ajoutez le résultat de votre dé d’influence aux dégâts. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
+
+Désormais, vous pouvez utiliser votre aptitude d’Influence et ajouter le résultat du dé d’influence à vos tests de Dextérité (Discrétion).
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Calomnies<!--/Name--> (niveau 14)
+
+<!--Description-->
+
+Vous savez distiller le venin de la rumeur et de la calomnie de façon à saper l’autorité et le prestige de vos adversaires. Vous pouvez dépenser 1 point d’influence et votre réaction pour imposer un désavantage sur un test de Charisme d’une créature dans votre champ de vision.
+
+En passant une journée à répandre des rumeurs, vous pouvez imposer un désavantage à tous les tests de Charisme de la cible de votre choix pendant [1d12 + votre modificateur de Charisme] prochains jours. Pendant toute cette durée, votre nombre maximum de points d’influence est réduit de 1.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--/SubClassItem-->
+
 <!--/ClassItem-->
 

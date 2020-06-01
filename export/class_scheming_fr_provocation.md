@@ -1,6 +1,6 @@
 ---
 id: class_scheming_fr.md#provocation
-name: Provocation
+title: Provocation
 ---
 
 Vous êtes capable de vous rendre si désagréable, voire insupportable, que vous pouvez faire sortir vos adversaires de leurs gonds et les pousser à vous attaquer au mépris de toute prudence.

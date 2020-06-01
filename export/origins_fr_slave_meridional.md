@@ -1,5 +1,4 @@
 ---
-name: Slave méridional
 regions_of_origin:
 - Bosnie
 - Bulgarie
@@ -19,6 +18,10 @@ aspirations:
 available_skills:
 - Investigation
 - Survie
+feature:
+  id: origins_fr.md#assimilation-culturelle
+  title: Assimilation culturelle
 id: origins_fr.md#slave-méridional
+title: Slave méridional
 ---
 

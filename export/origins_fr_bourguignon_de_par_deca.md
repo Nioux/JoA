@@ -1,5 +1,4 @@
 ---
-name: Bourguignon de par-deçà
 regions_of_origin:
 - Artois
 - Brabant
@@ -20,6 +19,10 @@ aspirations:
 available_skills:
 - Loi
 - Perspicacité
+feature:
+  id: origins_fr.md#esprit-rebelle
+  title: Esprit rebelle
 id: origins_fr.md#bourguignon-de-par-deçà
+title: Bourguignon de par-deçà
 ---
 

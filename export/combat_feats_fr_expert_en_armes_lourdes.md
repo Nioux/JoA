@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#expert-en-armes-lourdes
-name: Expert en armes lourdes
+title: Expert en armes lourdes
 ---
 
 Vous savez tirer le meilleur parti possible des armes les plus lourdes et les plus létales. Lorsque vous utilisez une arme lourde :

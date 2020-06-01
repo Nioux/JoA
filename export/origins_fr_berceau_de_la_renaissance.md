@@ -1,6 +1,6 @@
 ---
 id: origins_fr.md#berceau-de-la-renaissance
-name: Berceau de la Renaissance
+title: Berceau de la Renaissance
 ---
 
 Quelle que soit votre origine sociale, vous avez été exposé durant votre enfance à des maîtres et des éducateurs qui ont implanté en vous la soif de connaissance. Vous pouvez choisir une langue de n’importe quelle origine ou un ensemble d’outils que vous maîtrisez. S’il s’agit de la langue, cela inclut l’oral et l’écrit.

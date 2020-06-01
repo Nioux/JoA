@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#expert-en-armes-légères
-name: Expert en armes légères
+title: Expert en armes légères
 ---
 
 Vous savez tirer le meilleur parti possible des armes les plus légères et les plus rapides. Lorsque vous utilisez une arme légère :

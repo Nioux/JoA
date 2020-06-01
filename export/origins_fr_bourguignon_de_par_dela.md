@@ -1,5 +1,4 @@
 ---
-name: Bourguignon de par-delà
 regions_of_origin:
 - Bourgogne
 - Charolais
@@ -15,6 +14,10 @@ aspirations:
 available_skills:
 - Commandement
 - Histoire
+feature:
+  id: origins_fr.md#opportunisme
+  title: Opportunisme
 id: origins_fr.md#bourguignon-de-par-delà
+title: Bourguignon de par-delà
 ---
 

@@ -1,5 +1,5 @@
 ---
 id: index.md
-name: Bibliothèque
+title: Bibliothèque
 ---
 

@@ -1,5 +1,4 @@
 ---
-name: Teutonique
 regions_of_origin:
 - Courlande
 - Estonie
@@ -17,6 +16,10 @@ aspirations:
 available_skills:
 - Histoire
 - Stratégie
+feature:
+  id: origins_fr.md#tradition-chevaleresque
+  title: Tradition chevaleresque
 id: origins_fr.md#teutonique
+title: Teutonique
 ---
 

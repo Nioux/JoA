@@ -1,6 +1,6 @@
 ---
 id: background_daylaborer_fr.md#lien
-name: Lien
+title: Lien
 table:
   d6:
     1:

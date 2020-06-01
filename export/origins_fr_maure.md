@@ -1,5 +1,4 @@
 ---
-name: Maure
 regions_of_origin:
 - Grenade
 - Maghreb
@@ -14,6 +13,10 @@ aspirations:
 available_skills:
 - Sciences
 - Théologie
+feature:
+  id: origins_fr.md#tolérance-religieuse
+  title: Tolérance religieuse
 id: origins_fr.md#maure
+title: Maure
 ---
 

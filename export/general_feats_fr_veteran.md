@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#vétéran
-name: Vétéran
+title: Vétéran
 ---
 
 Vous avez déjà connu le fracas des batailles.

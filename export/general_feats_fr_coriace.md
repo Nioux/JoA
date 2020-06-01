@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#coriace
-name: Coriace
+title: Coriace
 ---
 
 Vous êtes dur au mal et il en faut beaucoup pour vous mettre au tapis.

@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#boiteux
-name: Boiteux
+title: Boiteux
 ---
 
 Prérequis : à choisir à la création du personnage ou après avoir subi une blessure grave qui affecte une caractéristique physique.

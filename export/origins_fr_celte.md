@@ -1,5 +1,4 @@
 ---
-name: Celte
 regions_of_origin:
 - Bretagne
 - Cornouailles
@@ -19,6 +18,10 @@ aspirations:
 available_skills:
 - Mystères
 - Survie
+feature:
+  id: origins_fr.md#connaissances-anciennes
+  title: Connaissances anciennes
 id: origins_fr.md#celte
+title: Celte
 ---
 

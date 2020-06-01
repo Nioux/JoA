@@ -1,6 +1,6 @@
 ---
 id: background_soldier_fr.md#unité
-name: Unité
+title: Unité
 table:
   d6:
     1:

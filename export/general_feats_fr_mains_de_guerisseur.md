@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#mains-de-guérisseur
-name: Mains de guérisseur
+title: Mains de guérisseur
 ---
 
 Que ce soit par une longue tradition familiale ou l'apprentissage auprès d'un guérisseur ou d'un rebouteux, vous disposez d'une compréhension intuitive et intime des mécanismes de la vie.

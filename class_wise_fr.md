@@ -237,5 +237,251 @@ Vous êtes parvenu au sommet de votre art. Vous pouvez dépenser un point d’as
 
 <!--/GenericItem-->
 
+
+<!--SubClassItem-->
+
+> <!--ParentNameLink-->[Archétypes de sage](class_wise_fr.md#archétypes-de-sage)<!--/ParentNameLink-->
+
+---
+
+# <!--Name-->Guérisseur<!--/Name-->
+
+- Alias: <!--AltName-->Healer (RPG p74)<!--/AltName-->
+- Source: <!--Source-->(JDR p74)<!--/Source-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Décoctions secrètes<!--/Name--> (niveaux 3, 6, 10 et 14)
+
+<!--Description-->
+
+Vous avez appris la composition de décoctions secrètes. Qu’elles vous aient été transmises par un rebouteux dont vous avez pris la succession ou que vous les ayez découvertes dans des ouvrages hermétiques, vous savez soigner les maux. Au niveau 3, vous obtenez la maîtrise du matériel d’herboriste si vous ne l’aviez pas déjà. De plus, vous choisissez une décoction parmi celles proposées ci-après. Vous en choisissez une nouvelle aux niveaux 6, 10 et 14.
+
+Créer une décoction nécessite de posséder les ingrédients nécessaires. Le personnage peut soit les acheter en dépensant la somme correspondante à la décoction auprès d’un marchand, soit se les procurer en pleine nature. Il doit ensuite cuire les ingrédients et les mélanger pendant une dizaine de minutes. Ensuite seulement, la décoction est prête. En une heure, un sage peut ramasser les ingrédients nécessaires à la création d’un nombre de doses individuelles de décoctions égal à son bonus de maîtrise. Ces ingrédients ne peuvent se conserver plus de deux jours, et une décoction se conserve une journée avant de perdre ses propriétés bénéfiques.
+
+**Cicatriser les blessures (onguent, 20 sous).** Votre décoction a le pouvoir incroyable d’aider les blessés à se remettre plus rapidement. Vous devez appliquer l’onguent sur une personne affligée d’une blessure grave avant qu’elle ne prenne un repos long. Elle peut alors tenter son jet de sauvegarde de Constitution afin d’effacer sa blessure grave comme si elle avait débuté son repos long avec ses PV au maximum. De plus, en utilisant une seconde dose, elle bénéficie d’un avantage sur son jet de sauvegarde.
+
+**Alléger les souffrances (potion, 30 sous).** Cette décoction à base d’herbes apaisantes infusées et réduites permet de soulager les douleurs. Une dose mélangée avec un peu d’alcool permet à son bénéficiaire d’oublier la douleur pour un nombre d’heures égal à son bonus de maîtrise. S’il est sous le coup d’un désavantage suite à une blessure grave, il ne subit plus le désavantage pour cette durée.
+
+**Fortifiant (potion, 30 sous).** Cette décoction au goût amer, une fois bue, permet à son bénéficiaire de bénéficier d’un avantage aux jets de sauvegarde d’une caractéristique pendant un nombre d’heures égal à votre bonus de maîtrise. Vous devez choisir la caractéristique concernée au moment de préparer la décoction.
+
+**Panacée (potion, 50 sous).** Cette potion visqueuse et au goût peu ragoûtant est pourtant d’une redoutable efficacité. Administrée à une personne souffrant d’une maladie naturelle, elle permet de la soigner. La cible peut immédiatement effectuer un jet de sauvegarde de Constitution contre une difficulté correspondant à la virulence de la maladie (10 pour une maladie bénigne, 15 pour une maladie courante, 20 pour une maladie virulente, 25 pour une maladie mortelle). Ce jet de sauvegarde bénéficie d’un avantage. En cas de réussite, la maladie peut désormais être guérie. Cette guérison n’est cependant pas instantanée et demandera certainement plusieurs jours, voire plusieurs semaines. Une panacée ne peut pas soigner une maladie incurable. Vous devez choisir la maladie concernée par la panacée au moment de la concocter.
+
+**Repos du guerrier (onguent, 80 sous).** Cet onguent est particulièrement puissant. Appliqué sur le coeur avant un repos long, il permet de récupérer l’intégralité de ses dés de vie (et non la moitié de son maximum) à la fin du repos long. Il faut deux fois plus de temps afin de trouver les herbes nécessaires à sa préparation.
+
+**Somnifère (potion, 30 sous).** Cette décoction est parfois associée à un poison, même s’il ne s’agit que d’endormir la cible. Il est cependant toujours compliqué de l’administrer à une cible sans qu’elle ne s’en aperçoive. Elle doit être mélangée à des alcools forts et puissants afin de masquer son goût particulier et, surtout, son odeur caractéristique. Une cible peut effectuer un test de Sagesse (Perception) DD12 afin de se rendre compte de la présence du somnifère. Si le plat dans lequel il a été intégré est particulièrement épicé, ou l’alcool puissant, le jet s’effectue en subissant un désavantage. Si la cible ingère le somnifère, elle peut effectuer un jet de sauvegarde de Constitution d’une difficulté égale à [8 + votre modificateur d’Intelligence + votre bonus de maîtrise]. En cas d’échec, elle s’endort pour un nombre d’heures égal à votre bonus de maîtrise. Vous pouvez, au moment de préparer le somnifère, dépenser un point d’aspiration afin qu’aucun jet de sauvegarde ne soit permis.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Arts interdits<!--/Name--> (niveau 6)
+
+<!--Description-->
+
+La réputation de vos pairs est souvent ambiguë. D’un côté on vous admire pour vos dons, et de l’autre on vous craint. Tout le monde sait que vous cachez aussi de sombres secrets.
+
+Vous doublez désormais votre bonus de maîtrise lorsque vous utilisez le matériel d’herboriste. Vous obtenez aussi la maîtrise du matériel d’empoisonneur. Si vous disposiez déjà de cette maîtrise, vous doublez votre bonus de maîtrise aussi pour cet outil. De plus, vous bénéficiez d’un avantage afin de concocter, de percevoir ou de reconnaître le poison ou diverses décoctions.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Aura de confiance<!--/Name--> (niveau 10)
+
+<!--Description-->
+
+Votre art attire sur vous un oeil favorable et on vous fait facilement confiance. Vous pouvez faire en sorte qu’une personne avec laquelle vous interagissez et capable de vous comprendre vous considère de manière positive. Passez une minute à parler à votre interlocuteur et dépensez un point d’aspiration. Votre interlocuteur finit alors par vous voir d’un oeil bienveillant et vous considère comme une personne digne de confiance. Si la personne vous est hostile, vous devez effectuer un test de Charisme (Persuasion) dont le DD est de [8 + bonus de maîtrise de la cible + modificateur de Sagesse de la cible]. Si la personne vous est hostile au point de vouloir votre mort, vous subissez un désavantage sur votre test. La confiance que la personne vous accorde n’est pas celle d’un proche ou d’un confident et votre interlocuteur n’est pas charmé. Il vous voit juste comme quelqu’un ne lui voulant pas de mal.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Sommet de son art<!--/Name--> (niveau 14)
+
+<!--Description-->
+
+Vous pouvez désormais collecter suffisamment d’ingrédients afin de créer vos décoctions en une demi-heure au lieu d’une heure. De plus, si vous décidez de les acheter, en dépensant un point d’aspiration, vous pouvez marchander et en diviser le prix par deux.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--/SubClassItem-->
+
+
+<!--SubClassItem-->
+
+> <!--ParentNameLink-->[Archétypes de sage](class_wise_fr.md#archétypes-de-sage)<!--/ParentNameLink-->
+
+---
+
+# <!--Name-->Religieux<!--/Name-->
+
+- Alias: <!--AltName-->Priest (RPG p76)<!--/AltName-->
+- Source: <!--Source-->(JDR p76)<!--/Source-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Paroles divines<!--/Name--> (niveaux 3, 6, 10 et 14)
+
+<!--Description-->
+
+Vos mots sont porteurs de la puissance de Dieu et vous savez les manier afin d’aider ou de soulager son troupeau. Quel que soit votre niveau de foi, vous avez appris à transmettre votre ferveur et votre force de conviction, même dans les moments les plus difficiles pour vous, et les plus empreints de doute. Vous obtenez quatre dés de ferveur (des d8). Vous en obtenez un de plus au niveau 10, et un autre au niveau 14. Vos dés de ferveur peuvent être utilisés afin de mettre en oeuvre certaines capacités spéciales, appelées facultés, que vous octroient votre foi sans faille. Vous récupérez tous les dés de ferveur dépensés après chaque repos long.
+
+Certaines facultés nécessitent un jet de sauvegarde de la part de la cible. La difficulté de ce jet de sauvegarde est égale à [8 + votre bonus de maîtrise + votre modificateur de Charisme].
+
+Choisissez trois facultés dans la liste suivante. Vous en choisissez une nouvelle aux niveaux 6, 10 et 14.
+
+**Prière de repos.** Vos prières permettent à vos alliés de retrouver leurs forces et de les soulager. Lors d’un repos court, vous pouvez dépenser un dé de ferveur afin de permettre à tous les alliés qui prient avec vous de regagner un nombre de points de vie égal au résultat de ce dé. Alternativement, vous pouvez vous concentrer sur un unique allié : dépensez un dé de ferveur avant, puis après un repos long. Votre allié regagne un niveau d’épuisement supplémentaire.
+
+**La colère de Dieu.** Vos prières attirent l’ire de Dieu sur Ses ennemis. Dépensez un dé de ferveur et désignez un allié, puis utilisez votre action afin d’en appeler à la puissance de Dieu. Lors de sa prochaine attaque réussie, il pourra ajouter votre dé de ferveur à ses dégâts.
+
+**Le jugement de Dieu.** Nul ne peut mentir en la présence de Dieu. Utilisez votre action et dépensez un dé de ferveur, puis posez une question à un interlocuteur sous l’oeil attentif de Dieu. Ce dernier peut effectuer un jet de sauvegarde de Sagesse. Si l’information que vous demandez le met en danger, lui ou ses proches, il bénéficie d’un avantage à son jet de sauvegarde. En cas d’échec, votre interlocuteur vous répond le plus honnêtement possible, exprimant ce qu’il pense sincèrement être la vérité.
+
+**La main de Dieu.** Dieu a un plan pour chacun de nous. Dépensez une action bonus et un dé de ferveur en ciblant de vos prières un allié. Lors de son prochain test de caractéristique ou jet d’attaque, il pourra ajouter votre dé de ferveur à son d20.
+
+**La foi est mon bouclier.** La foi peut vous préserver de tous les maux. Quand vous ou un allié êtes touché par une attaque, vous pouvez dépenser votre réaction et un dé de ferveur et l’ajouter à votre CA ou à la CA de votre allié. Si cette dernière est supérieure au score d’attaque de l’adversaire, l’attaque ne touche finalement pas.
+
+**Feu sacré.** Vous savez inspirer le coeur des hommes. Utilisez votre action bonus et dépensez un dé de ferveur. Un allié que vous choisissez et qui est capable de vous entendre gagne immédiatement un nombre de points de vie temporaires égal au [résultat du dé de ferveur + votre modificateur de Charisme].
+
+**Bénédiction.** Ce que certains appellent « chance » n’est en réalité que la volonté de Dieu. Quand un allié doit effectuer un test de blessure, vous pouvez utiliser votre réaction et dépenser un dé de ferveur afin de réduire le dé de blessure d’un cran : un dé rouge devient noir, un dé noir devient blanc, un dé blanc devient jaune. Un dé jaune ne peut jamais être réduit, et un dé violet devient noir.
+
+**OEil pour oeil.** Quand vous subissez des dégâts à la suite d’une attaque, vous pouvez utiliser votre réaction et dépenser un dé de ferveur. Votre adversaire subit immédiatement des dégâts égaux au (résultat du dé de ferveur + votre modificateur de Charisme). Si le résultat dépasse son seuil de blessure, il subit un coup du sort : chute malencontreuse, pierre tombant sur son crâne. Jetez un dé jaune, quelle que soit son armure, afin de connaître la gravité de sa blessure.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Nul ne ment devant Dieu<!--/Name--> (niveau 6)
+
+<!--Description-->
+
+Votre ferveur rayonne avec une telle intensité que toute personne tentant de vous mentir subit un désavantage à ses tests de Charisme (Supercherie).
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Ferveur inébranlable<!--/Name--> (niveau 10)
+
+<!--Description-->
+
+Vos dés de ferveur deviennent des d10. De plus, vous bénéficiez d’un avantage afin de résister aux états terrorisé et charmé.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Ferveur suprême<!--/Name--> (niveau 14)
+
+<!--Description-->
+
+Vos dés de ferveur deviennent des d12. Vous récupérez un dé de ferveur dépensé à chaque repos court.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--/SubClassItem-->
+
+
+<!--SubClassItem-->
+
+> <!--ParentNameLink-->[Archétypes de sage](class_wise_fr.md#archétypes-de-sage)<!--/ParentNameLink-->
+
+---
+
+# <!--Name-->Savant<!--/Name-->
+
+- Alias: <!--AltName-->Scholar (RPG p77)<!--/AltName-->
+- Source: <!--Source-->(JDR p77)<!--/Source-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Domaine d’expertise<!--/Name--> (niveaux 3, 6, 10 et 14)
+
+<!--Description-->
+
+Vous avez étudié au point de pouvoir être considéré comme un parangon de connaissances dans votre domaine. Au niveau 3, choisissez une compétence parmi Histoire, Loi, Mystères, Nature, Sciences ou Théologie. Désormais, quand vous effectuez un test à l’aide de cette compétence, si vous obtenez moins de 10 sur le d20, ne prenez pas en compte ce résultat et considérez que le résultat du dé était 10. Choisissez une nouvelle compétence aux niveaux 6, 10 et 14.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Baragouin<!--/Name--> (niveau 3)
+
+<!--Description-->
+
+Vous avez étudié de multiples langues. Vous ne les maîtrisez pas vraiment mais vous savez vous débrouiller pour vous faire comprendre un peu partout. Ceci ne vous permet pas d’entretenir une conversation soutenue ou d’exposer des raisonnements complexes mais suffit à exprimer des idées basiques. Quand vous tentez d’interagir avec une personne ne parlant pas votre langue, vous bénéficiez d’un avantage sur vos tests de Charisme. De plus, quand vous avez la maîtrise d’une langue qui n’est pas la vôtre, vous la parlez avec tant d’aise qu’il devient impossible de détecter votre accent.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Pertinent<!--/Name--> (niveau 6)
+
+<!--Description-->
+
+Vous n’êtes peut-être pas un beau parleur, mais vous avez appris à imposer vos connaissances comme personne. Lorsque vous tentez de convaincre ou de tromper quelqu’un concernant l’un de vos domaines de connaissance (en rapport avec les compétences que vous maîtrisez parmi Histoire, Loi, Mystères, Nature, Sciences, Stratégie ou Théologie) et que vous devez effectuer un test de Charisme (Persuasion) ou Charisme (Supercherie), vous pouvez remplacer votre modificateur de Charisme par votre modificateur d’Intelligence.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Esprit pragmatique<!--/Name--> (niveau 10)
+
+<!--Description-->
+
+Vous bénéficiez d’un avantage aux jets de sauvegarde afin d’éviter d’être charmé aux jets de sauvegarde contre les illusions, mais aussi aux jets de sauvegarde de Pragmatisme.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Puits de savoir<!--/Name--> (niveau 10)
+
+<!--Description-->
+
+Vous avez emmagasiné tant de connaissances que vous semblez savoir tout sur tous les sujets. En dépensant un point de Pragmatisme, vous pouvez réussir automatiquement un test d’Histoire, Loi, Mystères, Nature, Sciences ou de Théologie. Vous ne pouvez cependant pas accéder à des secrets qui ne sont accessibles qu’à de rares initiés.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Pouvoir de la connaissance<!--/Name--> (niveau 14)
+
+<!--Description-->
+
+Vous savez faire profiter de vos connaissances théoriques à vos alliés. Choisissez une compétence (que vous ne maîtrisez pas forcément) et passez une minute à parler à vos alliés afin de leur exposer votre méthodologie. Dépensez un point de Pragmatisme. Durant les dix prochaines minutes, un maximum d’alliés égal à votre modificateur d’Intelligence capables de vous entendre et de vous comprendre possèdent la maîtrise de la compétence que vous avez choisie. Cette capacité ne s’applique pas aux armes, aux armures et aux jets de sauvegarde. Cependant, elle peut s’appliquer aux outils. Si vous désirez profiter aussi de cette capacité, vous devez dépenser un second point de pragmatisme.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--/SubClassItem-->
+
 <!--/ClassItem-->
 

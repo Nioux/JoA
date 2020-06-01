@@ -113,6 +113,6 @@ evolution_table:
       Aptitudes:
       - Influence supérieur
 id: class_scheming_fr.md#tableau-dévolution
-name: Tableau d'évolution
+title: Tableau d'évolution
 ---
 

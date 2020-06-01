@@ -1,6 +1,6 @@
 ---
 id: ritual_feats_fr.md#pouvoir-de-la-foi
-name: Pouvoir de la Foi
+title: Pouvoir de la Foi
 ---
 
 **Prérequis :** Foi 5+, ne pas disposer du don Arts occultes.

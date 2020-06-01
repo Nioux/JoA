@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#courtisan
-name: Courtisan
+title: Courtisan
 ---
 
 Vous avez l'éducation et les connaissances nécessaires pour vous comporter de façon appropriée parmi l'aristocratie et la noblesse.

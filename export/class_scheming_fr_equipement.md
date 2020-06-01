@@ -1,6 +1,6 @@
 ---
 id: class_scheming_fr.md#Équipement
-name: Équipement
+title: Équipement
 ---
 
 Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :

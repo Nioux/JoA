@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#archer
-name: Archer
+title: Archer
 ---
 
 Votre longue pratique du tir à l'arc vous procure les bénéfices suivants :

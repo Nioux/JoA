@@ -1,6 +1,6 @@
 ---
 id: group_talents_fr.md#villageois
-name: Villageois
+title: Villageois
 ---
 
 **Rumeurs locales.** Vous possédez une connaissance approfondie du folklore local et des diverses rumeurs qui courent ou ont couru par le passé dans la région. Vous vous remémorez certaines de ces rumeurs et regagnez tous 1 point de Superstition.

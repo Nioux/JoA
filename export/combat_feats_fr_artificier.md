@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#artificier
-name: Artificier
+title: Artificier
 ---
 
 Vous avez appris à utiliser les armes à poudre, une technique dangereuse et encore peu répandue.

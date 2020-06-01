@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#expert-en-armes-longues
-name: Expert en armes longues
+title: Expert en armes longues
 ---
 
 Vous êtes passé maître dans l'art d'attaquer vos ennemis de plus loin avec les armes pourvues d'un long manche. Lorsque vous utilisez une arme avec allonge :

@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#chevalier
-name: Chevalier
+title: Chevalier
 ---
 
 Vous avez appris les règles de la chevalerie et les subtilités du combat à dos de destrier. Vous pouvez chevaucher et contrôler un cheval de guerre lourd (voir profil au chapitre 18 Bestiaire, page 284). De plus lorsque vous montez un cheval de guerre (lourd ou non) :

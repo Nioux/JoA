@@ -1,6 +1,6 @@
 ---
 id: background_destitute_fr.md#défaut
-name: Défaut
+title: Défaut
 table:
   d6:
     1:

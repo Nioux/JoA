@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#expert-au-bouclier
-name: Expert au bouclier
+title: Expert au bouclier
 ---
 
 Votre bouclier est devenu un compagnon aussi fidèle que votre arme, vous avez d'ailleurs appris à vous en servir autant pour vous défendre que pour attaquer vos adversaires. Lorsque vous utilisez un bouclier dans une de vos mains :

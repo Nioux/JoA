@@ -1,5 +1,4 @@
 ---
-name: Slave oriental
 regions_of_origin:
 - Lituanie
 - Moscovie
@@ -17,6 +16,10 @@ aspirations:
 available_skills:
 - Dressage
 - Nature
+feature:
+  id: origins_fr.md#enfant-des-domovoi
+  title: Enfant des Domovoi
 id: origins_fr.md#slave-oriental
+title: Slave oriental
 ---
 

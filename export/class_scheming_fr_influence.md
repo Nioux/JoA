@@ -1,6 +1,6 @@
 ---
 id: class_scheming_fr.md#influence
-name: Influence
+title: Influence
 ---
 
 Votre force de conviction et votre art de la rhétorique vous permettent d’influencer les autres. Vous obtenez un nombre de points d’influence égal à votre modificateur de Charisme (minimum 1). Dépensez 1 point d’influence, utilisez une action bonus lors de votre tour et choisissez une créature autre que vous qui se trouve dans un rayon de 18 mètres et qui peut vous entendre. Cette créature gagne un dé d’influence, un d6.

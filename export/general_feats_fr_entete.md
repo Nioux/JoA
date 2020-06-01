@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#entêté
-name: Entêté
+title: Entêté
 ---
 
 Vous êtes mu par une volonté de fer et vous restez campé sur vos positions même dans les circonstances les plus défavorables.

@@ -1,6 +1,6 @@
 ---
 id: ritual_feats_fr.md#formules-alchimiques
-name: Formules alchimiques
+title: Formules alchimiques
 ---
 
 **Prérequis :** Pragmatisme 5+.

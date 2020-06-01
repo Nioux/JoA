@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#docte
-name: Docte
+title: Docte
 ---
 
 Comme une éponge, votre esprit est rompu à l'assimilation de nouvelles informations.

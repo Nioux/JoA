@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#maître-empoisonneur
-name: Maître empoisonneur
+title: Maître empoisonneur
 ---
 
 Vous êtes passé maître dans l'utilisation de ce que certains appellent « l'arme des lâches ».

@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#fervent
-name: Fervent
+title: Fervent
 ---
 
 Votre foi est puissante et inébranlable, même dans l'adversité.

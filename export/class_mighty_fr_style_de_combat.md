@@ -1,6 +1,6 @@
 ---
 id: class_mighty_fr.md#style-de-combat
-name: Style de combat
+title: Style de combat
 ---
 
 Vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l’une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat.

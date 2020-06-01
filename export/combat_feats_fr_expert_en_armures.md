@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#expert-en-armures
-name: Expert en armures
+title: Expert en armures
 ---
 
 Vous savez utiliser au mieux la protection que votre armure vous offre pour atténuer un coup.

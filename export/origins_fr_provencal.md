@@ -1,5 +1,4 @@
 ---
-name: Provençal
 regions_of_origin:
 - Corse
 - Ligurie
@@ -19,6 +18,10 @@ aspirations:
 available_skills:
 - Loi
 - Persuasion
+feature:
+  id: origins_fr.md#carrefour-des-populations
+  title: Carrefour des populations
 id: origins_fr.md#provençal
+title: Provençal
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#fantassin-léger
-name: Fantassin léger
+title: Fantassin léger
 ---
 
 Vous avez reçu une formation militaire supérieure à celles des autres individus de votre classe. Lorsque vous faites l'acquisition de ce don, choisissez deux bénéfices différents parmi les trois présentés ci-dessous.

@@ -1,6 +1,6 @@
 ---
 id: background_servant_fr.md#origine-sociale-de-lemployeur
-name: Origine sociale de l'employeur
+title: Origine sociale de l'employeur
 table:
   d6:
     1:

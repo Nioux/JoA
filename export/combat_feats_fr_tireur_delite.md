@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#tireur-délite
-name: Tireur d'élite
+title: Tireur d'élite
 ---
 
 Vous êtes un maître des armes à distance et nul n'est votre égal en ce domaine.

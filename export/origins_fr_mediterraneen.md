@@ -1,5 +1,4 @@
 ---
-name: Méditerranéen
 regions_of_origin:
 - Aragon
 - Languedoc
@@ -18,6 +17,10 @@ aspirations:
 available_skills:
 - Nature
 - Représentation
+feature:
+  id: origins_fr.md#peuple-de-la-mer
+  title: Peuple de la mer
 id: origins_fr.md#méditerranéen
+title: Méditerranéen
 ---
 

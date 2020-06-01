@@ -1,5 +1,4 @@
 ---
-name: Montagnard
 regions_of_origin:
 - Savoie
 - Suisse
@@ -17,6 +16,10 @@ aspirations:
 available_skills:
 - Athlétisme
 - Intimidation
+feature:
+  id: origins_fr.md#rigueurs-du-climat
+  title: Rigueurs du climat
 id: origins_fr.md#montagnard
+title: Montagnard
 ---
 

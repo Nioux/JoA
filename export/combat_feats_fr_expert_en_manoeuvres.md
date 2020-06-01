@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#expert-en-manoeuvres
-name: Expert en manoeuvres
+title: Expert en manoeuvres
 ---
 
 Vous avez étudié des méthodes alternatives pour remporter un combat en maîtrisant votre adversaire plutôt qu'en lui infligeant des blessures.

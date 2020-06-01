@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#maître-darmes
-name: Maître d'armes
+title: Maître d'armes
 ---
 
 Vous êtes un spécialiste incontesté du combat avec une arme spécifique. Choisissez une arme dans le tableau des armes. Lorsque vous utilisez ce type d'arme :

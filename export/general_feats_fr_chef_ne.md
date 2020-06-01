@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#chef-né
-name: Chef-né
+title: Chef-né
 ---
 
 Vous êtes un leader-né, vous savez trouver les mots justes pour redonner force et espoir et, à vos côtés, vos alliés donnent le meilleur d'eux-mêmes.

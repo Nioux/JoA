@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#expert-en-armes-de-jet
-name: Expert en armes de jet
+title: Expert en armes de jet
 ---
 
 Vous avez travaillé sans relâche votre maîtrise des armes de jet et vous êtes d'une précision légendaire.

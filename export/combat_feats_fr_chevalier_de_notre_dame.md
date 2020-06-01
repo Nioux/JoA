@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#chevalier-de-notre-dame
-name: Chevalier de Notre-Dame
+title: Chevalier de Notre-Dame
 ---
 
 Prérequis : alignement Bon

@@ -1,6 +1,6 @@
 ---
 id: background_destitute_fr.md#trait-de-personnalité
-name: Trait de personnalité
+title: Trait de personnalité
 table:
   d8:
     1:

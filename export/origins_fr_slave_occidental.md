@@ -1,5 +1,4 @@
 ---
-name: Slave occidental
 regions_of_origin:
 - Bohème
 - Mazovie
@@ -15,6 +14,10 @@ aspirations:
 available_skills:
 - Loi
 - Mystères
+feature:
+  id: origins_fr.md#humanisme
+  title: Humanisme
 id: origins_fr.md#slave-occidental
+title: Slave occidental
 ---
 

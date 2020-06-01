@@ -1,6 +1,6 @@
 ---
 id: class_wise_fr.md#indemne
-name: Indemne
+title: Indemne
 ---
 
 Lorsqu’une attaque est censée vous toucher vous pouvez utiliser votre réaction afin d’ajouter votre bonus de maîtrise à votre CA. Si cette dernière devient supérieure au résultat de l’attaque adverse, l’attaque ne vous touche finalement pas.

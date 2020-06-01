@@ -1,5 +1,4 @@
 ---
-name: Scandinave
 regions_of_origin:
 - Danemark
 - Islande
@@ -18,6 +17,10 @@ aspirations:
 available_skills:
 - Intimidation
 - Mystères
+feature:
+  id: origins_fr.md#héritier-des-vikings
+  title: Héritier des vikings
 id: origins_fr.md#scandinave
+title: Scandinave
 ---
 

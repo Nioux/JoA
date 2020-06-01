@@ -1,5 +1,4 @@
 ---
-name: Hanséatique
 regions_of_origin:
 - Brandebourg
 - Frise
@@ -21,6 +20,10 @@ aspirations:
 available_skills:
 - Perspicacité
 - Persuasion
+feature:
+  id: origins_fr.md#langage-du-commerce
+  title: Langage du commerce
 id: origins_fr.md#hanséatique
+title: Hanséatique
 ---
 

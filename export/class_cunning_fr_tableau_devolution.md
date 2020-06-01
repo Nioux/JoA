@@ -144,6 +144,6 @@ evolution_table:
       Aptitudes:
       - Coup de chance
 id: class_cunning_fr.md#tableau-dévolution
-name: Tableau d'évolution
+title: Tableau d'évolution
 ---
 

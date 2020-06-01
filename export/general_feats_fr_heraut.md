@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#héraut
-name: Héraut
+title: Héraut
 ---
 
 Vous possédez une connaissance poussée des armoiries et des lignées princières européennes, ainsi que des us et coutumes dans les diverses cours d'Europe.

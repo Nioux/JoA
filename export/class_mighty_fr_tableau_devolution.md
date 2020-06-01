@@ -103,6 +103,6 @@ evolution_table:
       Aptitudes:
       - Inspiration guerrière (4 attaques)
 id: class_mighty_fr.md#tableau-dévolution
-name: Tableau d'évolution
+title: Tableau d'évolution
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: group_talents_fr.md#ordre-ou-organisation
-name: Ordre ou organisation
+title: Ordre ou organisation
 ---
 
 **Des alliés dans chaque ville.** Votre organisation a tissé un réseau de contacts à travers l'Europe. Vous prenez contact avec l'un de ces alliés qui vous offre le gîte et le couvert pour la nuit. Selon les circonstances, il peut aussi se porter garant de vous auprès des autorités ou d'une figure de pouvoir locale. Si le service rendu est conséquent, le MJ peut vous imposer en retour une dette sous la forme d'une faveur ou d'une quête que le contact réclame en retour.

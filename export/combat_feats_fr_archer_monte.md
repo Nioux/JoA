@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#archer-monté
-name: Archer monté
+title: Archer monté
 ---
 
 Vous avez appris à tirer à l'arc depuis le dos d'une monture en mouvement et à utiliser ce mouvement en combat. Si vous êtes sur votre monture (contrôlée) et que vous n'êtes pas en armure lourde :

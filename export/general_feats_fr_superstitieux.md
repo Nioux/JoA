@@ -1,6 +1,6 @@
 ---
 id: general_feats_fr.md#superstitieux
-name: Superstitieux
+title: Superstitieux
 ---
 
 Vos croyances sont profondément enracinées en vous.

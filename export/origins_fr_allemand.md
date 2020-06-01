@@ -1,5 +1,4 @@
 ---
-name: Allemand
 regions_of_origin:
 - Autriche
 - Bade
@@ -25,6 +24,10 @@ aspirations:
 available_skills:
 - Loi
 - Théologie
+feature:
+  id: origins_fr.md#régionalisme
+  title: Régionalisme
 id: origins_fr.md#allemand
+title: Allemand
 ---
 

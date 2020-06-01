@@ -1,6 +1,6 @@
 ---
 id: background_acolyte_fr.md#défaut
-name: Défaut
+title: Défaut
 table:
   d6:
     1:

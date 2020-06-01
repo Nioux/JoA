@@ -1,6 +1,6 @@
 ---
 id: group_talents_fr.md#pèlerins
-name: Pèlerins
+title: Pèlerins
 ---
 
 **Dieu soit avec vous !** Vous élevez vos prières vers le ciel avec la conviction qu'elles recevront une réponse. Tous vos alliés présents regagnent 1 point de Foi.

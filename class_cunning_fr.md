@@ -279,4 +279,242 @@ Vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au
 
 <!--/GenericItem-->
 
+
+<!--SubClassItem-->
+
+> <!--ParentNameLink-->[Archétypes de débrouillard](class_cunning_fr.md#archétypes-de-débrouillard)<!--/ParentNameLink-->
+
+---
+
+# <!--Name-->Larron<!--/Name-->
+
+- Alias: <!--AltName-->Cutpurse (RPG p59)<!--/AltName-->
+- Source: <!--Source-->(JDR p59)<!--/Source-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Mains lestes<!--/Name--> (niveau 3)
+
+<!--Description-->
+
+Vous pouvez utiliser l’action bonus que vous permet votre aptitude Ruse pour faire un test de Dextérité (Escamotage), utiliser vos outils de voleurs pour désamorcer un piège ou crocheter une serrure, ou encore utiliser un objet.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Monte-en-l’air<!--/Name--> (niveau 3)
+
+<!--Description-->
+
+Vous obtenez la capacité d’escalader plus vite que la normale. Escalader ne vous coûte plus de déplacement supplémentaire. De plus, quand vous faites un saut avec élan, la distance à laquelle vous pouvez sauter est augmentée de [30 cm x votre modificateur de Dextérité].
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Furtivité suprême<!--/Name--> (niveau 9)
+
+<!--Description-->
+
+Vous bénéficiez d’un avantage sur vos tests de Dextérité (Discrétion) si vous ne vous déplacez pas de plus de la moitié de votre vitesse pendant un tour.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Immobilisation<!--/Name--> (niveau 13)
+
+<!--Description-->
+
+Vous avez appris à neutraliser vos cibles aussi rapidement que possible. Vous pouvez utiliser votre modificateur de Dextérité en ce qui concerne vos tests d’empoignade. De plus, si votre empoignade est couronnée de succès, et tant que votre cible est empoignée par vous, vous pouvez utiliser une action bonus pour l’attacher au moyen d’un bout de corde. Une fois attachée, la cible est entravée et ne peut se libérer qu’en réussissant un test de Force (Athlétisme) dont le DD est [8 + votre modificateur de Dextérité + votre bonus de maîtrise].
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Réflexes de voleur<!--/Name--> (niveau 17)
+
+<!--Description-->
+
+Vous êtes devenu particulièrement doué dans l’art de tendre une embuscade et de vous enfuir rapidement en cas de danger. Lors du premier round de chaque combat, vous pouvez jouer deux tours. Vous jouez votre premier tour en fonction de votre jet d’initiative normal et, pour savoir quand vous jouez votre second tour, vous utilisez votre résultat d’initiative moins 10. Vous ne pouvez pas utiliser cette aptitude si vous êtes surpris.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--/SubClassItem-->
+
+
+<!--SubClassItem-->
+
+> <!--ParentNameLink-->[Archétypes de débrouillard](class_cunning_fr.md#archétypes-de-débrouillard)<!--/ParentNameLink-->
+
+---
+
+# <!--Name-->Pisteur<!--/Name-->
+
+- Alias: <!--AltName-->Tracker (RPG p61)<!--/AltName-->
+- Source: <!--Source-->(JDR p60)<!--/Source-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Marque du chasseur<!--/Name--> (niveau 3 - repos court)
+
+<!--Description-->
+
+Si vous avez l’initiative sur une créature, vous pouvez utiliser votre action bonus pour la « marquer ». Jusqu’à votre prochain tour, tous vos alliés (mais pas vous) bénéficient d’un avantage lorsqu’ils la prennent pour cible avec l’action attaquer.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Pièges<!--/Name--> (niveau 3)
+
+<!--Description-->
+
+Lorsque vous êtes sur votre terrain de prédilection, vous êtes capable de piéger une zone de 3 mètres de côté en seulement 5 minutes. Toute créature qui s’apprête à entrer dans la zone piégée doit faire un test de Sagesse (Perception) pour détecter le piège. Le DD est de [8 + votre modificateur de Dextérité + votre bonus de maîtrise]. Vous pouvez choisir l’effet du piège parmi deux variantes :
+
+* **piège létal** (projectile, fosse, chausse-trappe, etc.). Inflige 1d6 dégâts par point de bonus de maîtrise. Si la victime réussit un jet de sauvegarde de Dextérité, elle ne subit que la moitié des dégâts;
+* **piège immobilisant** (filet, collet, liane, etc.). La victime est entravée pendant 2d6 rounds. À son tour, elle peut utiliser son action pour se délivrer en réussissant une sauvegarde de Force ou de Dextérité au choix. Le DD est le même que pour détecter le piège.
+
+Vous pouvez poser un piège en seulement 1d6 rounds, mais la victime bénéficie d’un avantage à son test de compétence pour le détecter. Si vous passez 1 heure à poser un piège, la victime subit un désavantage à son test pour le détecter et pour en réduire l’effet. Un piège qui a affecté une créature n’est plus actif. Il peut être réamorcé en seulement 1d6 rounds.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Avantage du terrain<!--/Name--> (niveau 9)
+
+<!--Description-->
+
+Lorsque vous êtes sur votre terrain de prédilection, vous obtenez les bénéfices supplémentaires suivants :
+
+* votre groupe ne peut plus être surpris (sauf si vous en décidez autrement);
+* vous bénéficiez d’un avantage en initiative;
+* vous bénéficiez d’un avantage à tous vos tests de Force (Athlétisme) et de Dextérité (Discrétion).
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Terrain favorable<!--/Name--> (niveau 13)
+
+<!--Description-->
+
+Lorsque vous êtes sur votre terrain de prédilection, vous obtenez les bénéfices supplémentaires suivants :
+
+* vous pouvez utiliser votre réaction pour obtenir au choix un avantage sur un test d’attaque ou imposer un désavantage à une attaque dont vous êtes la cible;
+* il vous faut seulement 10 minutes pour bénéficier des effets d’un repos court et 4 heures pour bénéficier des effets d’un repos long.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Tueur<!--/Name--> (niveau 17)
+
+<!--Description-->
+
+Lorsque vous marquez une cible, vous bénéficiez aussi d’un avantage lorsque vous la ciblez avec l’action attaquer. De plus, tous vos alliés bénéficient d’un d4 de dégâts supplémentaire si la première attaque qu’ils portent contre elle touche.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--/SubClassItem-->
+
+
+<!--SubClassItem-->
+
+> <!--ParentNameLink-->[Archétypes de débrouillard](class_cunning_fr.md#archétypes-de-débrouillard)<!--/ParentNameLink-->
+
+---
+
+# <!--Name-->Ruffian<!--/Name-->
+
+- Alias: <!--AltName-->Ruffian (RPG p60)<!--/AltName-->
+- Source: <!--Source-->(JDR p61)<!--/Source-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Regard noir<!--/Name--> (niveau 3 - repos court)
+
+<!--Description-->
+
+Vous pouvez ajouter à la fois votre modificateur de Charisme et de Force pour les tests de Charisme (Intimidation) et Charisme (Persuasion).
+
+De plus, vous pouvez utiliser une action bonus pour faire un test opposé de Charisme (Intimidation) contre le test de Sagesse (Perspicacité) d’une cible humanoïde à moins de 3 mètres de vous et qui peut vous voir. En cas de succès, la cible subit un désavantage à son prochain jet d’attaque ou d’opposition contre vous. Les créatures immunisées à l’état terrorisé sont immunisées à cette aptitude.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Dur à cuire<!--/Name--> (niveau 3)
+
+<!--Description-->
+
+Lorsque vous portez une armure de n’importe quel type, votre seuil de blessure est augmenté de 1. De plus, vous utilisez toujours au minimum le dé de blessure noir, même si vous ne portez pas d’armure.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Coup bas<!--/Name--> (niveau 9)
+
+<!--Description-->
+
+Lorsque vous utilisez l’action attaquer, vous pouvez effectuer en plus de votre attaque habituelle une attaque à mains nues ou à l’aide d’une arme improvisée (coup de tête, coup de genou ou du pommeau de l’arme, chope de bière, etc.) qui inflige 1d4 + votre modificateur de Force dégâts contondants (ou du type approprié dans le cas d’une arme improvisée).
+
+Le dé de dégât passe à 1d6 au niveau 13 et 1d8 au niveau 17. Ce dé de dégât est aussi utilisé pour vos autres attaques à mains nues ou avec une arme improvisée.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Flot de paroles<!--/Name--> (niveau 13)
+
+<!--Description-->
+
+Vous noyez votre interlocuteur sous un flot d’arguments et de paroles qui l’empêchent de prendre une décision éclairée. Vous pouvez dépenser un point d’aspiration pour remporter automatiquement tout test opposé qui implique un test de Charisme de votre part. La cible a bien le droit à une sauvegarde de l’aspiration choisie, mais dans le cas de cette aptitude, une réussite ne lui permet que de se rendre compte (trop tard) qu’elle s’est fait entourlouper.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--ClassFeatureItem-->
+
+## <!--Name-->Désorientation<!--/Name--> (niveau 17 - repos court)
+
+<!--Description-->
+
+Par une action bonus, vous accompagnez vos gestes sur le champ de bataille ou dans une situation plus ordinaire d’un torrent d’invectives ou de multiples insultes afin de déconcentrer vos ennemis. À l’exception de vos alliés, toutes les créatures dans un rayon de 15 mètres qui peuvent vous entendre subissent un désavantage à tous leurs tests de Perception, à leurs jets d’attaque et à leur initiative. Vous pouvez maintenir cet effet plus d’un tour, au prix d’une action bonus à chaque fois. Toutefois, une fois interrompu, il ne vous est pas possible de le déclencher à nouveau avant un repos court.
+
+<!--/Description-->
+
+<!--/ClassFeatureItem-->
+
+<!--/SubClassItem-->
+
 <!--/ClassItem-->

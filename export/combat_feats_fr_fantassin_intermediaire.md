@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#fantassin-intermédiaire
-name: Fantassin intermédiaire
+title: Fantassin intermédiaire
 ---
 
 Prérequis : maîtrise des armures légères

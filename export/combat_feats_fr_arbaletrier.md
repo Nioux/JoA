@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#arbalétrier
-name: Arbalétrier
+title: Arbalétrier
 ---
 
 Au cours de longues années de pratique, vous avez appris à transformer votre arbalète en un instrument de mort, même en combat rapproché.

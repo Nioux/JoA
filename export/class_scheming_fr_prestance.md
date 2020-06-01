@@ -1,6 +1,6 @@
 ---
 id: class_scheming_fr.md#prestance
-name: Prestance
+title: Prestance
 ---
 
 Vous savez comment convaincre vos adversaires qu’il serait bon de vous écouter et qu’il serait préjudiciable de vous attaquer, car vous ne représentez pas une menace (Persuasion) ou, au contraire, parce que cela comporterait trop de risques (Intimidation).

@@ -1,6 +1,6 @@
 ---
 id: combat_feats_fr.md#artilleur
-name: Artilleur
+title: Artilleur
 ---
 
 Vous êtes un maître artilleur habitué des armes de siège.
