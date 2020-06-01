@@ -1,4 +1,4 @@
-﻿---
+---
 name: Scandinave
 regions_of_origin:
 - Danemark

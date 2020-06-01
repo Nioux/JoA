@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#langage-du-commerce
 name: Langage du commerce
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#carrefour-des-populations
 name: Carrefour des populations
 ---

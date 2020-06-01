@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_scheming_fr.md#motiver-vos-alliés
 name: Motiver vos alliés
 ---

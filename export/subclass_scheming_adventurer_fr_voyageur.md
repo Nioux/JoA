@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_adventurer_fr.md#voyageur
 name: Voyageur
 ---

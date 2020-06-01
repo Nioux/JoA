@@ -1,4 +1,4 @@
-﻿---
+---
 id: ritual_feats_fr.md#arts-occultes
 name: Arts occultes
 ---

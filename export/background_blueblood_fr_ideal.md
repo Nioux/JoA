@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_blueblood_fr.md#idéal
 name: Idéal
 table:

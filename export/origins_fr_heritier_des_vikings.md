@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#héritier-des-vikings
 name: Héritier des vikings
 ---

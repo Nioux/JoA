@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_mighty_leader_fr.md#motiver-les-troupes
 name: Motiver les troupes
 ---

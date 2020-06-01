@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_soldier_fr.md#aptitude--frères-darmes
 name: "Aptitude : Frères d'armes"
 ---

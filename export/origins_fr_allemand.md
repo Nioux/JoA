@@ -1,4 +1,4 @@
-﻿---
+---
 name: Allemand
 regions_of_origin:
 - Autriche

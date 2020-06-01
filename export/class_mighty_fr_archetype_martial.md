@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_mighty_fr.md#archétype-martial
 name: Archétype martial
 ---

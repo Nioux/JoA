@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_mighty_fr.md#dur-au-mal
 name: Dur au mal
 ---

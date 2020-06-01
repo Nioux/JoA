@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Persuasion](abilities_charisma_hd.md#persuasion) ou [Représentation](abilities_charisma_hd.md#représentation) ou [Supercherie](abilities_charisma_hd.md#supercherie), [Survie](abilities_wisdom_hd.md#survie).'
 mastered_tools: véhicules (terrestres) ou véhicules (marins).
 mastered_languages: une langue au choix, à l’oral seulement.

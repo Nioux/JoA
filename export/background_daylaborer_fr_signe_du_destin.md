@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_daylaborer_fr.md#signe-du-destin
 name: Signe du destin
 table:

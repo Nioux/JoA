@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Mystères] ou [Nature](abilities_intelligence_hd.md#nature) ou [Théologie], [Survie](abilities_wisdom_hd.md#survie).'
 mastered_tools: deux ensembles d’outils d’artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.
 equipment: tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 sous.

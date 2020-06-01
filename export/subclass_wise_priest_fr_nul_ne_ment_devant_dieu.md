@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_wise_priest_fr.md#nul-ne-ment-devant-dieu
 name: Nul ne ment devant Dieu
 ---

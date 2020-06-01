@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_mighty_fr.md#homme-darmes
 name: Homme d'armes
 alt_name: Mighty (RPG p62)

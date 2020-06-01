@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_blueblood_fr.md#aptitude--de-la-haute
 name: 'Aptitude : De la haute'
 ---

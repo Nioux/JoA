@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_mighty_fr.md#dépassement-de-soi
 name: Dépassement de soi
 ---

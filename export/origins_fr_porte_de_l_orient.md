@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#porte-de-l’orient
 name: Porte de l’Orient
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_mighty_fr.md#sursaut-d’activité
 name: Sursaut d’activité
 ---

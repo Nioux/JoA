@@ -1,4 +1,4 @@
-﻿---
+---
 name: Méditerranéen
 regions_of_origin:
 - Aragon

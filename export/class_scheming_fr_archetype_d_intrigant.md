@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_scheming_fr.md#archétype-d’intrigant
 name: Archétype d’intrigant
 ---

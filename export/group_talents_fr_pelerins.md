@@ -1,4 +1,4 @@
-﻿---
+---
 id: group_talents_fr.md#pèlerins
 name: Pèlerins
 ---

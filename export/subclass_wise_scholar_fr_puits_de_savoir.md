@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_wise_scholar_fr.md#puits-de-savoir
 name: Puits de savoir
 ---

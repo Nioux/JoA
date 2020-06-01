@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_guildmember_fr.md#spécialité
 name: Spécialité
 table:

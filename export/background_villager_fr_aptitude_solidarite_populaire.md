@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_villager_fr.md#aptitude--solidarité-populaire
 name: 'Aptitude : Solidarité populaire'
 ---

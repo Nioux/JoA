@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Stratégie] ou [Théologie], [Commandement] ou [Étiquette].'
 mastered_tools: véhicules (terrestres).
 mastered_languages: une langue au choix, à l’oral seulement. De plus, le personnage sait écrire sa langue natale.

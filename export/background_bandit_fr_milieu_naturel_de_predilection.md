@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_bandit_fr.md#milieu-naturel-de-prédilection
 name: Milieu naturel de prédilection
 ---

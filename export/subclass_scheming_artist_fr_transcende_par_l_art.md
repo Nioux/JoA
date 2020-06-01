@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_artist_fr.md#transcendé-par-l’art
 name: Transcendé par l’art
 ---

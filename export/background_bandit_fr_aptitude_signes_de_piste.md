@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_bandit_fr.md#aptitude--signes-de-piste
 name: 'Aptitude : Signes de piste'
 ---

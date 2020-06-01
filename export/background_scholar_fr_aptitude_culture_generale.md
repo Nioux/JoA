@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_scholar_fr.md#aptitude--culture-générale
 name: 'Aptitude : Culture générale'
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_adventurer_fr.md#chef-d’expédition
 name: Chef d’expédition
 ---

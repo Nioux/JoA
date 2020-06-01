@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#convaincu-de-sa-supériorité
 name: Convaincu de sa supériorité
 ---

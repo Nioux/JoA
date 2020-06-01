@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Discrétion](abilities_dexterity_hd.md#discrétion), [Perspicacité](abilities_wisdom_hd.md#perspicacité).'
 mastered_tools: outils de tisserand.
 mastered_languages: une langue au choix, à l’oral seulement.

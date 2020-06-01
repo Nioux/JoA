@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_lawman_fr.md#défaut
 name: Défaut
 table:

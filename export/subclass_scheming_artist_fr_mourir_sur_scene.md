@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_artist_fr.md#mourir-sur-scène
 name: Mourir sur scène
 ---

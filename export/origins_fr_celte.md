@@ -1,4 +1,4 @@
-﻿---
+---
 name: Celte
 regions_of_origin:
 - Bretagne

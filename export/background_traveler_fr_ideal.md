@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_traveler_fr.md#idéal
 name: Idéal
 table:

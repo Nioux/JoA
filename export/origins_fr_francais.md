@@ -1,4 +1,4 @@
-﻿---
+---
 name: Français
 regions_of_origin:
 - Anjou

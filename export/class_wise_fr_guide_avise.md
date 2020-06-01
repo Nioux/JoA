@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_wise_fr.md#guide-avisé
 name: Guide avisé
 ---

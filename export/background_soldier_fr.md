@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Athlétisme](abilities_strength_hd.md#athlétisme) ou [Dressage](abilities_wisdom_hd.md#dressage), [Guerre].'
 mastered_tools: véhicules (terrestres), un type de jeu au choix.
 equipment: couverture, habits courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, bourse contenant 15 sous.

@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_adventurer_fr.md#compétences-élargies
 name: Compétences élargies
 ---

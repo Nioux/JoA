@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_conspirator_fr.md#outils-peu-recommandables
 name: Outils peu recommandables
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_traveler_fr.md#aptitude--voyageur
 name: 'Aptitude : Voyageur'
 ---

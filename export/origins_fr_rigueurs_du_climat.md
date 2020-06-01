@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#rigueurs-du-climat
 name: Rigueurs du climat
 ---

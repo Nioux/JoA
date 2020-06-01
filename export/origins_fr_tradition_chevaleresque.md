@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#tradition-chevaleresque
 name: Tradition chevaleresque
 ---

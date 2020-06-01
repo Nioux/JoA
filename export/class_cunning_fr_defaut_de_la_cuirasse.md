@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_cunning_fr.md#défaut-de-la-cuirasse
 name: Défaut de la cuirasse
 ---

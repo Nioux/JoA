@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_wise_healer_fr.md#sommet-de-son-art
 name: Sommet de son art
 ---

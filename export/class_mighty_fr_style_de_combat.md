@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_mighty_fr.md#style-de-combat
 name: Style de combat
 ---

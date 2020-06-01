@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_cunning_ruffian_fr.md#flot-de-paroles
 name: Flot de paroles
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 name: Montagnard
 regions_of_origin:
 - Savoie

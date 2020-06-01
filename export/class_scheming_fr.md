@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_scheming_fr.md#intrigant
 name: Intrigant
 alt_name: Scheming (RPG p67)

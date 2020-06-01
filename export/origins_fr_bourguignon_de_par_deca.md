@@ -1,4 +1,4 @@
-﻿---
+---
 name: Bourguignon de par-deçà
 regions_of_origin:
 - Artois

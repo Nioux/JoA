@@ -1,4 +1,4 @@
-﻿---
+---
 name: Slave méridional
 regions_of_origin:
 - Bosnie

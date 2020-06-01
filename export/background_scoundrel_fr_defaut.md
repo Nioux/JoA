@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_scoundrel_fr.md#défaut
 name: Défaut
 table:

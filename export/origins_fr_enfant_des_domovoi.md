@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#enfant-des-domovoi
 name: Enfant des Domovoi
 ---

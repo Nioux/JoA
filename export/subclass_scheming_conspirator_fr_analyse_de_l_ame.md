@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_conspirator_fr.md#analyse-de-l’âme
 name: Analyse de l’âme
 ---

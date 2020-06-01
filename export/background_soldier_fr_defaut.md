@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_soldier_fr.md#défaut
 name: Défaut
 table:

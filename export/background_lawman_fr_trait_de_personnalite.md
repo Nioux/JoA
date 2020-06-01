@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_lawman_fr.md#trait-de-personnalité
 name: Trait de personnalité
 table:

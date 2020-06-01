@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_daylaborer_fr.md#aptitude--communauté
 name: 'Aptitude : Communauté'
 ---

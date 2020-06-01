@@ -1,4 +1,4 @@
-﻿---
+---
 armor: toutes les armures, boucliers
 weapons: armes courantes, armes de guerre
 tools: aucun

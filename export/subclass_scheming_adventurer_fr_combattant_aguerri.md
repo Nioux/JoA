@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_adventurer_fr.md#combattant-aguerri
 name: Combattant aguerri
 ---

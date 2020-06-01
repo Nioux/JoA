@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_mighty_expert_fr.md#style-de-combat-de-prédilection
 name: Style de combat de prédilection
 ---

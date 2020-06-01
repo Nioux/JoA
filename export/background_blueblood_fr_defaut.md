@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_blueblood_fr.md#défaut
 name: Défaut
 table:

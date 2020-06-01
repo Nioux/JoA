@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_conspirator_fr.md#attaque-en-traître
 name: Attaque en traître
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 name: Anglo-Normand
 regions_of_origin:
 - Angleterre

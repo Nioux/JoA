@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_acolyte_fr.md#défaut
 name: Défaut
 table:

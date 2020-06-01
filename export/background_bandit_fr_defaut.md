@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_bandit_fr.md#défaut
 name: Défaut
 table:

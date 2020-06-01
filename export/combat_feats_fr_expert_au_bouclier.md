@@ -1,4 +1,4 @@
-﻿---
+---
 id: combat_feats_fr.md#expert-au-bouclier
 name: Expert au bouclier
 ---

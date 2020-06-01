@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_mighty_leader_fr.md#cri-de-ralliement
 name: Cri de ralliement
 ---

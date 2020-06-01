@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#lutte-contre-l’hérésie
 name: Lutte contre l’hérésie
 ---

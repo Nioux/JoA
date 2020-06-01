@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Athlétisme](abilities_strength_hd.md#athlétisme), [Escamotage](abilities_dexterity_hd.md#escamotage) ou [Intimidation].'
 mastered_tools: 'un type de jeu au choix, un ensemble d’outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.'
 equipment: habits courants, outre de vin, ensemble d’outils dépendant de son métier, pot en fer, lettres de recommandation d’anciens employeurs, bourse contenant 10 sous.

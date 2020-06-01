@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Discrétion](abilities_dexterity_hd.md#discrétion) ou [Intimidation](abilities_charisma_hd.md#intimidation), [Survie](abilities_wisdom_hd.md#survie).'
 mastered_tools: véhicules (terrestres), un type de jeu au choix.
 equipment: couverture de mauvaise qualité, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d’eau, bourse contenant 10 sous.

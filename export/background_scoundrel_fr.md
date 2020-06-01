@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Escamotage](abilities_dexterity_hd.md#escamotage), [Intimidation](abilities_charisma_hd.md#intimidation) ou [Supercherie](abilities_charisma_hd.md#supercherie).'
 mastered_tools: outils de voleur, un type de jeu au choix.
 equipment: vêtements discrets, dont une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 sous.

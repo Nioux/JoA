@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#humanisme
 name: Humanisme
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 id: ritual_feats_fr.md#formules-alchimiques
 name: Formules alchimiques
 ---

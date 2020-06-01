@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_cunning_fr.md#archétype-de-débrouillard
 name: Archétype de débrouillard
 ---

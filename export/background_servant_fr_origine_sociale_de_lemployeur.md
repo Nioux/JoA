@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_servant_fr.md#origine-sociale-de-lemployeur
 name: Origine sociale de l'employeur
 table:

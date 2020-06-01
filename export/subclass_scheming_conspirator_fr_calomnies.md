@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_conspirator_fr.md#calomnies
 name: Calomnies
 ---

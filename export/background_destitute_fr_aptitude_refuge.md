@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_destitute_fr.md#aptitude--refuge
 name: 'Aptitude : Refuge'
 ---

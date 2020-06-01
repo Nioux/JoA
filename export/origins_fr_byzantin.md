@@ -1,4 +1,4 @@
-﻿---
+---
 name: Byzantin
 regions_of_origin:
 - Chypre

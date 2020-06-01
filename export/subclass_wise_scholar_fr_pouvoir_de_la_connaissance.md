@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_wise_scholar_fr.md#pouvoir-de-la-connaissance
 name: Pouvoir de la connaissance
 ---

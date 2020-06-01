@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_mighty_expert_fr.md#arme-de-prédilection
 name: Arme de prédilection
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 id: combat_feats_fr.md#chevalier-de-saint-georges
 name: Chevalier de Saint-Georges
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 evolution_table:
   Niveau:
     1:

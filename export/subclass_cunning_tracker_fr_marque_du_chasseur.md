@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_cunning_tracker_fr.md#marque-du-chasseur
 name: Marque du chasseur
 ---

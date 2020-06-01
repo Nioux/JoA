@@ -1,4 +1,4 @@
-﻿---
+---
 id: general_feats_fr.md#boiteux
 name: Boiteux
 ---

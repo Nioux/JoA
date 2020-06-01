@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_guildmember_fr.md#aptitude--réseau-de-guilde
 name: 'Aptitude : Réseau de guilde'
 ---

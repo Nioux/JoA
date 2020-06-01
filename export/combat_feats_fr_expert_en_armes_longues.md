@@ -1,4 +1,4 @@
-﻿---
+---
 id: combat_feats_fr.md#expert-en-armes-longues
 name: Expert en armes longues
 ---

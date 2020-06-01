@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_mighty_leader_fr.md#inspiration-collective
 name: Inspiration collective
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_wise_healer_fr.md#décoctions-secrètes
 name: Décoctions secrètes
 ---

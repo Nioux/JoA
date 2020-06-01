@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_cunning_fr.md#coup-de-chance
 name: Coup de chance
 ---

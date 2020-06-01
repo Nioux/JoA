@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_wise_fr.md#sage
 name: Sage
 alt_name: Wise (RPG p72)

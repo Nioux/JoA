@@ -1,4 +1,4 @@
-﻿---
+---
 id: combat_feats_fr.md#expert-en-armes-doubles
 name: Expert en armes doubles
 ---

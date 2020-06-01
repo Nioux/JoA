@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_cunning_fr.md#esquive-instinctive
 name: Esquive instinctive
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_wise_scholar_fr.md#baragouin
 name: Baragouin
 ---

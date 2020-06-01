@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_mighty_bold_fr.md#sans-peur
 name: Sans peur
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 id: combat_feats_fr.md#expert-en-armes-de-jet
 name: Expert en armes de jet
 ---

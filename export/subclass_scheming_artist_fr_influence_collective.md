@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_artist_fr.md#influence-collective
 name: Influence collective
 ---

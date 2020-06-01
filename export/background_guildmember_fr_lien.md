@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_guildmember_fr.md#lien
 name: Lien
 table:

@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_mighty_expert_fr.md#blessures-vitales
 name: Blessures vitales
 ---

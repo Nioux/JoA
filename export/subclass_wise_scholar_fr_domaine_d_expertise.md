@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_wise_scholar_fr.md#domaine-d’expertise
 name: Domaine d’expertise
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 name: Hongrois
 regions_of_origin:
 - Bosnie

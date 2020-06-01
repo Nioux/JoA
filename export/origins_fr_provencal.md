@@ -1,4 +1,4 @@
-﻿---
+---
 name: Provençal
 regions_of_origin:
 - Corse

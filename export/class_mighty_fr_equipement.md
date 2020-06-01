@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_mighty_fr.md#Équipement
 name: Équipement
 ---

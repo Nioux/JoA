@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_scholar_fr.md#domaine-détudes
 name: Domaine d'études
 table:

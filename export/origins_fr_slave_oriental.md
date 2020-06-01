@@ -1,4 +1,4 @@
-﻿---
+---
 name: Slave oriental
 regions_of_origin:
 - Lituanie

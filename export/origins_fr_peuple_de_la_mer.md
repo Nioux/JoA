@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#peuple-de-la-mer
 name: Peuple de la mer
 ---

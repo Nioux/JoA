@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_cunning_cutpurse_fr.md#immobilisation
 name: Immobilisation
 ---

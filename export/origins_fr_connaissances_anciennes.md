@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#connaissances-anciennes
 name: Connaissances anciennes
 ---

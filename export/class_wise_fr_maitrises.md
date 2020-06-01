@@ -1,4 +1,4 @@
-﻿---
+---
 armor: aucune
 weapons: armes courantes
 tools: deux ensembles d’outils au choix parmi le matériel d’empoisonneur, le matériel d’herboriste, le matériel de calligraphie, les outils de cartographe, les accessoires de faussaire, le matériel de peintre et le matériel d’alchimiste

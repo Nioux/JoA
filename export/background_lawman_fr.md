@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Investigation](abilities_intelligence_hd.md#investigation) ou [Persuasion](abilities_charisma_hd.md#persuasion), [Loi].'
 mastered_tools: matériel de calligraphie, véhicules (terrestres).
 mastered_languages: Le personnage sait écrire sa langue natale.

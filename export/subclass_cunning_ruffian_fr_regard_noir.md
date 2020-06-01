@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_cunning_ruffian_fr.md#regard-noir
 name: Regard noir
 ---

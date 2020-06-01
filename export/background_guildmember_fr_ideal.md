@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_guildmember_fr.md#idéal
 name: Idéal
 table:

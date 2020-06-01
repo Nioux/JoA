@@ -1,4 +1,4 @@
-﻿---
+---
 armor: armures légères
 weapons: armes courantes, épée longue
 tools: aucun

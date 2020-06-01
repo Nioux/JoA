@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#fils-et-filles-de-l’Église
 name: Fils et filles de l’Église
 ---

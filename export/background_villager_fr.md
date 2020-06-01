@@ -1,4 +1,4 @@
-﻿---
+---
 mastered_tools: véhicules (terrestres), un ensemble d’outils d’artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.
 equipment: ensemble d’outils d’artisan, vêtements courants, objet hérité de l’un de vos parents et dont la valeur est sentimentale, bourse contenant 10 sous.
 id: background_villager_fr.md#villageois

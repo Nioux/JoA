@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_cunning_fr.md#langage-codé
 name: Langage codé
 ---

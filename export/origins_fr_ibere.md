@@ -1,4 +1,4 @@
-﻿---
+---
 name: Ibère
 regions_of_origin:
 - Asturies

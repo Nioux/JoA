@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_cunning_cutpurse_fr.md#monte-en-l’air
 name: Monte-en-l’air
 ---

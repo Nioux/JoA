@@ -1,4 +1,4 @@
-﻿---
+---
 name: Hanséatique
 regions_of_origin:
 - Brandebourg

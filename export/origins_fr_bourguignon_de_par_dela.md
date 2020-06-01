@@ -1,4 +1,4 @@
-﻿---
+---
 name: Bourguignon de par-delà
 regions_of_origin:
 - Bourgogne

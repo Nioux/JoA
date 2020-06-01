@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_servant_fr.md#défaut
 name: Défaut
 table:

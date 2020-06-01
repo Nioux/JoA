@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_loner_fr.md#idéal
 name: Idéal
 table:

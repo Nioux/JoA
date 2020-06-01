@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_lawman_fr.md#aptitude--position-dautorité
 name: "Aptitude : Position d'autorité"
 ---

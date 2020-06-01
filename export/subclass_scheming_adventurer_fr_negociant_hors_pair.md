@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_adventurer_fr.md#négociant-hors-pair
 name: Négociant hors pair
 ---

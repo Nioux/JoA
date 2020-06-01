@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_scheming_conspirator_fr.md#secrets-d’alcôves
 name: Secrets d’alcôves
 ---

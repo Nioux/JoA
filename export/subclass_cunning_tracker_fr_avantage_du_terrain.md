@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_cunning_tracker_fr.md#avantage-du-terrain
 name: Avantage du terrain
 ---

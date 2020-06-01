@@ -1,4 +1,4 @@
-﻿---
+---
 name: Teutonique
 regions_of_origin:
 - Courlande

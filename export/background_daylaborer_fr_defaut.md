@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_daylaborer_fr.md#défaut
 name: Défaut
 table:

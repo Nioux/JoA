@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Discrétion](abilities_dexterity_hd.md#discrétion) ou [Supercherie](abilities_charisma_hd.md#supercherie), [Escamotage](abilities_dexterity_hd.md#escamotage).'
 mastered_tools: un type de jeu au choix, outils de voleur.
 equipment: couverture de mauvaise qualité, vêtements courants, paquet de cartes ou dés, bourse contenant 5 sous.

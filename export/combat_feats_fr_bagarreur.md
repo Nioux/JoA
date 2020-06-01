@@ -1,4 +1,4 @@
-﻿---
+---
 id: combat_feats_fr.md#bagarreur
 name: Bagarreur
 ---

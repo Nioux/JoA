@@ -1,4 +1,4 @@
-﻿---
+---
 id: ritual_feats_fr.md#pouvoir-de-la-foi
 name: Pouvoir de la Foi
 ---

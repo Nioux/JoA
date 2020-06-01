@@ -1,4 +1,4 @@
-﻿---
+---
 name: Maure
 regions_of_origin:
 - Grenade

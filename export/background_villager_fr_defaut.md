@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_villager_fr.md#défaut
 name: Défaut
 table:

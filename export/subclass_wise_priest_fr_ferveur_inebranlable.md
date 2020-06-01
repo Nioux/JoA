@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_wise_priest_fr.md#ferveur-inébranlable
 name: Ferveur inébranlable
 ---

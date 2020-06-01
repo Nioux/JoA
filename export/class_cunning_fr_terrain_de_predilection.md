@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_cunning_fr.md#terrain-de-prédilection
 name: Terrain de prédilection
 ---

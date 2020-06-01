@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_scheming_fr.md#force-intérieure
 name: Force intérieure
 ---

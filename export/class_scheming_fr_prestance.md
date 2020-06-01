@@ -1,4 +1,4 @@
-﻿---
+---
 id: class_scheming_fr.md#prestance
 name: Prestance
 ---

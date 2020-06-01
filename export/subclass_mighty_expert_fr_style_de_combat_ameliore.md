@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_mighty_expert_fr.md#style-de-combat-amélioré
 name: Style de combat amélioré
 ---

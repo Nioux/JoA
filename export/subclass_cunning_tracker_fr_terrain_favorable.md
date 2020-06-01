@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_cunning_tracker_fr.md#terrain-favorable
 name: Terrain favorable
 ---

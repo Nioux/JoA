@@ -1,4 +1,4 @@
-﻿---
+---
 name: Slave occidental
 regions_of_origin:
 - Bohème

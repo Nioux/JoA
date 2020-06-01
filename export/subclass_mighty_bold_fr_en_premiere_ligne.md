@@ -1,4 +1,4 @@
-﻿---
+---
 id: subclass_mighty_bold_fr.md#en-première-ligne
 name: En première ligne
 ---

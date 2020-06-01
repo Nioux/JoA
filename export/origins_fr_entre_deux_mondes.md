@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#entre-deux-mondes
 name: Entre deux mondes
 ---

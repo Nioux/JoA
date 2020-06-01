@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_destitute_fr.md#trait-de-personnalité
 name: Trait de personnalité
 table:

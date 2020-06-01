@@ -1,4 +1,4 @@
-﻿---
+---
 skill_proficiencies: '[Loi] ou [Sciences], [Perspicacité](abilities_wisdom_hd.md#perspicacité) ou [Persuasion](abilities_charisma_hd.md#persuasion).'
 mastered_tools: deux ensembles d’outils d’artisan au choix.
 mastered_languages: le personnage sait écrire sa langue natale. De plus il peut remplacer l’un des ensembles d’outils d’artisan par une langue supplémentaire (à l’oral), y compris une langue provenant d’une autre région.

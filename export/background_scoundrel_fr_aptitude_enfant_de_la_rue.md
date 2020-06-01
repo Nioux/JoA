@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_scoundrel_fr.md#aptitude--enfant-de-la-rue
 name: 'Aptitude : Enfant de la rue'
 ---

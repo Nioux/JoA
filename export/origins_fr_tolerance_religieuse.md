@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#tolérance-religieuse
 name: Tolérance religieuse
 ---

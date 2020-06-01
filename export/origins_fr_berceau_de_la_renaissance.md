@@ -1,4 +1,4 @@
-﻿---
+---
 id: origins_fr.md#berceau-de-la-renaissance
 name: Berceau de la Renaissance
 ---

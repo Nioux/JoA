@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_loner_fr.md#aptitude--besoin-de-personne
 name: 'Aptitude : Besoin de personne'
 ---

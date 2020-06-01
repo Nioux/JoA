@@ -1,4 +1,4 @@
-﻿---
+---
 id: background_acolyte_fr.md#aptitude--liturgie
 name: 'Aptitude : Liturgie'
 ---
