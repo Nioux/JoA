@@ -1,4 +1,8 @@
 ---
+id: class_scheming_fr.md#artiste
+title: Artiste
+alias: Artist (RPG p69)
+source: (JDR p69)
 features:
 - id: class_scheming_fr.md#comédien-accompli
   title: Comédien accompli
@@ -8,9 +12,5 @@ features:
   title: Transcendé par l’art
 - id: class_scheming_fr.md#influence-collective
   title: Influence collective
-id: class_scheming_fr.md#artiste
-title: Artiste
-alt_name: Artist (RPG p69)
-source: (JDR p69)
 ---
 

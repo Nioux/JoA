@@ -1,4 +1,6 @@
 ---
+id: origins_fr.md#hanséatique
+title: Hanséatique
 regions_of_origin:
 - Brandebourg
 - Frise
@@ -15,15 +17,18 @@ main_languages:
 - vieux frison
 - vieux slave oriental
 aspirations:
-- Pragmatisme +1
-- Superstition +1
+- name: Pragmatisme
+  value: +1
+- name: Superstition
+  value: +1
+aspirations2:
+  Pragmatisme: +1
+  Superstition: +1
 available_skills:
 - Perspicacité
 - Persuasion
 feature:
   id: origins_fr.md#langage-du-commerce
   title: Langage du commerce
-id: origins_fr.md#hanséatique
-title: Hanséatique
 ---
 

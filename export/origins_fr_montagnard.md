@@ -1,4 +1,6 @@
 ---
+id: origins_fr.md#montagnard
+title: Montagnard
 regions_of_origin:
 - Savoie
 - Suisse
@@ -11,15 +13,18 @@ main_languages:
 - occitan
 - piémontais
 aspirations:
-- Pragmatisme +1
-- Superstition +1
+- name: Pragmatisme
+  value: +1
+- name: Superstition
+  value: +1
+aspirations2:
+  Pragmatisme: +1
+  Superstition: +1
 available_skills:
 - Athlétisme
 - Intimidation
 feature:
   id: origins_fr.md#rigueurs-du-climat
   title: Rigueurs du climat
-id: origins_fr.md#montagnard
-title: Montagnard
 ---
 

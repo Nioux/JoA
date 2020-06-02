@@ -1,4 +1,8 @@
 ---
+id: class_scheming_fr.md#intrigant
+title: Intrigant
+alias: Scheming (RPG p67)
+source: (JDR p67)
 hit_points:
   hit_dice: 1d8 par niveau d’intrigant
   hit_points_at1st_level: 8 + votre modificateur de Constitution
@@ -156,7 +160,11 @@ features:
 - id: class_scheming_fr.md#influence-supérieure
   title: Influence supérieure
 sub_classes:
-- features:
+- id: class_scheming_fr.md#artiste
+  title: Artiste
+  alias: Artist (RPG p69)
+  source: (JDR p69)
+  features:
   - id: class_scheming_fr.md#comédien-accompli
     title: Comédien accompli
   - id: class_scheming_fr.md#mourir-sur-scène
@@ -165,11 +173,11 @@ sub_classes:
     title: Transcendé par l’art
   - id: class_scheming_fr.md#influence-collective
     title: Influence collective
-  id: class_scheming_fr.md#artiste
-  title: Artiste
-  alt_name: Artist (RPG p69)
-  source: (JDR p69)
-- features:
+- id: class_scheming_fr.md#aventurier
+  title: Aventurier
+  alias: Adventurer (RPG p69)
+  source: (JDR p70)
+  features:
   - id: class_scheming_fr.md#compétences-élargies
     title: Compétences élargies
   - id: class_scheming_fr.md#négociant-hors-pair
@@ -182,11 +190,11 @@ sub_classes:
     title: Combattant aguerri
   - id: class_scheming_fr.md#chef-d’expédition
     title: Chef d’expédition
-  id: class_scheming_fr.md#aventurier
-  title: Aventurier
-  alt_name: Adventurer (RPG p69)
+- id: class_scheming_fr.md#comploteur
+  title: Comploteur
+  alias: Conspirator (RPG p69)
   source: (JDR p70)
-- features:
+  features:
   - id: class_scheming_fr.md#secrets-d’alcôves
     title: Secrets d’alcôves
   - id: class_scheming_fr.md#outils-peu-recommandables
@@ -197,14 +205,6 @@ sub_classes:
     title: Attaque en traître
   - id: class_scheming_fr.md#calomnies
     title: Calomnies
-  id: class_scheming_fr.md#comploteur
-  title: Comploteur
-  alt_name: Conspirator (RPG p69)
-  source: (JDR p70)
-id: class_scheming_fr.md#intrigant
-title: Intrigant
-alt_name: Scheming (RPG p67)
-source: (JDR p67)
 ---
 
 En tant qu’intrigant, vous bénéficiez des aptitudes de classe suivantes.

@@ -1,4 +1,8 @@
 ---
+id: class_cunning_fr.md#pisteur
+title: Pisteur
+alias: Tracker (RPG p61)
+source: (JDR p60)
 features:
 - id: class_cunning_fr.md#marque-du-chasseur
   title: Marque du chasseur
@@ -10,9 +14,5 @@ features:
   title: Terrain favorable
 - id: class_cunning_fr.md#tueur
   title: Tueur
-id: class_cunning_fr.md#pisteur
-title: Pisteur
-alt_name: Tracker (RPG p61)
-source: (JDR p60)
 ---
 

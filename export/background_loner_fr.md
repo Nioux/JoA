@@ -1,7 +1,23 @@
 ---
-skill_proficiencies: '[Mystères] ou [Nature](abilities_intelligence_hd.md#nature) ou [Théologie], [Survie](abilities_wisdom_hd.md#survie).'
+id: background_loner_fr.md#solitaire
+title: Solitaire
+alias: Loner
+source: (JDR p53)
+skill_proficiencies:
+  and:
+  - or:
+    - Mystères
+    - Nature
+    - Théologie
+  - Survie
 mastered_tools: deux ensembles d’outils d’artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.
-equipment: tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 sous.
+equipment:
+- tenue de voyageur
+- couverture
+- boîte à amadou
+- bout de bois taillé ou pierre étrange portée comme un talisman
+- matériel de pêche
+- bourse contenant 10 sous
 feature:
   id: background_loner_fr.md#aptitude--besoin-de-personne
   title: 'Aptitude : Besoin de personne'
@@ -77,10 +93,6 @@ flaw:
         Défaut: Je prends parfois des risques inconsidérés par simple curiosité.
       6:
         Défaut: Quand je reviens à la civilisation, j'ai tendance à m'abandonner aux plaisirs qu'elle m'offre. Un peu trop, parfois.
-id: background_loner_fr.md#solitaire
-title: Solitaire
-alt_name: '[Loner](background_loner_en.md) (RPG p48)'
-source: (JDR p53)
 ---
 
 Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé à vous éloigner, mais dans tous les cas, vous aimez l’espace et la solitude. Les foules vous dérangent et vous préférez compter sur vous-même pour votre propre survie, loin de tous. Au moins, là, personne ne vient vous déranger.

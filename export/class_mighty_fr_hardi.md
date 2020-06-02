@@ -1,4 +1,8 @@
 ---
+id: class_mighty_fr.md#hardi
+title: Hardi
+alias: Bold (RPG p63)
+source: (JDR p65)
 features:
 - id: class_mighty_fr.md#en-première-ligne
   title: En première ligne
@@ -10,9 +14,5 @@ features:
   title: Sans reproche
 - id: class_mighty_fr.md#sans-douleur
   title: Sans douleur
-id: class_mighty_fr.md#hardi
-title: Hardi
-alt_name: Bold (RPG p63)
-source: (JDR p65)
 ---
 

@@ -1,4 +1,8 @@
 ---
+id: class_scheming_fr.md#aventurier
+title: Aventurier
+alias: Adventurer (RPG p69)
+source: (JDR p70)
 features:
 - id: class_scheming_fr.md#compétences-élargies
   title: Compétences élargies
@@ -12,9 +16,5 @@ features:
   title: Combattant aguerri
 - id: class_scheming_fr.md#chef-d’expédition
   title: Chef d’expédition
-id: class_scheming_fr.md#aventurier
-title: Aventurier
-alt_name: Adventurer (RPG p69)
-source: (JDR p70)
 ---
 

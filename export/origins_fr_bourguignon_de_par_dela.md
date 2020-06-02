@@ -1,4 +1,6 @@
 ---
+id: origins_fr.md#bourguignon-de-par-delà
+title: Bourguignon de par-delà
 regions_of_origin:
 - Bourgogne
 - Charolais
@@ -9,15 +11,18 @@ main_languages:
 - alémanique
 - français
 aspirations:
-- Foi +1
-- Pragmatisme +1
+- name: Foi
+  value: +1
+- name: Pragmatisme
+  value: +1
+aspirations2:
+  Foi: +1
+  Pragmatisme: +1
 available_skills:
 - Commandement
 - Histoire
 feature:
   id: origins_fr.md#opportunisme
   title: Opportunisme
-id: origins_fr.md#bourguignon-de-par-delà
-title: Bourguignon de par-delà
 ---
 

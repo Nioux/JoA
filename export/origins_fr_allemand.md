@@ -1,4 +1,6 @@
 ---
+id: origins_fr.md#allemand
+title: Allemand
 regions_of_origin:
 - Autriche
 - Bade
@@ -19,15 +21,18 @@ main_languages:
 - bavarois
 - haut allemand
 aspirations:
-- Pragmatisme +1
-- Superstition +1
+- name: Pragmatisme
+  value: +1
+- name: Superstition
+  value: +1
+aspirations2:
+  Pragmatisme: +1
+  Superstition: +1
 available_skills:
 - Loi
 - Théologie
 feature:
   id: origins_fr.md#régionalisme
   title: Régionalisme
-id: origins_fr.md#allemand
-title: Allemand
 ---
 

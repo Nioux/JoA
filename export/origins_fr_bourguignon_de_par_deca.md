@@ -1,4 +1,6 @@
 ---
+id: origins_fr.md#bourguignon-de-par-deçà
+title: Bourguignon de par-deçà
 regions_of_origin:
 - Artois
 - Brabant
@@ -15,14 +17,15 @@ main_languages:
 - thiois
 - vieux frison
 aspirations:
-- Pragmatisme +2
+- name: Pragmatisme
+  value: +2
+aspirations2:
+  Pragmatisme: +2
 available_skills:
 - Loi
 - Perspicacité
 feature:
   id: origins_fr.md#esprit-rebelle
   title: Esprit rebelle
-id: origins_fr.md#bourguignon-de-par-deçà
-title: Bourguignon de par-deçà
 ---
 

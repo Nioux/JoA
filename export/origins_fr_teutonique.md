@@ -1,4 +1,6 @@
 ---
+id: origins_fr.md#teutonique
+title: Teutonique
 regions_of_origin:
 - Courlande
 - Estonie
@@ -11,15 +13,18 @@ main_languages:
 - vieux prussien
 - vieux slave oriental
 aspirations:
-- Foi +1
-- Pragmatisme +1
+- name: Foi
+  value: +1
+- name: Pragmatisme
+  value: +1
+aspirations2:
+  Foi: +1
+  Pragmatisme: +1
 available_skills:
 - Histoire
 - Stratégie
 feature:
   id: origins_fr.md#tradition-chevaleresque
   title: Tradition chevaleresque
-id: origins_fr.md#teutonique
-title: Teutonique
 ---
 

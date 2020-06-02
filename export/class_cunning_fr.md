@@ -1,4 +1,8 @@
 ---
+id: class_cunning_fr.md#débrouillard
+title: Débrouillard
+alias: Cunning (RPG p57)
+source: (JDR p57)
 hit_points:
   hit_dice: 1d8 par niveau de débrouillard
   hit_points_at1st_level: 8 + votre modificateur de Constitution
@@ -193,7 +197,11 @@ features:
 - id: class_cunning_fr.md#coup-de-chance
   title: Coup de chance
 sub_classes:
-- features:
+- id: class_cunning_fr.md#larron
+  title: Larron
+  alias: Cutpurse (RPG p59)
+  source: (JDR p59)
+  features:
   - id: class_cunning_fr.md#mains-lestes
     title: Mains lestes
   - id: class_cunning_fr.md#monte-en-l’air
@@ -204,11 +212,11 @@ sub_classes:
     title: Immobilisation
   - id: class_cunning_fr.md#réflexes-de-voleur
     title: Réflexes de voleur
-  id: class_cunning_fr.md#larron
-  title: Larron
-  alt_name: Cutpurse (RPG p59)
-  source: (JDR p59)
-- features:
+- id: class_cunning_fr.md#pisteur
+  title: Pisteur
+  alias: Tracker (RPG p61)
+  source: (JDR p60)
+  features:
   - id: class_cunning_fr.md#marque-du-chasseur
     title: Marque du chasseur
   - id: class_cunning_fr.md#pièges
@@ -219,11 +227,11 @@ sub_classes:
     title: Terrain favorable
   - id: class_cunning_fr.md#tueur
     title: Tueur
-  id: class_cunning_fr.md#pisteur
-  title: Pisteur
-  alt_name: Tracker (RPG p61)
-  source: (JDR p60)
-- features:
+- id: class_cunning_fr.md#ruffian
+  title: Ruffian
+  alias: Ruffian (RPG p60)
+  source: (JDR p61)
+  features:
   - id: class_cunning_fr.md#regard-noir
     title: Regard noir
   - id: class_cunning_fr.md#dur-à-cuire
@@ -234,14 +242,6 @@ sub_classes:
     title: Flot de paroles
   - id: class_cunning_fr.md#désorientation
     title: Désorientation
-  id: class_cunning_fr.md#ruffian
-  title: Ruffian
-  alt_name: Ruffian (RPG p60)
-  source: (JDR p61)
-id: class_cunning_fr.md#débrouillard
-title: Débrouillard
-alt_name: Cunning (RPG p57)
-source: (JDR p57)
 ---
 
 En tant que débrouillard, vous bénéficiez des aptitudes de classe suivantes.

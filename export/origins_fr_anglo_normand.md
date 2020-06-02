@@ -1,4 +1,6 @@
 ---
+id: origins_fr.md#anglo-normand
+title: Anglo-Normand
 regions_of_origin:
 - Angleterre
 - Normandie
@@ -10,15 +12,18 @@ main_languages:
 - anglo-normand
 - français
 aspirations:
-- Foi +1
-- Pragmatisme +1
+- name: Foi
+  value: +1
+- name: Pragmatisme
+  value: +1
+aspirations2:
+  Foi: +1
+  Pragmatisme: +1
 available_skills:
 - Histoire
 - Persuasion
 feature:
   id: origins_fr.md#convaincu-de-sa-supériorité
   title: Convaincu de sa supériorité
-id: origins_fr.md#anglo-normand
-title: Anglo-Normand
 ---
 

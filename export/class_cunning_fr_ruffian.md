@@ -1,4 +1,8 @@
 ---
+id: class_cunning_fr.md#ruffian
+title: Ruffian
+alias: Ruffian (RPG p60)
+source: (JDR p61)
 features:
 - id: class_cunning_fr.md#regard-noir
   title: Regard noir
@@ -10,9 +14,5 @@ features:
   title: Flot de paroles
 - id: class_cunning_fr.md#désorientation
   title: Désorientation
-id: class_cunning_fr.md#ruffian
-title: Ruffian
-alt_name: Ruffian (RPG p60)
-source: (JDR p61)
 ---
 

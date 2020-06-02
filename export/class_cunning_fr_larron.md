@@ -1,4 +1,8 @@
 ---
+id: class_cunning_fr.md#larron
+title: Larron
+alias: Cutpurse (RPG p59)
+source: (JDR p59)
 features:
 - id: class_cunning_fr.md#mains-lestes
   title: Mains lestes
@@ -10,9 +14,5 @@ features:
   title: Immobilisation
 - id: class_cunning_fr.md#réflexes-de-voleur
   title: Réflexes de voleur
-id: class_cunning_fr.md#larron
-title: Larron
-alt_name: Cutpurse (RPG p59)
-source: (JDR p59)
 ---
 

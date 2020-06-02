@@ -1,7 +1,20 @@
 ---
-skill_proficiencies: '[Discrétion](abilities_dexterity_hd.md#discrétion) ou [Supercherie](abilities_charisma_hd.md#supercherie), [Escamotage](abilities_dexterity_hd.md#escamotage).'
+id: background_destitute_fr.md#miséreux
+title: Miséreux
+alias: Destitute
+source: (JDR p50)
+skill_proficiencies:
+  and:
+  - or:
+    - Discrétion
+    - Supercherie
+  - Escamotage
 mastered_tools: un type de jeu au choix, outils de voleur.
-equipment: couverture de mauvaise qualité, vêtements courants, paquet de cartes ou dés, bourse contenant 5 sous.
+equipment:
+- couverture de mauvaise qualité
+- vêtements courants
+- paquet de cartes ou dés
+- bourse contenant 5 sous
 feature:
   id: background_destitute_fr.md#aptitude--refuge
   title: 'Aptitude : Refuge'
@@ -77,10 +90,6 @@ flaw:
         Défaut: "Je déteste que l'on se repose sur moi : la vie, c'est chacun pour soi."
       6:
         Défaut: J'ai découvert des pâtisseries sucrées qui sont pour moi un véritable trésor.
-id: background_destitute_fr.md#miséreux
-title: Miséreux
-alt_name: '[Destitute](background_destitute_en.md) (RPG p42)'
-source: (JDR p50)
 ---
 
 La vie de miséreux est une lutte permanente pour la survie, dans un environnement aussi hostile que la pire des batailles. Nombre d’entre eux sont affectés par des troubles physiques ou mentaux, mais les quelques-uns qui parviennent à s’en sortir le font grâce à un courage et une force de caractère exemplaires.

@@ -1,4 +1,8 @@
 ---
+id: class_wise_fr.md#sage
+title: Sage
+alias: Wise (RPG p72)
+source: (JDR p72)
 hit_points:
   hit_dice: 1d6 par niveau de sage
   hit_points_at1st_level: 6 + votre modificateur de Constitution
@@ -152,7 +156,11 @@ features:
 - id: class_wise_fr.md#perfection
   title: Perfection
 sub_classes:
-- features:
+- id: class_wise_fr.md#guérisseur
+  title: Guérisseur
+  alias: Healer (RPG p74)
+  source: (JDR p74)
+  features:
   - id: class_wise_fr.md#décoctions-secrètes
     title: Décoctions secrètes
   - id: class_wise_fr.md#arts-interdits
@@ -161,11 +169,11 @@ sub_classes:
     title: Aura de confiance
   - id: class_wise_fr.md#sommet-de-son-art
     title: Sommet de son art
-  id: class_wise_fr.md#guérisseur
-  title: Guérisseur
-  alt_name: Healer (RPG p74)
-  source: (JDR p74)
-- features:
+- id: class_wise_fr.md#religieux
+  title: Religieux
+  alias: Priest (RPG p76)
+  source: (JDR p76)
+  features:
   - id: class_wise_fr.md#paroles-divines
     title: Paroles divines
   - id: class_wise_fr.md#nul-ne-ment-devant-dieu
@@ -174,11 +182,11 @@ sub_classes:
     title: Ferveur inébranlable
   - id: class_wise_fr.md#ferveur-suprême
     title: Ferveur suprême
-  id: class_wise_fr.md#religieux
-  title: Religieux
-  alt_name: Priest (RPG p76)
-  source: (JDR p76)
-- features:
+- id: class_wise_fr.md#savant
+  title: Savant
+  alias: Scholar (RPG p77)
+  source: (JDR p77)
+  features:
   - id: class_wise_fr.md#domaine-d’expertise
     title: Domaine d’expertise
   - id: class_wise_fr.md#baragouin
@@ -191,14 +199,6 @@ sub_classes:
     title: Puits de savoir
   - id: class_wise_fr.md#pouvoir-de-la-connaissance
     title: Pouvoir de la connaissance
-  id: class_wise_fr.md#savant
-  title: Savant
-  alt_name: Scholar (RPG p77)
-  source: (JDR p77)
-id: class_wise_fr.md#sage
-title: Sage
-alt_name: Wise (RPG p72)
-source: (JDR p72)
 ---
 
 En tant que sage, vous bénéficiez des aptitudes de classe suivantes.

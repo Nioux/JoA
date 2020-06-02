@@ -1,4 +1,6 @@
 ---
+id: origins_fr.md#celte
+title: Celte
 regions_of_origin:
 - Bretagne
 - Cornouailles
@@ -14,14 +16,15 @@ main_languages:
 - gaélique
 - irlandais
 aspirations:
-- Superstition +2
+- name: Superstition
+  value: +2
+aspirations2:
+  Superstition: +2
 available_skills:
 - Mystères
 - Survie
 feature:
   id: origins_fr.md#connaissances-anciennes
   title: Connaissances anciennes
-id: origins_fr.md#celte
-title: Celte
 ---
 

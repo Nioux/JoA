@@ -1,7 +1,21 @@
 ---
-skill_proficiencies: '[Escamotage](abilities_dexterity_hd.md#escamotage), [Intimidation](abilities_charisma_hd.md#intimidation) ou [Supercherie](abilities_charisma_hd.md#supercherie).'
+id: background_scoundrel_fr.md#crapule
+title: Crapule
+alias: Scoundrel
+source: (JDR p38)
+skill_proficiencies:
+  and:
+  - Escamotage
+  - or:
+    - Intimidation
+    - Supercherie
 mastered_tools: outils de voleur, un type de jeu au choix.
-equipment: vêtements discrets, dont une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 sous.
+equipment:
+- vêtements discrets
+- dont une capuche
+- quelques chausse-trappes
+- objet brillant mais de peu de valeur volé il y a longtemps à une personne importante
+- bourse contenant 10 sous
 feature:
   id: background_scoundrel_fr.md#aptitude--enfant-de-la-rue
   title: 'Aptitude : Enfant de la rue'
@@ -77,10 +91,6 @@ flaw:
         Défaut: La curiosité est un vilain défaut, et je suis beaucoup trop curieux.
       6:
         Défaut: Je me sens coupable d'un acte terrible qui est advenu par ma faute. Je veux me racheter à tout prix.
-id: background_scoundrel_fr.md#crapule
-title: Crapule
-alt_name: '[Scoundrel](background_scoundrel_en.md) (RPG p50)'
-source: (JDR p38)
 ---
 
 Vous avez toujours vécu dans ces milieux interlopes que l’on nomme souvent les bas-fonds. Cette vie passée vous a profondément marqué : vous savez désormais que la fin justifie parfois les moyens, et que les idéaux ne résistent pas toujours face à la dureté de la vie. Vous l’avez appris, certainement au prix fort. Et pourtant, vous en êtes ressorti grandi d’une manière ou d’une autre.
